@@ -3,6 +3,10 @@
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
 
+**📊 Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 165k
+
+**🔥 Trending Skills:** kubernetes, docker, aws, terraform, jenkins
+
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
@@ -10,7 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-| **[Software Mind](https://softwaremind.com)** | **[[CMI] Senior Cloud DevOps Engineer (AWS)](https://jobs.smartrecruiters.com/SoftwareMind/744000081252866--cmi-senior-cloud-devops-engineer-aws-)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Sep 11 |
+| **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Senior Cloud DevOps Engineer (AWS)](https://jobs.smartrecruiters.com/SoftwareMind/744000081252866--cmi-senior-cloud-devops-engineer-aws-)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Sep 11 |
 | **[DNAnexus](https://www.dnanexus.com)** | **[DevOps Engineer (DataOps)](https://jobs.smartrecruiters.com/DNAnexus/744000081249880-devops-engineer-dataops-)** | Prague, Prague, Czechia | On Site | Sep 11 |
 | **[KPN](https://www.kpn.com)** | **[DevOps Engineer Netwerk Tooling](https://jobs.smartrecruiters.com/KPN/744000081246525-devops-engineer-netwerk-tooling)** | Rotterdam, ZH, Netherlands | On Site | Sep 11 |
 | **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Senior Devops Engineer](https://jci.wd5.myworkdayjobs.com/en-US/JCI_Confidential/job/Johnson-Controls-India-COEE1/Senior-Devops-Engineer_WD30247886-3)** | Johnson Controls India COEE1 | On Site | Sep 11 |
@@ -52,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Milestone Systems](https://milestonesys.com/)** | **[DevOps Engineer](https://fa-ewto-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/24197)** | Copenhagen, Denmark | On Site | Sep 10 |
 | **[InnoWave](https://innowave.tech/)** | **[Senior Cloud DevOps Engineer (Hybrid)](https://innowave-workforce.freshteam.com/jobs/WmqFvfTYhl8m/senior-cloud-devops-engineer-hybrid)** | Lisbon, Lisbon, Portugal | On Site | Sep 10 |
 | **[QinetiQ US](https://www.qinetiq.com/en-us)** | **[DevOps Engineer](https://careers-qinetiqus.icims.com/jobs/11335/devops-engineer/job?in_iframe=1)** | Herndon, VA, United States | On Site | Sep 10 |
-| **[SEB](https://sebgroup.com/)** | **[DevOps Engineer for Kafka Platform | SEB, Vilnius](https://jobs.eu.lever.co/seb/da1f4223-ee92-4702-bc52-9f28ea290d9b)** | Vilnius | On Site | Sep 10 |
+| **[SEB](https://sebgroup.com/)** | **[DevOps Engineer for Kafka Platform \| SEB, Vilnius](https://jobs.eu.lever.co/seb/da1f4223-ee92-4702-bc52-9f28ea290d9b)** | Vilnius | On Site | Sep 10 |
 | **[ALTEN](https://www.alten.com/)** | **[Cloud / DevOps Engineer (all gender)](https://jobs.smartrecruiters.com/ALTEN/744000080946197-cloud-devops-engineer-all-gender-)** | Munich, BY, Germany | On Site | Sep 10 |
 | **[Gorilla Logic](https://gorillalogic.com/)** | **[Senior DevOps Engineer (GCP)](https://jobs.lever.co/gorillalogic/9d933b84-17e9-4d6a-bd67-dd7fc4aaadba)** | Remote, Colombia | Remote | Sep 10 |
 | **[Gorilla Logic](https://gorillalogic.com/)** | **[Senior DevOps Engineer (Azure)](https://jobs.lever.co/gorillalogic/ee10165e-4b17-4b68-89a4-6e929f9c62e2)** | Remote, Colombia | Remote | Sep 10 |
