@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[Software Mind](https://softwaremind.com)** | **[[CMI] Senior Cloud DevOps Engineer (AWS)](https://jobs.smartrecruiters.com/SoftwareMind/744000081252866--cmi-senior-cloud-devops-engineer-aws-)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Sep 11 |
 | **[DNAnexus](https://www.dnanexus.com)** | **[DevOps Engineer (DataOps)](https://jobs.smartrecruiters.com/DNAnexus/744000081249880-devops-engineer-dataops-)** | Prague, Prague, Czechia | On Site | Sep 11 |
 | **[KPN](https://www.kpn.com)** | **[DevOps Engineer Netwerk Tooling](https://jobs.smartrecruiters.com/KPN/744000081246525-devops-engineer-netwerk-tooling)** | Rotterdam, ZH, Netherlands | On Site | Sep 11 |
