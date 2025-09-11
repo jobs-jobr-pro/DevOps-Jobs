@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[AllCloud](https://allcloud.io/)** | **[Senior DevOps Engineer](https://allcloud.io/careers/co/israel/6B.C59/senior-devops-engineer/all/)** | Ra'anana, Center District, IL | On Site | Sep 11 |
 | **[KPN](https://www.kpn.com)** | **[DevOps Engineer Netwerk Tooling](https://jobs.smartrecruiters.com/KPN/744000081289485-devops-engineer-netwerk-tooling)** | Rotterdam, ZH, Netherlands | On Site | Sep 11 |
 | **[Verisk](https://www.verisk.com/)** | **[DevOps Engineer](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2235)** | Norwich, Norfolk, United Kingdom | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)**
+<!-- prettier-ignore-end -->
