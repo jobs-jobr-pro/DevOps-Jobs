@@ -1,13 +1,16 @@
 # Devops engineer Jobs 2025
 
-Daily updated Devops engineer opportunities. Curated by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs) - the AI platform that finds and applies to jobs for you.
+This repository collects curated **Devops engineer opportunities in 2025**.  
+Updated daily by [Jobr.pro](https://jobr.pro).
 
----
+Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
+Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[Software Mind](https://softwaremind.com)** | **[[CMI] Senior Cloud DevOps Engineer (AWS)](https://jobs.smartrecruiters.com/SoftwareMind/744000081252866--cmi-senior-cloud-devops-engineer-aws-)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Sep 11 |
 | **[DNAnexus](https://www.dnanexus.com)** | **[DevOps Engineer (DataOps)](https://jobs.smartrecruiters.com/DNAnexus/744000081249880-devops-engineer-dataops-)** | Prague, Prague, Czechia | On Site | Sep 11 |
 | **[KPN](https://www.kpn.com)** | **[DevOps Engineer Netwerk Tooling](https://jobs.smartrecruiters.com/KPN/744000081246525-devops-engineer-netwerk-tooling)** | Rotterdam, ZH, Netherlands | On Site | Sep 11 |
@@ -59,15 +62,12 @@ Daily updated Devops engineer opportunities. Curated by [Jobr.pro](https://jobr.
 | **[Whiteboard Federal](https://whiteboardfederal.com/)** | **[DevOps Engineer (Clearance Required)](https://job-boards.greenhouse.io/whiteboardfederal/jobs/6503560)** | Chantilly, Herndon, Reston, McLean | On Site | Sep 10 |
 | **[Anton Paar](https://www.anton-paar.com)** | **[DevOps Engineer (w/m/d)](https://jobs.smartrecruiters.com/AntonPaar1/744000080935635-devops-engineer-w-m-d-)** | Graz, Styria, Austria | On Site | Sep 10 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Devops engineer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Devops engineer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Devops engineer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -78,6 +78,7 @@ This repository tracks current Devops engineer positions from companies across d
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -86,8 +87,8 @@ This repository tracks current Devops engineer positions from companies across d
 
 This repository gets consistent traffic from Devops engineer professionals actively job searching. The audience is pre-qualified and specifically interested in Devops engineer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)**
