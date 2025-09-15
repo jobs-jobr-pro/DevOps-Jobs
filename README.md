@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 02:20 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,13 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff DevOps Engineer (Protect AI Platform)](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000081893135-sr-staff-devops-engineer-protect-ai-platform-)** | Seattle, WA, United States | On Site | Sep 14 |
 | **[Virtusa](https://www.virtusa.com/)** | **[DevOps Engineer](https://virtusa.taleo.net/careersection/ex/jobdetail.ftl?job=CREQ232840)** | CA-ON-Toronto | On Site | Sep 13 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Senior DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-DevOps-Engineer/312014)** | Jacksonville, Florida, United States | On Site | Sep 13 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Platform/DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Platform-DevOps-Engineer/312020)** | Gilbert, Arizona, United States; Lake Mary, Florida, United States; Mechanicsburg, Pennsylvania, United States | On Site | Sep 13 |
 | **[Capgemini](https://www.capgemini.com)** | **[Lead DevOps Engineer](https://careers.capgemini.com/job/Toulouse-Lead-DevOps-Engineer/1194795101/)** | Toulouse, FR | On Site | Sep 13 |
 | **[Goods & Services](https://www.goodsandservices.com/)** | **[Senior DevOps Engineer (PowerShell - Cloud)](https://job-boards.greenhouse.io/goodsservices/jobs/7252892003)** | Mexico-Remote; Colombia-Remote | Remote | Sep 13 |
-| **[Capgemini](https://www.capgemini.com)** | **[Devops Engineer Forgrock \| 4 to 6 Years \| Hyderabad](https://careers.capgemini.com/job/Hyderabad-Devops-Engineer-Forgrock-4-to-6-Years-Hyderabad/1247309301/)** | Hyderabad, IN | On Site | Sep 13 |
 | **[Capgemini](https://www.capgemini.com)** | **[Container Apps Devops Engineer \| 4 to 6 Years \| Chennai & Bangalore](https://careers.capgemini.com/job/Chennai-%28ex-Madras%29-Container-Apps-Devops-Engineer-4-to-6-Years-Chennai-&-Bangalore/1247309801/)** | Chennai (ex Madras), IN | On Site | Sep 13 |
+| **[Capgemini](https://www.capgemini.com)** | **[Devops Engineer Forgrock \| 4 to 6 Years \| Hyderabad](https://careers.capgemini.com/job/Hyderabad-Devops-Engineer-Forgrock-4-to-6-Years-Hyderabad/1247309301/)** | Hyderabad, IN | On Site | Sep 13 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/4920085008)** | Washington, DC | On Site | Sep 12 |
 | **[Integrity Technology Consultants](https://www.seekintegrity.com/)** | **[DevOps Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3571345)** | Annapolis Junction, MD, US | On Site | Sep 12 |
 | **[EllisDon](https://www.ellisdon.com/)** | **[AS/400 System Admin (DevOps Engineer)](https://recruiting.ultipro.ca/ELL5000/JobBoard/fa7dd324-0b16-f8cb-f544-f46b499e5db7/OpportunityDetail?opportunityId=a638b660-60d6-461b-8102-0cd3e92d8a92)** | London, Ontario, Canada; Mississauga, Ontario, Canada | On Site | Sep 12 |
@@ -60,7 +61,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tokio Marine HCC](https://www.tmhcc.com/)** | **[Associate DevOps Engineer](https://tmhcc.wd1.myworkdayjobs.com/en-US/External/job/Georgia---Kennesaw/Associate-DevOps-Engineer_2025-808)** | Georgia - Kennesaw, United States | On Site | Sep 12 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Senior DevOps Engineer](https://brighthorizons.wd5.myworkdayjobs.com/en-US/External-NorthAmerica/job/Newton-Massachusetts-02459/Senior-DevOps-Engineer_JR-126160)** | Newton Home Office - NEWTON, United States | On Site | Sep 12 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[DevOps Engineer](https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Hyderabad/DevOps-Engineer_R5019816-2)** | Hyderabad TS IN 26, India | On Site | Sep 12 |
-| **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior DevOps Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Sensia/job/Pune-India/DevOps-Engineer_R25-5854)** | India Pune Axis Centra (Baner, Sensia) | On Site | Sep 12 |
 | **[ING](https://www.ing.com/)** | **[DevOps Engineer - Optimus Prime @ING Hubs Romania](https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/DevOps-Engineer---Optimus-Prime--ING-Hubs-Romania_REQ-10101819)** | Bucharest - Dacia One, Romania | On Site | Sep 12 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Senior Engineer/Technical Lead (DevOps Engineer - Azure)](https://arrow.wd1.myworkdayjobs.com/en-US/AC/job/IN-TG-Hyderabad-India-Kondapur-eInfochips/Senior-Engineer-Technical-Lead--DevOps-Engineer---Azure-_R237789)** | IN-TG-Hyderabad, India-Kondapur (eInfochips) | On Site | Sep 12 |
 
