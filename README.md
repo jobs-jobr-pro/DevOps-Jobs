@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Sep 18, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,7 +14,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ADP](https://www.adp.com/)** | **[WorkForce Software Principal DevOps Engineer](https://myjobs.adp.com/apply/cx/job-details?reqId=5001150758600)** | United States | Remote | Sep 17 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff DevOps Engineer (Prisma AIRS)](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000082499322-sr-staff-devops-engineer-prisma-airs-)** | Seattle, WA, United States | On Site | Sep 17 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff DevOps Engineer - Machine Learning](https://jobs.smartrecruiters.com/ServiceNow/744000082492846-senior-staff-devops-engineer-machine-learning)** | Santa Clara, CALIFORNIA, United States | On Site | Sep 17 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[DevOps Engineer con inglés](https://jobs.smartrecruiters.com/SopraSteria1/744000082483210-devops-engineer-con-ingles)** | València, VC, Spain | On Site | Sep 17 |
 | **[MEDvidi](https://medvidi.com/)** | **[Senior DevOps Engineer](https://medvidi.com/careers/co/poland/15.D5B/senior-devops-engineer/all)** | Warsaw, Poland, PL | On Site | Sep 17 |
+| **[Cyberark](https://www.cyberark.com)** | **[DevOps Engineer for DV SH](https://jobs.smartrecruiters.com/Cyberark1/744000082461295-devops-engineer-for-dv-sh)** | Petah Tikva, Central District, Israel | On Site | Sep 17 |
+| **[Alter Solutions](https://www.alter-solutions.com/)** | **[DevOps Engineer (CX)](https://jobs.smartrecruiters.com/AlterSolutions/744000082444521-devops-engineer-cx-)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 17 |
 | **[Automat-it](https://www.automat-it.com/)** | **[Senior DevOps Engineer](https://www.automat-it.com/fr/carrieres/?comeet_cat=ukraine&comeet_pos=6F.53C&comeet_all=all&rd)** | Ukraine, Ukraine, UA | Remote | Sep 17 |
 | **[abra](https://www.abra-it.com/)** | **[DevOps Engineer](https://www.comeet.com/jobs/abra_rnd/15.007/devops-engineer/40.D5C)** | Center, Center District, IL | On Site | Sep 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[DevOps Engineer – GCP](https://jobs.smartrecruiters.com/Devoteam/744000082430621--devops-engineer-gcp)** | Levallois-Perret, IDF, France | On Site | Sep 17 |
@@ -31,23 +36,23 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[Cloud DevOps Engineer](https://jobs.smartrecruiters.com/Endava/744000082370645-cloud-devops-engineer)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 17 |
 | **[OTP Bank](https://www.otpbank.hu/)** | **[DevOps Engineer](https://karrier.otpbank.hu/job/Budapest-DevOps-Engineer-1131/1162995901/)** | Budapest, HU, 1131 | On Site | Sep 17 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Senior-DevOps-Engineer_R0101501-1)** | USA-St. Louis-795 Office Pkwy, United States | On Site | Sep 17 |
-| **[Leidos](https://www.leidos.com/)** | **[Senior DevOps Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Columbia-MD/Senior-DevOps-Engineer_R-00162543)** | 0905 Columbia MD, United States | On Site | Sep 17 |
-| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[DevOps Engineer](https://apply.workable.com/j/1E85FBD7A4/apply)** | Makati City, Metro Manila, Philippines | On Site | Sep 17 |
-| **[RSM](https://rsmus.com/)** | **[DevOps Engineer, CyberSecurity Sr. Associate](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Charlotte/DevOps-Engineer--CyberSecurity-Sr-Associate_JR115588)** | USA-NC-Charlotte-300 South Tryon Street, Suite 1500, United States | On Site | Sep 17 |
-| **[NN Group](https://www.nn-group.com/)** | **[DevOps Engineer](https://nngroup.wd3.myworkdayjobs.com/en-US/WDExternal/job/Athens/DevOps-Engineer_REQ2702882-1)** | 0, Greece | On Site | Sep 17 |
-| **[Swift](https://www.swift.com/)** | **[DevOps Engineer/ IT Support Engineer](https://swift.wd3.myworkdayjobs.com/en-US/Join-Swift/job/Leiden-area-Netherlands/DevOps-Engineer--IT-Support-Engineer_2025-14852)** | OPC NL, Netherlands | On Site | Sep 17 |
-| **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer, VP](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Chennai/DevOps-Engineer--VP_R-00264763)** | Chennai, India | On Site | Sep 17 |
-| **[Nasdaq](https://www.nasdaq.com/)** | **[DevOps Engineer Specialist (AWS & Java)](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/India---Mumbai---Maharashtra/DevOps-Engineer-Specialist--AWS---Java-_R0023554)** | India-Mumbai | On Site | Sep 17 |
 | **[Swift](https://www.swift.com/)** | **[Junior DevOps Engineer/ IT Support Engineer](https://swift.wd3.myworkdayjobs.com/en-US/Join-Swift/job/Leiden-area-Netherlands/Junior-DevOps-Engineer--IT-Support-Engineer_2025-14840)** | OPC NL, Netherlands | On Site | Sep 17 |
-| **[HEINEKEN](https://www.theheinekencompany.com/)** | **[Data Platform DevOps Engineer Azure](https://careers.theheinekencompany.com/PolandHGSS/job/Krak%C3%B3w-Data-Platform-DevOps-Engineer-Azure-31-864/1248475901/)** | Kraków, PL, 31-864 | On Site | Sep 17 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://firstrand.wd3.myworkdayjobs.com/en-US/FRB/job/Johannesburg/DevOps-Engineer_R40173)** | 2 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Sep 17 |
-| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Platform DevOps Engineer - VP](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Glasgow-United-Kingdom/Platform-DevOps-Engineer---VP_JR020314-1)** | Waterloo Street, United Kingdom | On Site | Sep 17 |
-| **[Simple Machines](https://simplemachines.com.au/)** | **[Senior DevOps Engineer](https://apply.workable.com/j/C5801F41A6/apply)** | Warsaw, Masovian Voivodeship, Poland - Remote | Remote | Sep 17 |
-| **[Acronis](https://www.acronis.com/)** | **[Database DevOps Engineer](https://acronis.wd3.myworkdayjobs.com/en-US/acronis_careers/job/Singapore/Database-DevOps-Engineer_R-100468)** | Singapore | On Site | Sep 17 |
-| **[LSEG](https://www.lseg.com/)** | **[Senior Azure DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Azure-DevOps-Engineer_R0102282-1)** | IND-BLR-Divyasree Technopolis, India | On Site | Sep 17 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[DevOps Engineer (TS/SCI)](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Virginia-Beach/DevOps-Engineer--TS-SCI-_RQ207310-1)** | USA VA Virginia Beach - 1922 Regulus Ave (VAC427), United States | On Site | Sep 17 |
-| **[Aptiv](https://www.aptiv.com/)** | **[DevOps Engineer](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Monterrey-Mexico/DevOps-Engineer_J000681817-1)** | MEX Technical Center Monterrey, Mexico | On Site | Sep 17 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://firstrand.wd3.myworkdayjobs.com/en-US/FRB/job/Johannesburg/DevOps-Engineer_R40173)** | 2 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Sep 17 |
+| **[RSM](https://rsmus.com/)** | **[DevOps Engineer, CyberSecurity Sr. Associate](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Charlotte/DevOps-Engineer--CyberSecurity-Sr-Associate_JR115588)** | USA-NC-Charlotte-300 South Tryon Street, Suite 1500, United States | On Site | Sep 17 |
+| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[DevOps Engineer](https://apply.workable.com/j/1E85FBD7A4/apply)** | Makati City, Metro Manila, Philippines | On Site | Sep 17 |
+| **[HEINEKEN](https://www.theheinekencompany.com/)** | **[Data Platform DevOps Engineer Azure](https://careers.theheinekencompany.com/PolandHGSS/job/Krak%C3%B3w-Data-Platform-DevOps-Engineer-Azure-31-864/1248475901/)** | Kraków, PL, 31-864 | On Site | Sep 17 |
+| **[NN Group](https://www.nn-group.com/)** | **[DevOps Engineer](https://nngroup.wd3.myworkdayjobs.com/en-US/WDExternal/job/Athens/DevOps-Engineer_REQ2702882-1)** | 0, Greece | On Site | Sep 17 |
+| **[Nasdaq](https://www.nasdaq.com/)** | **[DevOps Engineer Specialist (AWS & Java)](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/India---Mumbai---Maharashtra/DevOps-Engineer-Specialist--AWS---Java-_R0023554)** | India-Mumbai | On Site | Sep 17 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior Azure DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Azure-DevOps-Engineer_R0102282-1)** | IND-BLR-Divyasree Technopolis, India | On Site | Sep 17 |
+| **[Leidos](https://www.leidos.com/)** | **[Senior DevOps Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Columbia-MD/Senior-DevOps-Engineer_R-00162543)** | 0905 Columbia MD, United States | On Site | Sep 17 |
 | **[RSM](https://rsmus.com/)** | **[Cloud DevOps Engineer, CyberSecurity Associate](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Charlotte/Cloud-DevOps-Engineer--CyberSecurity-Associate_JR115589)** | USA-NC-Charlotte-300 South Tryon Street, Suite 1500, United States | On Site | Sep 17 |
+| **[Simple Machines](https://simplemachines.com.au/)** | **[Senior DevOps Engineer](https://apply.workable.com/j/C5801F41A6/apply)** | Warsaw, Masovian Voivodeship, Poland - Remote | Remote | Sep 17 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Platform DevOps Engineer - VP](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Glasgow-United-Kingdom/Platform-DevOps-Engineer---VP_JR020314-1)** | Waterloo Street, United Kingdom | On Site | Sep 17 |
+| **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer, VP](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Chennai/DevOps-Engineer--VP_R-00264763)** | Chennai, India | On Site | Sep 17 |
+| **[Aptiv](https://www.aptiv.com/)** | **[DevOps Engineer](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Monterrey-Mexico/DevOps-Engineer_J000681817-1)** | MEX Technical Center Monterrey, Mexico | On Site | Sep 17 |
+| **[Swift](https://www.swift.com/)** | **[DevOps Engineer/ IT Support Engineer](https://swift.wd3.myworkdayjobs.com/en-US/Join-Swift/job/Leiden-area-Netherlands/DevOps-Engineer--IT-Support-Engineer_2025-14852)** | OPC NL, Netherlands | On Site | Sep 17 |
+| **[Acronis](https://www.acronis.com/)** | **[Database DevOps Engineer](https://acronis.wd3.myworkdayjobs.com/en-US/acronis_careers/job/Singapore/Database-DevOps-Engineer_R-100468)** | Singapore | On Site | Sep 17 |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4600355006?gh_jid=4600355006)** | San Antonio, TX | On Site | Sep 16 |
 | **[Object Computing, Inc.](https://objectcomputing.com/)** | **[Onsite DevOps Engineer (Linux Admin Focus)](https://jobs.lever.co/oci/fd103517-ba99-4e5a-bdd4-c50ee956ef4e)** | Saint Louis, Missouri | On Site | Sep 16 |
 | **[Esri](https://www.esri.com/)** | **[Sr. DevOps Engineer AWS](https://www.esri.com/careers/4785634007?gh_jid=4785634007)** | Redlands, CA | On Site | Sep 16 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Seamless Migration](https://www.seamlessmigration.com/)** | **[DevOps Engineer (TS/SCI)](https://careers.seamlessmigration.com/jobs/283110-devops-engineer-ts-sci)** | Springfield, United States | On Site | Sep 16 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[DevOps Engineer (Remote)](https://myjobs.adp.com/inspiracareers/cx/job-details?reqId=5001135017606)** | Oak Brook, IL, United States | Remote | Sep 16 |
 | **[Inetum](https://www.inetum.com)** | **[DevOps Engineer](https://jobs.smartrecruiters.com/Inetum2/744000082282996-devops-engineer)** | Lisbon, Lisbon, Portugal | On Site | Sep 16 |
-| **[AlphaPet Ventures GmbH](https://www.alpha.pet/)** | **[(Junior) DevOps Engineer (m/w/d)](https://alphapet-ventures.jobs.personio.com/job/2339390)** | Remote, Deutschlandweit | Remote | Sep 16 |
-| **[AssetWatch](https://assetwatch.com/)** | **[DevOps Engineer](https://job-boards.greenhouse.io/assetwatch/jobs/4572524005)** | United States | Remote | Sep 16 |
-| **[Take-Two Interactive Software, Inc.](https://www.take2games.com/)** | **[IT DevOps Engineer II](https://job-boards.greenhouse.io/taketwo/jobs/6372062)** | Bengaluru, Karnataka, India | On Site | Sep 16 |
-| **[Aveniq AG](https://aveniq.ch/)** | **[Senior Cloud DevOpS Engineer](https://aveniq.recruitee.com/o/senior-cloud-devops-engineer-3)** | Baden, Aargau, Schweiz | On Site | Sep 16 |
-| **[General Dynamics Missions System International](https://generaldynamics.uk.com)** | **[Azure DevOps Engineer](https://jobs.smartrecruiters.com/GDMSI/744000082249115-azure-devops-engineer-)** | Oakdale, Wales, United Kingdom | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 47 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 184k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
