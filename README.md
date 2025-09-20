@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -26,12 +26,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[dunnhumby](https://www.dunnhumby.com/)** | **[Devops Engineer](https://job-boards.greenhouse.io/dunnhumby/jobs/6690991003)** | Gurgaon | On Site | Sep 19 |
 | **[Integrators services a.s.](https://www.integrators.cz/)** | **[DevOps Engineer / Energy IT](https://jobs.lever.co/integrators.cz/154a956e-0c2e-4c84-aa20-b0e80cad25b2)** | Hybrid / Prague 8 | On Site | Sep 19 |
 | **[Altera Digital Health India](https://www.alterahealth.com/)** | **[Expert DevOps Engineer (Devops, AKS)](https://job-boards.greenhouse.io/alteradigitalhealthindia/jobs/4897430007)** | India | On Site | Sep 19 |
-| **[Bank of America](https://www.bankofamerica.com/)** | **[DevOps Engineer II](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/DevOps-Engineer-II_25036963)** | Charlotte, United States | On Site | Sep 19 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[DevOps Engineer](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Bangalore-Karnataka-India/DevOps-Engineer_1193769)** | Bangalore, Karnataka, India | On Site | Sep 19 |
-| **[Red Hat](https://www.redhat.com/)** | **[DevOps Engineer – AI Testing Infrastructure](https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Raanana/Senior-Context-Engineer--Prompt-Engineering---AI-Testing--Infrastructure_R-050078-1)** | Boston, United States | Remote | Sep 19 |
-| **[NN Group](https://www.nn-group.com/)** | **[DevOps Engineer - Data & AI Platform](https://nngroup.wd3.myworkdayjobs.com/en-US/WDExternal/job/Prague/DevOps-Engineer---Data---AI-Platform_REQ2702944-1)** | Digital Hub Prague, Czechia | On Site | Sep 19 |
-| **[Deutsche Börse](https://deutsche-boerse.com)** | **[Junior DevOps Engineer (f/m/d)](https://career.deutsche-boerse.com/job/Prague-Junior-DevOps-Engineer-%28fmd%29/1249400801/)** | Prague, CZ | On Site | Sep 19 |
 | **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Sr. DevOps Engineer (AWS/Azure)](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Bangalore-India/Sr-Devops-Engineer_R25-1621)** | India Bangalore | On Site | Sep 19 |
+| **[Deutsche Börse](https://deutsche-boerse.com)** | **[Junior DevOps Engineer (f/m/d)](https://career.deutsche-boerse.com/job/Prague-Junior-DevOps-Engineer-%28fmd%29/1249400801/)** | Prague, CZ | On Site | Sep 19 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[DevOps Engineer](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Bangalore-Karnataka-India/DevOps-Engineer_1193769)** | Bangalore, Karnataka, India | On Site | Sep 19 |
+| **[NCC Group](https://www.nccgroupplc.com/)** | **[Senior DevOps Engineer](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Madrid/Senior-DevOps-Engineer_R9659)** | ESP Madrid, Spain | On Site | Sep 19 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[AWS DevOps Engineer](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/AWS-DevOps-Engineer_32100)** | GH Office: San Antonio, TX (9903 Westover), United States | On Site | Sep 19 |
+| **[Clario](https://clario.com/)** | **[Senior DevOps Engineer](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/United-Kingdom-Remote/DevOps-Engineer_R16489)** | United Kingdom Remote | Remote | Sep 19 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior DevOps Engineer](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-DevOps-Engineer---VP---C13---PUNE_25894406)** | PLOT NO-1, S.NO. 77, India | On Site | Sep 19 |
+| **[Red Hat](https://www.redhat.com/)** | **[DevOps Engineer – AI Testing Infrastructure](https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Raanana/Senior-Context-Engineer--Prompt-Engineering---AI-Testing--Infrastructure_R-050078-1)** | Boston, United States | Remote | Sep 19 |
+| **[CompuGroup Medical](https://www.cgm.com/)** | **[Junior DevOps Engineer (m/w/d) SonarQube](https://cgm.wd3.myworkdayjobs.com/sv-SE/cgm/job/Koblenz/DevOps-Engineer-fr-SonarQube--m-w-d-_JR105419)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Sep 19 |
+| **[NN Group](https://www.nn-group.com/)** | **[DevOps Engineer - Data & AI Platform](https://nngroup.wd3.myworkdayjobs.com/en-US/WDExternal/job/Prague/DevOps-Engineer---Data---AI-Platform_REQ2702944-1)** | Digital Hub Prague, Czechia | On Site | Sep 19 |
+| **[Bank of America](https://www.bankofamerica.com/)** | **[DevOps Engineer II](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/DevOps-Engineer-II_25036963)** | Charlotte, United States | On Site | Sep 19 |
 | **[Experian](https://www.experian.com/)** | **[DevOps Engineer](https://jobs.smartrecruiters.com/Experian/744000082801365-devops-engineer)** | Heredia, Heredia, Costa Rica | Remote | Sep 18 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-24705\] Senior DevOps Engineer, Colombia](https://jobs.lever.co/ciandt/c997024f-4acf-402d-a5ff-b41e39ea4888)** | Colombia | On Site | Sep 18 |
 | **[Experian](https://www.experian.com/)** | **[Senior DevOps Engineer – Cloud Automation](https://jobs.smartrecruiters.com/Experian/744000082781055-senior-devops-engineer-cloud-automation)** | Heredia , Heredia, Costa Rica | Remote | Sep 18 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Netomi](https://www.netomi.com/)** | **[Devops Engineer - II](https://jobs.lever.co/netomi/78ceaf47-c13a-4735-a2c6-d7301af7f3fc)** | Gurugram | Remote | Sep 18 |
 | **[Entangle](https://www.entangle.fi/)** | **[DevOps Engineer (Trusted Execution Environment)](https://jobs.lever.co/entanglelabs/de919b55-beb4-4fa7-86c9-3a9abd1a1e01)** | London | On Site | Sep 18 |
 | **[Observe.AI](https://www.observe.ai/)** | **[DevOps Engineer I](https://www.observe.ai/position?gh_jid=4924460008)** | Bengaluru | On Site | Sep 18 |
-| **[AUMOVIO](https://www.continental-automotive.com/)** | **[IT DevOps Engineer for Artifactory](https://jobs.smartrecruiters.com/Aumovio/744000082589415-it-devops-engineer-for-artifactory)** | Taguig, NCR, Philippines | On Site | Sep 18 |
-| **[AUMOVIO](https://www.continental-automotive.com/)** | **[IT DevOps Engineer for CI/CD and Artifactory](https://jobs.smartrecruiters.com/Aumovio/744000082588827-it-devops-engineer-for-ci-cd-and-artifactory)** | Taguig, NCR, Philippines | On Site | Sep 18 |
-| **[Magna International](https://www.magna.com/)** | **[DevOps Engineer](https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068)** | 1001 PAWTUCKET BLVD., LOWELL, MA 01854, USA, United States | On Site | Sep 18 |
-| **[Fiserv](https://www.fiserv.com/)** | **[DevOps Engineer](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/DevOps-Engineer_R-10364629)** | Alpharetta, Georgia, United States | On Site | Sep 18 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[DevOps Engineer](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Buenos-Aires-Argentina/DevOps-Engineer_10128511-1)** | ARG - Chile 1180, Argentina | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 14% remote | 49 companies | Avg salary: 190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
