@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -59,14 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[DevOps Engineer](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0227061)** | Undisclosed Location - USA, VA, Arlington, United States | On Site | Sep 26 |
 | **[Global Payments](https://www.globalpayments.com/)** | **[DevOps Engineer](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/Pune-Maharashtra-India/DevOps-Engineer_R0065206-1)** | Pune, India | On Site | Sep 26 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Staff DevOps Engineer](https://gevernova.wd5.myworkdayjobs.com/en-US/Only_Confidential_Executive_Recruiting/job/Bucharest/Staff-DevOps-Engineer_R5020929-1)** | Bucharest, Romania | On Site | Sep 26 |
-| **[Sanofi](https://www.sanofi.com/)** | **[ServiceNow DevOps Engineer, AI & ML Operations](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/ServiceNow-DevOps-Engineer--AI---ML-Operations_R2819185)** | Hyderabad, India | On Site | Sep 26 |
-| **[Sanofi](https://www.sanofi.com/)** | **[Devops Engineer (LEDP Release Quality Coordinator)](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Devops-Engineer--LEDP-Release-Quality-Coordinator-_R2820708)** | Hyderabad, India | On Site | Sep 26 |
-| **[Fractal](https://fractal.ai/)** | **[AWS Devops Engineer](https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/Bengaluru/AWS-Devops-Engineer_SR-35916)** | Bengaluru, India | On Site | Sep 26 |
+| **[Global Payments](https://www.globalpayments.com/)** | **[Senior DevOps Engineer](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/Pune-Maharashtra-India/Senior-DevOps-Engineer_R0064039-2)** | Pune, India | On Site | Sep 26 |
+| **[Crowe](https://www.crowe.com/)** | **[Machine Learning DevOps Engineer 2](https://crowe.wd12.myworkdayjobs.com/en-US/External_Careers/job/Noida-Uttar-Pradesh-India/Machine-Learning-DevOps-Engineer-2_R-48497)** | Noida, India | On Site | Sep 26 |
+| **[Trimble](https://www.trimble.com/)** | **[Staff DevOps Engineer](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/India---Chennai/Staff-DevOps-Engineer_R51216)** | India - Chennai | On Site | Sep 26 |
 | **[Trimble](https://www.trimble.com/)** | **[DevOps Engineer II](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/India---Chennai/DevOps-Engineer-II_R49783)** | India - Chennai | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 158k  
+**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
