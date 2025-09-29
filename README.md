@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Sep 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -54,19 +54,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPMG Australia](https://home.kpmg)** | **[Mid/Senior DevOps Engineer](https://jobr.pro/job/28770155/midsenior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, New South Wales, Australia | On Site | Sep 26 |
 | **[Remedy Product Studio](https://www.remedyproduct.com/)** | **[Senior DevOps Engineer (AWS)](https://jobr.pro/job/28840290/senior-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | On Site | Sep 26 |
 | **[DATA CAPTURE EXPERTS](https://dc2vue.com.au/)** | **[Senior DevOps Engineer](https://jobr.pro/job/28838293/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Sep 26 |
-| **[LSEG](https://www.lseg.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/28822422/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Sep 26 |
 | **[Fiserv](https://www.fiserv.com/)** | **[DevOps Engineer, Advisor](https://jobr.pro/job/28820026/devops-engineer-advisor?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Overland Park, United States | On Site | Sep 26 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[DevOps Engineer](https://jobr.pro/job/28810282/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Undisclosed Location - USA, VA, Arlington, United States | On Site | Sep 26 |
 | **[Global Payments](https://www.globalpayments.com/)** | **[DevOps Engineer](https://jobr.pro/job/28752968/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Sep 26 |
+| **[Arctic Wolf](https://arcticwolf.com/)** | **[DevOps Engineer](https://jobr.pro/job/28829899/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Office - IND - Karnataka, Bengaluru, India | On Site | Sep 26 |
+| **[Trimble](https://www.trimble.com/)** | **[DevOps Engineer](https://jobr.pro/job/28831702/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Chennai | On Site | Sep 26 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/28822422/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Sep 26 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[DevOps Engineer](https://jobr.pro/job/28810282/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Undisclosed Location - USA, VA, Arlington, United States | On Site | Sep 26 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/28798038/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest, Romania | On Site | Sep 26 |
-| **[Global Payments](https://www.globalpayments.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/28752976/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Sep 26 |
-| **[Crowe](https://www.crowe.com/)** | **[Machine Learning DevOps Engineer 2](https://jobr.pro/job/28825242/machine-learning-devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, India | On Site | Sep 26 |
-| **[Trimble](https://www.trimble.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/28831703/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Chennai | On Site | Sep 26 |
-| **[Trimble](https://www.trimble.com/)** | **[DevOps Engineer II](https://jobr.pro/job/28831705/devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Chennai | On Site | Sep 26 |
+| **[Fractal](https://fractal.ai/)** | **[AWS Devops Engineer](https://jobr.pro/job/28827349/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, India | On Site | Sep 26 |
+| **[Securonix](https://www.securonix.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/28778428/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Maharashtra, India (Hybrid) | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 41 companies | Avg salary: 158k  
+**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
