@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -29,6 +29,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zealand Pharma](https://www.zealandpharma.com/)** | **[IT DevOps Engineer](https://jobr.pro/job/29170919/it-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Søborg, Denmark | On Site | Oct 01 |
 | **[UBS](https://www.ubs.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/29140232/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Oct 01 |
 | **[Simple Machines](https://simplemachines.com.au/)** | **[Senior DevOps Engineer - Be part of the foundational team](https://jobr.pro/job/29112249/senior-devops-engineer-be-part-of-the-foundational-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Oct 01 |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Senior Java/DevOps Engineer– Cloud-Based 911 Call Routing](https://jobr.pro/job/29174693/senior-javadevops-engineer-cloud-based-911-call-routing?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Krakow, Poland | On Site | Oct 01 |
+| **[CompuGroup Medical](https://www.cgm.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29171597/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Iasi \| Bdul. Chimiei, 2bis,Excel Buil, Rumänien | On Site | Oct 01 |
+| **[Illumina](https://www.illumina.com/)** | **[Staff AI/DevOps Engineer](https://jobr.pro/job/29174513/staff-aidevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Bengaluru - Manyata | On Site | Oct 01 |
 | **[CesiumAstro](https://www.cesiumastro.com/)** | **[Senior DevOps Engineer I](https://jobr.pro/job/29093089/senior-devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | El Segundo, CA | On Site | Sep 30 |
 | **[CesiumAstro](https://www.cesiumastro.com/)** | **[Principal DevOps Engineer I](https://jobr.pro/job/29093078/principal-devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | El Segundo, CA | On Site | Sep 30 |
 | **[Singular](https://www.singular.net/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29096833/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | On Site | Sep 30 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Raiffeisen Bank Ukraine](https://raiffeisen.ua/)** | **[Middle Power Platform DevOps Engineer](https://jobr.pro/job/29054613/middle-power-platform-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv, Kyiv city, Ukraine | On Site | Sep 30 |
 | **[Amgen](https://www.amgen.com/)** | **[3DEXPERIENCE PLM DevOps Engineer](https://jobr.pro/job/29077568/3dexperience-plm-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Hyderabad | On Site | Sep 30 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[Storage DevOps Engineer 100% (f/m/d)](https://jobr.pro/job/29076218/storage-devops-engineer-100-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Zurich, Switzerland | On Site | Sep 30 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[DevOps Engineer (CI/CD)](https://jobr.pro/job/29075780/devops-engineer-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka, India | On Site | Sep 30 |
-| **[Barclays](https://home.barclays/)** | **[DevOps Engineer](https://jobr.pro/job/29062731/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Building 300-115 South Jefferson Rd Campus, Whippany, United States | On Site | Sep 30 |
-| **[Octal Philippines Inc.](https://www.octaltech.net)** | **[DevOps Engineer](https://jobr.pro/job/29024056/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Makati City, Metro Manila, Philippines | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 46 companies | Avg salary: 145k  
+**Current Stats:** 50 jobs | 4% remote | 46 companies | Avg salary: 139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
