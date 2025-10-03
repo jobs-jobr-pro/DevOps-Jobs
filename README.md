@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -34,6 +34,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29245352/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Glasgow Campus, United Kingdom | On Site | Oct 02 |
 | **[Telia](https://www.teliacompany.com/)** | **[DevOps Engineer](https://jobr.pro/job/29245293/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius, Lithuania | On Site | Oct 02 |
 | **[Blend Technologies](https://www.blendtech.gr/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29240277/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | Oct 02 |
+| **[CompuGroup Medical](https://www.cgm.com/)** | **[DevOps Engineer](https://jobr.pro/job/29262897/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Iasi \| Bdul. Chimiei, 2bis,Excel Buil, Rumänien | On Site | Oct 02 |
 | **[Scalian](https://www.scalian.com)** | **[Devops Engineer](https://jobr.pro/job/29175803/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Montreal, Canada | On Site | Oct 01 |
 | **[SuccessKPI Inc.](https://successkpi.com/)** | **[Senior DevOps Engineer - Remote, USA](https://jobr.pro/job/29196467/senior-devops-engineer-remote-usa?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - US in CA, CO, FL, GA, IL, ID, IN, MA, MD, MO, MI, NE, NC, NJ, PA, TN, TX, VA | Remote | Oct 01 |
 | **[SandboxAQ](https://www.sandboxaq.com/)** | **[DevOps Engineer, FinOps & Infrastructure](https://jobr.pro/job/29182073/devops-engineer-finops-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, USA | Remote | Oct 01 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SailPoint](https://www.sailpoint.com/)** | **[Sr. DevOps Engineer](https://jobr.pro/job/29168808/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Oct 01 |
 | **[Aspen Technology](https://www.aspentech.com/)** | **[Sr DevOps Engineer I](https://jobr.pro/job/29169728/sr-devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, India | On Site | Oct 01 |
 | **[Kantar](https://www.kantar.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29145673/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, International Tech Park, India | On Site | Oct 01 |
-| **[Netguru](https://www.netguru.com/)** | **[Senior CloudOps Engineer / Senior DevOps Engineer (Multi-cloud) - Egypt](https://jobr.pro/job/29148741/senior-cloudops-engineer-senior-devops-engineer-multi-cloud-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Egypt - Remote | Remote | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 114k  
+**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
