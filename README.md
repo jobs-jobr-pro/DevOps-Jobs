@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[OpenGov](https://opengov.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/29359691/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US \| Georgia \| Atlanta | On Site | Oct 04 |
+| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29406122/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | ARNHEM, Netherlands | On Site | Oct 04 |
 | **[Housecall Pro](https://www.housecallpro.com/)** | **[Architect Devops Engineer - Brazil](https://jobr.pro/job/29364079/architect-devops-engineer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Brazil | Remote | Oct 03 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/29363605/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Oct 03 |
 | **[MAXISIQ](https://www.maxisiq.com/)** | **[DevOps Engineer (Junior Level)](https://jobr.pro/job/29368804/devops-engineer-junior-level?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Fort Meade, MD, United States | On Site | Oct 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Uni Systems](https://www.unisystems.com)** | **[DevOps Engineer](https://jobr.pro/job/29316118/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | Oct 03 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/29313214/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Oct 03 |
 | **[Whisper Aero](https://www.whisper.aero/)** | **[DevOps Engineer](https://jobr.pro/job/29278743/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nashville or Crossville, TN | On Site | Oct 02 |
-| **[Tech Holding](https://techholding.co/)** | **[Senior DevOps Engineer (Contractor)](https://jobr.pro/job/29283789/senior-devops-engineer-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | LATAM, Remote | Remote | Oct 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 48 companies | Avg salary: 174k  
+**Current Stats:** 50 jobs | 20% remote | 48 companies | Avg salary: 174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
