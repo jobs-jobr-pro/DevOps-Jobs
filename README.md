@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -34,6 +34,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rebellion](https://rebellion.com/)** | **[Senior Cloud/DevOps Engineer (AWS/Azure) - Tech Team](https://jobr.pro/job/29434144/senior-clouddevops-engineer-awsazure-tech-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Oxford, England, United Kingdom - Remote | Remote | Oct 06 |
 | **[Boeing](https://www.boeing.com/)** | **[DevOps Engineer with AWS](https://jobr.pro/job/29435693/devops-engineer-with-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | SWE - Gothenburg, Sweden | On Site | Oct 06 |
 | **[Bunnings](https://www.bunnings.com.au/)** | **[DevOps Engineer - Azure](https://jobr.pro/job/29441528/devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Support Office VIC, Australia | On Site | Oct 06 |
+| **[ING](https://www.ing.com/)** | **[DevOps Engineer Calypso](https://jobr.pro/job/29465366/devops-engineer-calypso?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | AME (Amsterdam - Maple), Netherlands | On Site | Oct 06 |
 | **[UBS](https://www.ubs.com/)** | **[Cloud DevOps Engineer](https://jobr.pro/job/29439923/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Oct 06 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29453663/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nenagh, Ireland | On Site | Oct 06 |
 | **[Citi](https://www.citigroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/29461987/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Oct 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[3Pillar Global](https://www.3pillarglobal.com/)** | **[Senior DevOps Engineer - banking project](https://jobr.pro/job/29354764/senior-devops-engineer-banking-project?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Romania | Remote | Oct 03 |
 | **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[DevOps Engineer III](https://jobr.pro/job/29358831/devops-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA, United States | On Site | Oct 03 |
 | **[CometChat](https://www.cometchat.com/)** | **[Associate Devops Engineer (Hybrid)](https://jobr.pro/job/29323939/associate-devops-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Maharashtra, Mumbai, India | On Site | Oct 03 |
-| **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[Senior DevOps Engineer, Core Infrastructure Engineering](https://jobr.pro/job/29358835/senior-devops-engineer-core-infrastructure-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA, United States | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 48 companies | Avg salary: 190k  
+**Current Stats:** 50 jobs | 18% remote | 49 companies | Avg salary: 184k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
