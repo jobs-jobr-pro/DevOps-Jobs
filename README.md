@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -36,14 +36,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GE Vernova](https://www.gevernova.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/29746917/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Oct 08 |
 | **[Deloitte](https://www.deloitte.com/)** | **[T&T Senior Analyst/Consultant - Innovation Cloud Development Center (DevOps Engineer) - MY](https://jobr.pro/job/29643187/tt-senior-analystconsultant-innovation-cloud-development-center-devops-engineer-my?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kuala Lumpur, MY | On Site | Oct 08 |
 | **[Yash Technologies](https://www.yash.com)** | **[Sr. DevOps Engineer - Incident Management Job](https://jobr.pro/job/29627592/sr-devops-engineer-incident-management-job?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, IN | On Site | Oct 08 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/29790907/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Oct 08 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer-2](https://jobr.pro/job/29790833/devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Oct 08 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29772663/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, United States, United States | On Site | Oct 08 |
 | **[Saab](https://www.saab.com/)** | **[DevOps Engineer with passion for CI/CD](https://jobr.pro/job/29767756/devops-engineer-with-passion-for-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Göteborg - Solhusgatan 10, Sweden | On Site | Oct 08 |
 | **[NN Group](https://www.nn-group.com/)** | **[Platform DevOps Engineer - AWS](https://jobr.pro/job/29787256/platform-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Digital Hub Madrid, Spain | On Site | Oct 08 |
 | **[Workday](https://www.workday.com/)** | **[DevOps Engineer - Evisort](https://jobr.pro/job/29790060/devops-engineer-evisort?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ireland, Dublin | On Site | Oct 08 |
 | **[Synechron](https://www.synechron.com/)** | **[DevOps Engineer \| Cloud, Automation, Kubernetes, Infrastructure as Code](https://jobr.pro/job/29768643/devops-engineer-cloud-automation-kubernetes-infrastructure-as-code?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru - BCIT, India | On Site | Oct 08 |
 | **[Crowe](https://www.crowe.com/)** | **[Machine Learning DevOps Engineer 2](https://jobr.pro/job/29788260/machine-learning-devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, India | On Site | Oct 08 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/29790907/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Oct 08 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer-2](https://jobr.pro/job/29790833/devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Oct 08 |
 | **[Encora](https://www.encora.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/29589101/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico | On Site | Oct 07 |
 | **[Science Systems and Applications](https://www.ssaihq.com/)** | **[DevOps Engineer](https://jobr.pro/job/29606264/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Telecommuting, Lanham, MD, US | Remote | Oct 07 |
 | **[Arcadia](https://arcadia.io/)** | **[DevOps Engineer](https://jobr.pro/job/29573043/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (USA) | Remote | Oct 07 |
