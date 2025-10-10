@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -36,6 +36,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[State Street](https://www.statestreet.com/)** | **[Senior DevOps Engineer - Tech Lead](https://jobr.pro/job/29893872/senior-devops-engineer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, India | On Site | Oct 09 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior Azure DevOps Engineer](https://jobr.pro/job/29888215/senior-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND-BLR-Divyasree Technopolis, India | On Site | Oct 09 |
 | **[LSEG](https://www.lseg.com/)** | **[SwapClear Senior DevOps Engineer](https://jobr.pro/job/29888148/swapclear-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, United Kingdom | On Site | Oct 09 |
+| **[Aptiv](https://www.aptiv.com/)** | **[Advanced DevOps Engineer](https://jobr.pro/job/29896695/advanced-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND - India Tech Center | On Site | Oct 09 |
 | **[NeuReality](https://www.neureality.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/29876244/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 08 |
 | **[Linqia](https://www.linqia.com/)** | **[DevOps Engineer](https://jobr.pro/job/29823823/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogotá, Colombia | On Site | Oct 08 |
 | **[Ada](https://www.ada.cx/careers)** | **[Senior DevOps Engineer](https://jobr.pro/job/29816549/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - Canada | Remote | Oct 08 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EveryMatrix](https://everymatrix.com/)** | **[Junior DevOps Engineer](https://jobr.pro/job/29697175/junior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv, Ukraine | On Site | Oct 08 |
 | **[Ankorstore](https://www.ankorstore.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/29823210/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paris | On Site | Oct 08 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III: DevOps Engineer - Databricks (DBX)](https://jobr.pro/job/29722222/software-engineer-iii-devops-engineer-databricks-dbx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Oct 08 |
-| **[KPMG India](https://kpmg.com/)** | **[AWS Devops Engineer Assistant Manager Bangalore](https://jobr.pro/job/29757884/aws-devops-engineer-assistant-manager-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka, India | On Site | Oct 08 |
 
 ---
 
