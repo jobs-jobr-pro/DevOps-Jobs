@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -33,6 +33,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture](https://www.accenture.com/)** | **[Security Delivery DevOps Engineer](https://jobr.pro/job/29967404/security-delivery-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Riga, VEF, Latvia | On Site | Oct 10 |
 | **[CSG](https://www.csgi.com/)** | **[DevOps Engineer-1](https://jobr.pro/job/29981179/devops-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | ID.Jakarta.Remote, Indonesia | Remote | Oct 10 |
 | **[Nasdaq](https://www.nasdaq.com/)** | **[Senior Specialist- DevOps Engineer](https://jobr.pro/job/29980663/senior-specialist-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore-Affluence, India | On Site | Oct 10 |
+| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer, AS](https://jobr.pro/job/29989477/devops-engineer-as?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Margarpatta, India | On Site | Oct 10 |
+| **[Trimble](https://www.trimble.com/)** | **[DevOps Engineer](https://jobr.pro/job/29992458/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Chennai | On Site | Oct 10 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr DevOps Engineer (Cortex)](https://jobr.pro/job/29900014/sr-devops-engineer-cortex?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Santa Clara, CA, United States | On Site | Oct 09 |
 | **[Waracle](https://waracle.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/29907570/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Glasgow, Scotland, United Kingdom | On Site | Oct 09 |
 | **[Black Box](https://www.blackbox.com/)** | **[Consultant - DevOps Engineer](https://jobr.pro/job/29958646/consultant-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | On Site | Oct 09 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DP World](https://www.dpworld.com/)** | **[DevOps Engineer I](https://jobr.pro/job/29867447/devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Andhra Pradesh, India | On Site | Oct 09 |
 | **[SAS](https://www.sas.com)** | **[DevOps Engineer](https://jobr.pro/job/29821956/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Oct 09 |
 | **[CIMB](https://www.cimb.com/)** | **[Assistant Vice President, GT-TSS, Infrastructure Innovation, DevSecOps (Senior DevOps Engineer)](https://jobr.pro/job/29871275/assistant-vice-president-gt-tss-infrastructure-innovation-devsecops-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malaysia | On Site | Oct 09 |
-| **[CIMB](https://www.cimb.com/)** | **[Vice President, GT-TSS, Infrastructure Innovation, DevSecOps (Senior DevOps Engineer)](https://jobr.pro/job/29871274/vice-president-gt-tss-infrastructure-innovation-devsecops-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malaysia | On Site | Oct 09 |
-| **[Swisscom](https://www.swisscom.ch/)** | **[DevOps Engineer](https://jobr.pro/job/29827966/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Itt-Ey10, Switzerland | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 42 companies | Avg salary: 187k  
+**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
