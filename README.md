@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 12, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[DevOps Engineer](https://jobr.pro/job/30075632/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Debrecen, Hungary | On Site | Oct 12 |
 | **[JENTIS](https://www.jentis.com/)** | **[DevOps Engineer](https://jobr.pro/job/30041806/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Wien, Austria | On Site | Oct 11 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - DevOps Engineer](https://jobr.pro/job/30039551/software-engineer-ii-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Oct 11 |
 | **[Mintlify](https://mintlify.com/)** | **[DevOps Engineer](https://jobr.pro/job/30009082/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco | On Site | Oct 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alstom](https://www.alstom.com/)** | **[DevOps Engineer](https://jobr.pro/job/29926148/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, KA, IN | On Site | Oct 10 |
 | **[Sun Life](https://www.sunlife.com/)** | **[Student, DevOps Engineer](https://jobr.pro/job/29936641/student-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sun Life Ireland | On Site | Oct 10 |
 | **[MP Solutions Ltd.](https://www.mps.hu/)** | **[Devops Engineer](https://jobr.pro/job/29954404/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Veszprém, Veszprém, Hungary | On Site | Oct 10 |
-| **[LSEG](https://www.lseg.com/)** | **[Associate Lead DevOps Engineer](https://jobr.pro/job/29975874/associate-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Oct 10 |
 
 ---
 
