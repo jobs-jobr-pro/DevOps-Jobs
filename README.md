@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal DevOps Engineer (Cloud)](https://jobr.pro/job/30310684/principal-devops-engineer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Santa Clara, CA, United States | On Site | Oct 15 |
 | **[Revecore](https://revecore.com/)** | **[Senior Cloud DevOps Engineer](https://jobr.pro/job/30284301/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, United States | Remote | Oct 15 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff DevOps Engineer - Big Data](https://jobr.pro/job/30310725/staff-devops-engineer-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dublin, Ireland | On Site | Oct 15 |
 | **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Sr. Devops Engineer](https://jobr.pro/job/30264450/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | On Site | Oct 15 |
 | **[AgileEngine](https://agileengine.com/)** | **[DevOps Engineer (Senior/Lead) ID42218](https://jobr.pro/job/30262967/devops-engineer-seniorlead-id42218?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Indore, India | On Site | Oct 15 |
 | **[Radware](https://www.radware.com/)** | **[DevOps Engineer](https://jobr.pro/job/30259048/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IN-IN-New Delhi | On Site | Oct 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eurofins](https://www.eurofins.com)** | **[IT Infra DevOps Engineer](https://jobr.pro/job/30146596/it-infra-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, TN, India | On Site | Oct 14 |
 | **[MAG Aerospace](https://www.magaero.com)** | **[DevOps Engineer - EW&C](https://jobr.pro/job/30216934/devops-engineer-ewc?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hanover, MD, United States | On Site | Oct 14 |
 | **[WTW](https://www.wtwco.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30177706/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Thane, Maharashtra, India | On Site | Oct 14 |
-| **[Bristlecone](https://www.bristlecone.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30188999/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka, India | On Site | Oct 14 |
-| **[Crypto.com](https://crypto.com/)** | **[Blockchain DevOps Engineer](https://jobr.pro/job/30142417/blockchain-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dublin, Ireland | On Site | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 49 companies | Avg salary: 152k  
+**Current Stats:** 50 jobs | 6% remote | 48 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
