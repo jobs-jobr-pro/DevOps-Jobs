@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -31,6 +31,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NTT DATA](https://nttdata.com)** | **[DevOps Engineer Senior Specialist](https://jobr.pro/job/30439755/devops-engineer-senior-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Jalisco, GDL, MX, KA, IN | On Site | Oct 17 |
 | **[Federal Reserve System](https://www.federalreserve.gov/)** | **[DevOps Engineer](https://jobr.pro/job/30486077/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Minneapolis, MN, United States | On Site | Oct 17 |
 | **[Workday](https://www.workday.com/)** | **[DevOps Engineer](https://jobr.pro/job/30488359/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND.Chennai, India | On Site | Oct 17 |
+| **[HARMAN International](https://www.harman.com/)** | **[Sr. Devops Engineer-1](https://jobr.pro/job/30492357/sr-devops-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IN Pune Embassy Tech Zone Rajiv Gandhi Infotec Park HCS, India | On Site | Oct 17 |
+| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer, AS](https://jobr.pro/job/30492941/devops-engineer-as?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Business Bay, India | On Site | Oct 17 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Senior DevOps Engineer - AVP](https://jobr.pro/job/30492944/senior-devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Business Bay, India | On Site | Oct 17 |
 | **[Morse Micro](https://www.morsemicro.com/)** | **[DevOps Engineer](https://jobr.pro/job/30420252/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, New South Wales, Australia | On Site | Oct 16 |
 | **[Hotmart](https://www.hotmart.com/)** | **[DevOps Engineer](https://jobr.pro/job/30429168/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | BRASIL, SÃO PAULO | On Site | Oct 16 |
 | **[Aisera](https://aisera.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30419356/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA (Remote) | Remote | Oct 16 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kaseya](https://www.kaseya.com/)** | **[DevOps Engineer](https://jobr.pro/job/30424337/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dublin, Ireland | On Site | Oct 16 |
 | **[Ørsted](https://www.orsted.com)** | **[Senior DevOps Engineer with Python](https://jobr.pro/job/30342934/senior-devops-engineer-with-python?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gentofte, DK | On Site | Oct 16 |
 | **[K-tronik GmbH](https://k-tronik.de/)** | **[DevOps Engineer (m/w/x)](https://jobr.pro/job/30367391/devops-engineer-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dresden, Germany | On Site | Oct 16 |
-| **[Airwallex](https://www.airwallex.com)** | **[Sr. Devops Engineer, Infra](https://jobr.pro/job/30328654/sr-devops-engineer-infra?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | SG - Singapore | On Site | Oct 16 |
-| **[NielsenIQ](https://nielseniq.com)** | **[DevOps Engineer (SRE)](https://jobr.pro/job/30338677/devops-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico City, MEX, Mexico | On Site | Oct 16 |
-| **[Lilt](https://lilt.com)** | **[Staff DevOps Engineer (Security Clearance Required)](https://jobr.pro/job/30331615/staff-devops-engineer-security-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington D.C. | Remote | Oct 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 385k  
+**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 406k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
