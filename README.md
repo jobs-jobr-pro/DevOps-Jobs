@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Softeta](https://softeta.com/)** | **[DevOps Engineer](https://jobr.pro/job/30673758/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kraków, Lesser Poland Voivodeship, Poland - Remote | Remote | Oct 21 |
 | **[Kantar](https://www.kantar.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30662653/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, International Tech Park, India | On Site | Oct 21 |
 | **[Integrant](https://integrant.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30660483/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Oct 21 |
+| **[Travelers](https://www.travelers.com/)** | **[Cloud DevOps Engineer - AWS](https://jobr.pro/job/30699790/cloud-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Redhill, United Kingdom | On Site | Oct 21 |
 | **[Seqwater](https://www.seqwater.com.au/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30651389/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Central Region, Brisbane, Queensland, Central Region, Ipswich, Queensland | On Site | Oct 20 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Sr. DevOps Engineer](https://jobr.pro/job/30613480/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Oct 20 |
 | **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/30627296/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nashville, TN, United States | On Site | Oct 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zoom](https://www.zoom.com/)** | **[Senior DevOps Engineer - Kubernetes expert](https://jobr.pro/job/30559495/senior-devops-engineer-kubernetes-expert?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (IND), India | Remote | Oct 20 |
 | **[Barclays](https://home.barclays/)** | **[Lead DevOps Engineer](https://jobr.pro/job/30586029/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Glasgow Campus, United Kingdom | On Site | Oct 20 |
 | **[LSEG](https://www.lseg.com/)** | **[DevOps Engineer](https://jobr.pro/job/30593366/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | GBR-Nottingham-1 Chapel Qtr, United Kingdom | On Site | Oct 20 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/30606225/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 2 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Oct 20 |
 
 ---
 
