@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experian](https://www.experian.com/)** | **[Senior DevOps engineer](https://jobr.pro/job/30707259/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Heredia, Heredia, Costa Rica | Remote | Oct 21 |
+| **[Version 1](https://www.version1.com)** | **[Senior Azure DevOps Engineer](https://jobr.pro/job/30707042/senior-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dublin, Ireland | On Site | Oct 21 |
+| **[Inetum](https://www.inetum.com)** | **[DevOps Engineer — Azure APIM & Apache Kafka](https://jobr.pro/job/30707045/devops-engineer-azure-apim-apache-kafka?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Lisbon, Portugal | On Site | Oct 21 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30666661/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai City Corporation, India | On Site | Oct 21 |
 | **[TBC](https://beta.tbcbank.ge/)** | **[DevOps Engineer](https://jobr.pro/job/30661132/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tbilisi, Georgia | On Site | Oct 21 |
 | **[Syndicode](https://syndicode.com/)** | **[DevOps Engineer](https://jobr.pro/job/30655899/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Portugal | Remote | Oct 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Blackshark.ai](https://blackshark.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30632239/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Graz | On Site | Oct 20 |
 | **[Propel Holdings](https://www.propelholdings.com/)** | **[Sr. DevOps Engineer](https://jobr.pro/job/30564604/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Toronto, Ontario, Canada | On Site | Oct 20 |
 | **[E-SPACE](https://www.e-space.com/)** | **[Principal DevOps Engineer / Head of DevOps Systems](https://jobr.pro/job/30557958/principal-devops-engineer-head-of-devops-systems?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Saratoga, CA | On Site | Oct 20 |
-| **[Pwrteams](https://pwrteams.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30563870/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lviv, Ukraine | On Site | Oct 20 |
-| **[Nortal](https://nortal.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/30568197/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lviv, Ukraine | On Site | Oct 20 |
-| **[StarNet](https://www.starnet.md)** | **[Devops Engineer](https://jobr.pro/job/30568334/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chișinău | On Site | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 197k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
