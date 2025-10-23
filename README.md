@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ING](https://www.ing.com/)** | **[SAS Viya DevOps Engineer](https://jobr.pro/job/30801593/sas-viya-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Oct 23 |
 | **[Dream](https://dreamgroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30773213/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Oct 22 |
 | **[SunCulture Kenya Limited](https://sunculture.io/)** | **[DevOps Engineer](https://jobr.pro/job/30766802/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nairobi, Kenya | On Site | Oct 22 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Oct 22 |
@@ -29,15 +30,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dev.Pro](https://dev.pro/)** | **[Senior DevOps Engineer - OP01924-00](https://jobr.pro/job/30746676/senior-devops-engineer-op01924-00?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Wrocław, Lower Silesian Voivodeship, Poland - Remote | Remote | Oct 22 |
 | **[Devsinc](https://devsinc.com/)** | **[DevOps Engineer](https://jobr.pro/job/30744458/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lahore, Punjab, Pakistan | On Site | Oct 22 |
 | **[Dev.Pro](https://dev.pro/)** | **[Senior DevOps Engineer - OP01924](https://jobr.pro/job/30746675/senior-devops-engineer-op01924?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv, Kyiv city, Ukraine - Remote | Remote | Oct 22 |
+| **[Leidos](https://www.leidos.com/)** | **[AWS DevOps Engineer](https://jobr.pro/job/30796524/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 7744 LCST Bristol UK, United Kingdom | On Site | Oct 22 |
+| **[Leidos](https://www.leidos.com/)** | **[DevOps Engineer](https://jobr.pro/job/30796450/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 0335 Peterson Space Force Base CO, United States | On Site | Oct 22 |
+| **[NTT DATA](https://hello.global.ntt/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30798820/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Barneveld, Netherlands | On Site | Oct 22 |
 | **[EY](https://www.ey.com)** | **[DE-Azure DevOps Engineer- Data Fabric-GDSF02](https://jobr.pro/job/30743567/de-azure-devops-engineer-data-fabric-gdsf02?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, KA, IN, 560016 | On Site | Oct 22 |
 | **[Assurity Trusted Solutions](https://www.assurity.sg/)** | **[DevOps Engineer](https://jobr.pro/job/30750183/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 22 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Cloud DevOps Engineer](https://jobr.pro/job/30752953/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Oct 22 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/30797734/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Parkside, 130 Independence Avenue, Central Business District, Windhoek, 10005 (40h), Namibia | On Site | Oct 22 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/30793427/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | On Site | Oct 22 |
-| **[Leidos](https://www.leidos.com/)** | **[AWS DevOps Engineer](https://jobr.pro/job/30796524/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 7744 LCST Bristol UK, United Kingdom | On Site | Oct 22 |
-| **[Leidos](https://www.leidos.com/)** | **[DevOps Engineer](https://jobr.pro/job/30796450/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 0335 Peterson Space Force Base CO, United States | On Site | Oct 22 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/30786309/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Oct 22 |
 | **[Fractal](https://fractal.ai/)** | **[Azure DevOps Engineer](https://jobr.pro/job/30797281/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, India | On Site | Oct 22 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Cloud/ DevOps Engineer](https://jobr.pro/job/30799009/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 3800 CITIGROUP CENTER DRIVE BUILDING C TAMPA, United States | On Site | Oct 22 |
 | **[10Beauty](https://www.10beauty.co)** | **[Senior DevOps Engineer](https://jobr.pro/job/30716061/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Burlington, Massachusetts, United States | On Site | Oct 21 |
 | **[Experian](https://www.experian.com/)** | **[Senior DevOps engineer](https://jobr.pro/job/30707259/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Heredia, Heredia, Costa Rica | Remote | Oct 21 |
 | **[Elastic](https://www.elastic.co/)** | **[Search – Developer Productivity - Senior DevOps Engineer](https://jobr.pro/job/30714082/search-developer-productivity-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Greece | On Site | Oct 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cloudbeds](https://www.cloudbeds.com/)** | **[DevOps Engineer](https://jobr.pro/job/30725981/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bulgaria | On Site | Oct 21 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Middle DevOps engineer - Tietoevry Create (m/f/d)](https://jobr.pro/job/30723345/middle-devops-engineer-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lviv, Ukraine | On Site | Oct 21 |
 | **[Encora](https://www.encora.com/)** | **[DevOps Engineer PL](https://jobr.pro/job/30718013/devops-engineer-pl?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Brazil | On Site | Oct 21 |
-| **[phData](https://www.phdata.io/)** | **[Senior DevOps Engineer (Cloud)](https://jobr.pro/job/30713388/senior-devops-engineer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Remote | Remote | Oct 21 |
-| **[Syndicode](https://syndicode.com/)** | **[DevOps Engineer](https://jobr.pro/job/30655899/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Portugal | Remote | Oct 21 |
-| **[Tietoevry](https://www.tietoevry.com/)** | **[DevOps engineer for core network project, Tietoevry Create (f/m/d)](https://jobr.pro/job/30723346/devops-engineer-for-core-network-project-tietoevry-create-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Szczecin, West Pomeranian Voivodeship, Poland | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 182k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
