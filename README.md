@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 26, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 26, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/31042698/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | MY - KUALA LUMPUR NO 10 JALAN P RAMLEE, Malaysia | On Site | Oct 26 |
+| **[AUMOVIO](https://www.continental-automotive.com/)** | **[IT DevOps Engineer for Github](https://jobr.pro/job/31042919/it-devops-engineer-for-github?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Taguig, NCR, Philippines | On Site | Oct 25 |
 | **[SAP](https://www.sap.com/)** | **[IT Operations - Senior DevOps Engineer](https://jobr.pro/job/30998042/it-operations-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Prague 5, CZ, 158 00 | On Site | Oct 25 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[DevOps Engineer - LTL & Fulfillment Platform Operations](https://jobr.pro/job/31010903/devops-engineer-ltl-fulfillment-platform-operations?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago, IL, US | On Site | Oct 24 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/30996899/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Oct 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sure](https://www.sureapp.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/30897878/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Oct 23 |
 | **[UltraViolet Cyber](https://www.uvcyber.com/)** | **[DevOps Engineer](https://jobr.pro/job/30898700/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lehi, UT | On Site | Oct 23 |
 | **[Reinventing Geospatial (RGi)](https://rgi-corp.com/)** | **[DevOps Engineer](https://jobr.pro/job/30897900/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Herndon, VA | On Site | Oct 23 |
-| **[Hazel Health](https://www.hazel.co)** | **[DevOps Engineer](https://jobr.pro/job/30898689/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Oct 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 48 companies | Avg salary: 170k  
+**Current Stats:** 50 jobs | 14% remote | 48 companies | Avg salary: 171k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
