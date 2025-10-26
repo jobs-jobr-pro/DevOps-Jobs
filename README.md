@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[S&P Global](https://www.spglobal.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/31042698/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | MY - KUALA LUMPUR NO 10 JALAN P RAMLEE, Malaysia | On Site | Oct 26 |
 | **[SAP](https://www.sap.com/)** | **[IT Operations - Senior DevOps Engineer](https://jobr.pro/job/30998042/it-operations-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Prague 5, CZ, 158 00 | On Site | Oct 25 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[DevOps Engineer - LTL & Fulfillment Platform Operations](https://jobr.pro/job/31010903/devops-engineer-ltl-fulfillment-platform-operations?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago, IL, US | On Site | Oct 24 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/30996899/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Oct 24 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UltraViolet Cyber](https://www.uvcyber.com/)** | **[DevOps Engineer](https://jobr.pro/job/30898700/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lehi, UT | On Site | Oct 23 |
 | **[Reinventing Geospatial (RGi)](https://rgi-corp.com/)** | **[DevOps Engineer](https://jobr.pro/job/30897900/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Herndon, VA | On Site | Oct 23 |
 | **[Hazel Health](https://www.hazel.co)** | **[DevOps Engineer](https://jobr.pro/job/30898689/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Oct 23 |
-| **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/30906996/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paducah, KY, United States | On Site | Oct 23 |
 
 ---
 
