@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -35,6 +35,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/31276616/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Portugal | On Site | Oct 29 |
 | **[UBS](https://www.ubs.com/)** | **[Tech DevOps Engineer / Architect](https://jobr.pro/job/31244014/tech-devops-engineer-architect?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Oct 29 |
 | **[Aristocrat](https://www.aristocrat.com/)** | **[DevOps Engineer](https://jobr.pro/job/31264862/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | North Macedonia - Skopje | On Site | Oct 29 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Microsoft Azure DevOps Engineer](https://jobr.pro/job/31277479/microsoft-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Oct 29 |
+| **[DXC Technology](https://dxc.com/)** | **[DevOps Engineer](https://jobr.pro/job/31277416/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | TW2VA - Teleworker/Offsite-USA-VA, United States | Remote | Oct 29 |
+| **[Financial Conduct Authority](https://www.fca.org.uk/)** | **[Cloud DevOps Engineer](https://jobr.pro/job/31276904/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, United Kingdom | On Site | Oct 29 |
 | **[GCI](https://www.gci.com/)** | **[DevOps Engineer III](https://jobr.pro/job/31252311/devops-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | On Site | Oct 28 |
 | **[Lumos](https://www.lumos.com/)** | **[DevOps Engineer](https://jobr.pro/job/31199471/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote US/CAN | Remote | Oct 28 |
 | **[T-Systems International](https://www.t-systems.com)** | **[DevOps Engineer with DNS Knowledge (m/f/d)](https://jobr.pro/job/31207970/devops-engineer-with-dns-knowledge-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid, MD, Spain | On Site | Oct 28 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boomi](https://boomi.com/)** | **[DevOps Engineer](https://jobr.pro/job/31118670/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | On Site | Oct 28 |
 | **[NICE](https://www.nice.com/)** | **[Senior DevOps Engineer, Actimize](https://jobr.pro/job/31106868/senior-devops-engineer-actimize?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Pune | On Site | Oct 28 |
 | **[Westpac](https://www.westpac.com.au/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31159493/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, NSW, Australia | On Site | Oct 28 |
-| **[Boeing](https://www.boeing.com/)** | **[Associate DevOps Engineer](https://jobr.pro/job/31146825/associate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND - Bangalore, India | On Site | Oct 28 |
-| **[Finastra](https://www.finastra.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31130634/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Oct 28 |
-| **[UBS](https://www.ubs.com/)** | **[Tech DevOps Engineer](https://jobr.pro/job/31152414/tech-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 125k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 123k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
