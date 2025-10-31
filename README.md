@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -25,6 +25,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Carrier](https://corporate.carrier.com/)** | **[Devops Engineer](https://jobr.pro/job/31428755/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Building No: 12C, Floor 9,10,11, Building No: 12B -Stilt floor, Raheja Mindspace, Cyberabad, Madhapur, Hyderabad - 500081, Telangana, India | On Site | Oct 31 |
 | **[GE Vernova](https://www.gevernova.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/31416219/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad TS IN 26, India | On Site | Oct 31 |
 | **[NCR Atleos](https://www.ncratleos.com/)** | **[DevOps Engineer I](https://jobr.pro/job/31390791/devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon, India | On Site | Oct 31 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior Azure DevOps Engineer](https://jobr.pro/job/31439436/senior-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND-BLR-Divyasree Technopolis, India | On Site | Oct 31 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31439363/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, United Kingdom | On Site | Oct 31 |
+| **[NTT DATA](https://hello.global.ntt/)** | **[DevOps Engineer](https://jobr.pro/job/31449499/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mumbai, India | On Site | Oct 31 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Devops Engineer](https://jobr.pro/job/31449529/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurugram - Good Earth, India | Remote | Oct 31 |
+| **[Synechron](https://www.synechron.com/)** | **[DevOps Engineer](https://jobr.pro/job/31436396/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Serbia - Belgrade | On Site | Oct 31 |
+| **[SimCorp](https://www.simcorp.com/)** | **[Senior DevOps engineer - (Azure)](https://jobr.pro/job/31441107/senior-devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, India | On Site | Oct 31 |
+| **[Amgen](https://www.amgen.com/)** | **[Specialist DevOps Engineer - IoT Platform](https://jobr.pro/job/31448574/specialist-devops-engineer-iot-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Hyderabad | On Site | Oct 31 |
 | **[S&S Activewear](https://www.ssactivewear.com/)** | **[DevOps Engineer](https://jobr.pro/job/31395603/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bolingbrook, IL, US | On Site | Oct 30 |
 | **[Adfinis](https://adfinis.com)** | **[Senior DevOps Engineer (m/w/d)](https://jobr.pro/job/31414071/senior-devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Egypt - Remote | Remote | Oct 30 |
 | **[Tenpo](https://www.tenpo.cl/)** | **[DevOps Engineer](https://jobr.pro/job/31415187/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Las Condes, Chile | On Site | Oct 30 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arize AI](https://arize.com/)** | **[DevOps Engineer](https://jobr.pro/job/31301951/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Oct 30 |
 | **[Fictiv](https://www.fictiv.com/)** | **[Lead Cloud DevOps Engineer](https://jobr.pro/job/31300466/lead-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Oakland, CA Office | On Site | Oct 30 |
 | **[NielsenIQ](https://nielseniq.com)** | **[DevOps Engineer (SRE)](https://jobr.pro/job/31304824/devops-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico City, MEX, Mexico | On Site | Oct 30 |
-| **[Barclays](https://home.barclays/)** | **[DevOps Engineer](https://jobr.pro/job/31349167/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Knutsford, Radbroke Hall, United Kingdom | On Site | Oct 30 |
-| **[Weekday](https://www.weekday.works)** | **[DevOps Engineer](https://jobr.pro/job/31334858/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 30 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[DevOps Engineer](https://jobr.pro/job/31333012/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, Australia | Remote | Oct 30 |
-| **[Telia](https://www.teliacompany.com/)** | **[DevOps Engineer (Public Cloud)](https://jobr.pro/job/31349389/devops-engineer-public-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Solna, Sweden | On Site | Oct 30 |
-| **[LegalMatch.com](https://legalmatch.com)** | **[Principal DevOps Engineer (Remote, Philippines)](https://jobr.pro/job/31344583/principal-devops-engineer-remote-philippines?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Central Visayas, Philippines - Remote | Remote | Oct 30 |
-| **[If Insurance](https://www.if.se/)** | **[DevOps Engineer](https://jobr.pro/job/31362352/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ballerup (37), Denmark | On Site | Oct 30 |
-| **[NN Group](https://www.nn-group.com/)** | **[DevOps Engineer](https://jobr.pro/job/31365095/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Digital Hub Prague, Czechia | On Site | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 203k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
