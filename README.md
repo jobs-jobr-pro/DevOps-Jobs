@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Software Mind](https://softwaremind.com)** | **[\[CMI\] Cloud DevOps Engineer (AWS)](https://jobr.pro/job/31693276/cmi-cloud-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Nov 04 |
 | **[monday.com](https://monday.com/)** | **[Senior DevOps Engineer (AI Group)](https://jobr.pro/job/31662558/senior-devops-engineer-ai-group?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 04 |
+| **[Experian](https://www.experian.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31693440/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Nov 04 |
 | **[Antino](https://www.antino.com/)** | **[DevOps Engineer](https://jobr.pro/job/31658734/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Haryana, Gurugram, India | On Site | Nov 04 |
 | **[aiOla](https://aiola.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31662866/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Nov 04 |
 | **[Quantum Machines](https://www.quantum-machines.co/)** | **[DevOps Engineer](https://jobr.pro/job/31662696/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 04 |
@@ -27,11 +29,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31615390/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Greater Delhi Area | Remote | Nov 04 |
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[DevOps Engineer - TSO008](https://jobr.pro/job/31627248/devops-engineer-tso008?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 04 |
 | **[ING](https://www.ing.com/)** | **[DevOps Engineer Operations – Online- & Mobile-Banking (w/m/d) in Frankfurt / Nürnberg](https://jobr.pro/job/31592106/devops-engineer-operations-online-mobile-banking-wmd-in-frankfurt-nurnberg?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nürnberg, Germany | On Site | Nov 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer / SSH Key Management, AVP](https://jobr.pro/job/31691697/devops-engineer-ssh-key-management-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer, AVP](https://jobr.pro/job/31691680/devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Margarpatta, India | On Site | Nov 04 |
+| **[ING](https://www.ing.com/)** | **[DevOps Engineer @ING Hubs Romania](https://jobr.pro/job/31692597/devops-engineer-ing-hubs-romania?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest - Dacia One, Romania | On Site | Nov 04 |
+| **[RTX](https://www.rtx.com/)** | **[Platform DevOps Engineer II (Onsite)](https://jobr.pro/job/31692644/platform-devops-engineer-ii-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | TX232: Richardson 1727 CityLine 1727 East CityLine Drive Building C27, Richardson, TX, 75082 USA, United States | On Site | Nov 04 |
 | **[Telia](https://www.teliacompany.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31668173/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Solna, Sweden | On Site | Nov 04 |
 | **[Datalynx AG](https://www.datalynx.ch)** | **[DevOps Engineer (m/f/d)](https://jobr.pro/job/31657363/devops-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Risch-Rotkreuz, Switzerland | On Site | Nov 04 |
 | **[Weekday](https://www.weekday.works)** | **[DevOps Engineer](https://jobr.pro/job/31654051/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 04 |
-| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer / SSH Key Management, AVP](https://jobr.pro/job/31691697/devops-engineer-ssh-key-management-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
-| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer, AVP](https://jobr.pro/job/31691680/devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Margarpatta, India | On Site | Nov 04 |
 | **[Morse Micro](https://www.morsemicro.com/)** | **[DevOps Engineer](https://jobr.pro/job/31607953/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Melbourne, Victoria, Australia | On Site | Nov 03 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff DevOps Engineer (Cortex)](https://jobr.pro/job/31594430/sr-staff-devops-engineer-cortex?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Santa Clara, CA, United States | On Site | Nov 03 |
 | **[Agile Defense](https://agile-defense.com)** | **[DevOps Engineer](https://jobr.pro/job/31600797/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Nov 03 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cochlear](https://www.cochlear.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/31585264/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | BE Mechelen, Belgium | On Site | Nov 03 |
 | **[KNOREX](https://www.knorex.com/)** | **[DevOps Engineer (System Engineer)](https://jobr.pro/job/31550245/devops-engineer-system-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Maharashtra, India | On Site | Nov 03 |
 | **[RIB Software](https://www.rib-software.com/)** | **[Cloud DevOps Engineer](https://jobr.pro/job/31568758/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (RIB India, Remote) | Remote | Nov 03 |
-| **[Hiscox](https://www.hiscoxgroup.com/)** | **[DevOps Engineer Specialist](https://jobr.pro/job/31583169/devops-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Portugal | On Site | Nov 03 |
-| **[ING](https://www.ing.com/)** | **[DevOps Engineer - CLM @ ING Hubs RO](https://jobr.pro/job/31592127/devops-engineer-clm-ing-hubs-ro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest - Dacia One, Romania | On Site | Nov 03 |
-| **[ING](https://www.ing.com/)** | **[DevOps Engineer \| IB Portal @ING Hubs Romania](https://jobr.pro/job/31592113/devops-engineer-ib-portal-ing-hubs-romania?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cluj (Teodor Mihali), Romania | On Site | Nov 03 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/31583774/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 4 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Nov 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 158k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
