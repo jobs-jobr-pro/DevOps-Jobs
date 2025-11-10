@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -29,6 +29,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Lead DevOps Engineer](https://jobr.pro/job/32079056/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Glasgow Campus, United Kingdom | On Site | Nov 10 |
 | **[Logical Media Group](https://logicalmediagroup.com/)** | **[Cloud DevOps Engineer](https://jobr.pro/job/32076085/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogota, Colombia - Remote | Remote | Nov 10 |
 | **[UBS](https://www.ubs.com/)** | **[Tech DevOps Engineer](https://jobr.pro/job/32072181/tech-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Nov 10 |
+| **[CSG](https://www.csgi.com/)** | **[Operations DevOps Engineer II](https://jobr.pro/job/32101620/operations-devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | PT.Lisbon.Remote, Portugal | Remote | Nov 10 |
+| **[CSG](https://www.csgi.com/)** | **[Operational DevOps Engineer Senior](https://jobr.pro/job/32101617/operational-devops-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | PT.Lisbon.Remote, Portugal | Remote | Nov 10 |
+| **[Magna International](https://www.magna.com/)** | **[DevOps Engineer](https://jobr.pro/job/32086022/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1001 PAWTUCKET BLVD., LOWELL, MA 01854, USA, United States | On Site | Nov 10 |
 | **[Silverfort](https://silverfort.com)** | **[DevOps Engineer - Platform Team](https://jobr.pro/job/32078644/devops-engineer-platform-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, IL | On Site | Nov 09 |
 | **[ZoomInfo](https://www.zoominfo.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32051263/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ra'anana, Israel | On Site | Nov 09 |
 | **[Sumerge](https://www.sumerge.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/32071730/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Nov 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Versaterm](https://www.versaterm.com/)** | **[DevOps Engineer I - Security](https://jobr.pro/job/31978085/devops-engineer-i-security?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
 | **[Versaterm](https://www.versaterm.com/)** | **[DevOps Engineer III - Security](https://jobr.pro/job/31978083/devops-engineer-iii-security?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
 | **[Versaterm](https://www.versaterm.com/)** | **[DevOps Engineer III - Telemetry](https://jobr.pro/job/31978084/devops-engineer-iii-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
-| **[Linqia](https://www.linqia.com/)** | **[DevOps Engineer](https://jobr.pro/job/31988515/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogotá, Colombia | On Site | Nov 07 |
-| **[Versaterm](https://www.versaterm.com/)** | **[DevOps Engineer I - Telemetry](https://jobr.pro/job/31978086/devops-engineer-i-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
-| **[NICE](https://www.nice.com/)** | **[DevOps Engineer](https://jobr.pro/job/31980274/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA - Sandy, UT | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 156k  
+**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 151k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
