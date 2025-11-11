@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MUFG Investor Services](https://www.mufg-investorservices.com/)** | **[Mid Level DevOps Engineer (AWS)](https://jobr.pro/job/32125243/mid-level-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Limassol, Limassol, Cyprus | On Site | Nov 10 |
 | **[IVIX](https://www.ivix.ai/)** | **[DevOps Engineer](https://jobr.pro/job/32078760/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 10 |
 | **[Natural Intelligence](https://www.naturalint.com/)** | **[DevOps Engineer](https://jobr.pro/job/32078499/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 10 |
+| **[finanzen.net GmbH](https://www.finanzennet.gmbh)** | **[AWS Cloud Operations / DevOps Engineer (Financial Services)](https://jobr.pro/job/32125245/aws-cloud-operations-devops-engineer-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Karlsruhe, BW, Germany | On Site | Nov 10 |
 | **[HARMAN International](https://www.harman.com/)** | **[DevOps Engineer](https://jobr.pro/job/32071046/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 10 |
 | **[Team8](https://team8.vc/)** | **[Team8 Stealth Cyber Start up -DevOps Engineer, Core Team](https://jobr.pro/job/32079685/team8-stealth-cyber-start-up-devops-engineer-core-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 10 |
 | **[BI:PROCSI](https://biprocsi.co.uk/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32066594/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, United Kingdom | On Site | Nov 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sonatus](https://www.sonatus.com/)** | **[Senior Staff DevOps Engineer](https://jobr.pro/job/31982343/senior-staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sunnyvale, CA | On Site | Nov 07 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Senior DevOps Engineer - Telemetry](https://jobr.pro/job/31978088/senior-devops-engineer-telemetry?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Senior DevOps Engineer - Security](https://jobr.pro/job/31978087/senior-devops-engineer-security?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
-| **[Versaterm](https://www.versaterm.com/)** | **[DevOps Engineer I - Security](https://jobr.pro/job/31978085/devops-engineer-i-security?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
-| **[Versaterm](https://www.versaterm.com/)** | **[DevOps Engineer III - Security](https://jobr.pro/job/31978083/devops-engineer-iii-security?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Salt Lake City, Utah, United States | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 151k  
+**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 151k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
