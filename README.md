@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -30,7 +30,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TransUnion](https://www.transunion.com/)** | **[DevOps Engineer](https://jobr.pro/job/32422219/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, India | On Site | Nov 14 |
 | **[OptiSigns Inc.](https://www.optisigns.com/)** | **[DevOps Engineer (Mid-Level)](https://jobr.pro/job/32464346/devops-engineer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Nov 14 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32488548/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Nov 14 |
+| **[Trimble](https://www.trimble.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/32506264/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Chennai | On Site | Nov 14 |
 | **[KeyBank](https://www.key.com/)** | **[Lead DevOps Engineer - KeyNavigator](https://jobr.pro/job/32503569/lead-devops-engineer-keynavigator?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 4910 Tiedeman Road, Brooklyn, OH, United States | On Site | Nov 14 |
+| **[AVEVA](https://www.aveva.com/)** | **[Senior Cloud DevOps Engineer, Cloud Security](https://jobr.pro/job/32506331/senior-cloud-devops-engineer-cloud-security?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Derry/Londonderry, United Kingdom | On Site | Nov 14 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/32425833/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Nov 13 |
 | **[Scout Motors](https://www.scoutmotors.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32427641/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Fremont, CA; Charlotte, NC, United States | On Site | Nov 13 |
 | **[S&S Activewear](https://www.ssactivewear.com/)** | **[DevOps Engineer](https://jobr.pro/job/32444004/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bolingbrook, IL, US | On Site | Nov 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer - SE](https://jobr.pro/job/32376008/senior-devops-engineer-se?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, KA, India | On Site | Nov 13 |
 | **[SONIFI Solutions, Inc.](https://www.sonifi.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32387818/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | On Site | Nov 13 |
 | **[Fictiv](https://www.fictiv.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/32340338/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India Office | On Site | Nov 13 |
-| **[Shield AI](https://shield.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32426191/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Melbourne | On Site | Nov 13 |
-| **[Social Discovery Group](https://socialdiscoverygroup.com/)** | **[DevOps Engineer (Video Services)](https://jobr.pro/job/32424700/devops-engineer-video-services?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Worldwide | Remote | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 49 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 12% remote | 49 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
