@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,12 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SimCorp](https://www.simcorp.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/32538282/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, India | On Site | Nov 15 |
 | **[The Linux Foundation](https://www.linuxfoundation.org/)** | **[Senior DevOps Engineer, Overture Maps Foundation](https://jobr.pro/job/32507239/senior-devops-engineer-overture-maps-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA, United States | On Site | Nov 14 |
 | **[Apptegy](https://www.apptegy.com/)** | **[DevOps Engineer](https://jobr.pro/job/32515844/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | On Site | Nov 14 |
 | **[Capco](https://www.capco.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/32515496/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada - Toronto | On Site | Nov 14 |
 | **[Perforce Software](https://www.perforce.com/)** | **[DevOps Engineer I](https://jobr.pro/job/32517810/devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Burlington, MA | On Site | Nov 14 |
 | **[NielsenIQ](https://nielseniq.com)** | **[DevOps Engineer](https://jobr.pro/job/32507240/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, MH, India | On Site | Nov 14 |
 | **[Frasers Group](https://www.frasers.group)** | **[Senior Cloud DevOps Engineer](https://jobr.pro/job/32507158/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Shirebrook, England, United Kingdom | On Site | Nov 14 |
+| **[exmox GmbH](https://exmox.com)** | **[DevOps Engineer](https://jobr.pro/job/32534726/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hamburg, Germany | On Site | Nov 14 |
 | **[XO Health](https://xohealth.com/)** | **[DevOps Engineer](https://jobr.pro/job/32512957/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India (Remote) | Remote | Nov 14 |
 | **[Momentus Technologies](https://ungerboeck.com)** | **[DevOps Engineer](https://jobr.pro/job/32507242/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, NSW, Australia | On Site | Nov 14 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Cloud & DevOps Engineer H/F](https://jobr.pro/job/32507164/senior-cloud-devops-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lille, Hauts-de-France, France | On Site | Nov 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ouro](https://www.ouro.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32430834/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India (Noida) | On Site | Nov 13 |
 | **[Software Mind](https://softwaremind.com)** | **[\[RFO\] Senior DevOps Engineer](https://jobr.pro/job/32441091/rfo-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Nov 13 |
 | **[Lely](https://www.lely.com)** | **[DevOps Engineer](https://jobr.pro/job/32438229/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Maassluis, ZH, Netherlands | On Site | Nov 13 |
-| **[Flashbots](https://www.flashbots.net/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32430248/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Nov 13 |
-| **[Sigma Software](https://career.sigma.software)** | **[Senior Site Reliability Engineer / Senior DevOps Engineer (ConnectWise)](https://jobr.pro/job/32432932/senior-site-reliability-engineer-senior-devops-engineer-connectwise?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | São Paulo, SP, Brazil | On Site | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 48 companies | Avg salary: 162k  
+**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 162k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
