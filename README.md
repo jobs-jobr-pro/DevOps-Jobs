@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -16,8 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Frequentis AG](https://www.frequentis.com/)** | **[DevOps Engineer (all genders)](https://jobr.pro/job/32555330/devops-engineer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vienna | On Site | Nov 15 |
 | **[Fiverr](https://www.fiverr.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/32568495/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 15 |
 | **[SimCorp](https://www.simcorp.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/32538282/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, India | On Site | Nov 15 |
-| **[Qualifacts](https://www.qualifacts.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/32589661/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vadodara, India | On Site | Nov 15 |
 | **[CMC Markets](https://www.cmcmarkets.com/)** | **[Senior Cloud DevOps Engineer - 18 Month Maximum Term Contract](https://jobr.pro/job/32590877/senior-cloud-devops-engineer-18-month-maximum-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, Australia | On Site | Nov 15 |
+| **[Qualifacts](https://www.qualifacts.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/32589661/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vadodara, India | On Site | Nov 15 |
 | **[The Linux Foundation](https://www.linuxfoundation.org/)** | **[Senior DevOps Engineer, Overture Maps Foundation](https://jobr.pro/job/32507239/senior-devops-engineer-overture-maps-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA, United States | On Site | Nov 14 |
 | **[Apptegy](https://www.apptegy.com/)** | **[DevOps Engineer](https://jobr.pro/job/32515844/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | On Site | Nov 14 |
 | **[Capco](https://www.capco.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/32515496/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada - Toronto | On Site | Nov 14 |
