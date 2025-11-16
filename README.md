@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fiverr](https://www.fiverr.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/32568495/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 15 |
 | **[SimCorp](https://www.simcorp.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/32538282/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, India | On Site | Nov 15 |
 | **[Qualifacts](https://www.qualifacts.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/32589661/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vadodara, India | On Site | Nov 15 |
+| **[CMC Markets](https://www.cmcmarkets.com/)** | **[Senior Cloud DevOps Engineer - 18 Month Maximum Term Contract](https://jobr.pro/job/32590877/senior-cloud-devops-engineer-18-month-maximum-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, Australia | On Site | Nov 15 |
 | **[The Linux Foundation](https://www.linuxfoundation.org/)** | **[Senior DevOps Engineer, Overture Maps Foundation](https://jobr.pro/job/32507239/senior-devops-engineer-overture-maps-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA, United States | On Site | Nov 14 |
 | **[Apptegy](https://www.apptegy.com/)** | **[DevOps Engineer](https://jobr.pro/job/32515844/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | On Site | Nov 14 |
 | **[Capco](https://www.capco.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/32515496/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada - Toronto | On Site | Nov 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sydecar](https://www.sydecar.io/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32429330/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco Office - Hybrid | Remote | Nov 13 |
 | **[Zenity](https://www.zenity.io/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32478463/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Nov 13 |
 | **[Jump Trading](https://www.jumptrading.com/)** | **[Windows DevOps Engineer](https://jobr.pro/job/32429732/windows-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hong Kong | On Site | Nov 13 |
-| **[Hologic, Inc.](https://www.hologic.com/)** | **[Sr. DevOps Engineer - Marlborough, MA](https://jobr.pro/job/32468305/sr-devops-engineer-marlborough-ma?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Marlborough, MA, United States | On Site | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 49 companies | Avg salary: 157k  
+**Current Stats:** 50 jobs | 8% remote | 49 companies | Avg salary: 159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
