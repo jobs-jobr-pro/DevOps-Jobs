@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[DevOps Engineer - TSO009](https://jobr.pro/job/32689121/devops-engineer-tso009?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 18 |
 | **[Trellix](https://www.trellix.com/)** | **[Senior Staff DevOps Engineer](https://jobr.pro/job/32718312/senior-staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India, Bangalore | On Site | Nov 18 |
 | **[Alcon](https://www.alcon.com/)** | **[Cloud DevOps Engineer Lead and Architect](https://jobr.pro/job/32729239/cloud-devops-engineer-lead-and-architect?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore - AGS, India | On Site | Nov 18 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Principal Platform/Devops Engineer](https://jobr.pro/job/32734622/principal-platformdevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, NSW - CBP North, 1 Harbour Street, Australia | On Site | Nov 18 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/32728310/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Portugal | On Site | Nov 18 |
 | **[Encora](https://www.encora.com/)** | **[DevOps Engineer Mid](https://jobr.pro/job/32663747/devops-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Peru | On Site | Nov 17 |
 | **[SpaceX](https://www.spacex.com/)** | **[Sr. DevOps Engineer (HPC)](https://jobr.pro/job/32661274/sr-devops-engineer-hpc?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hawthorne, CA | On Site | Nov 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Tech DevOps Engineer](https://jobr.pro/job/32618945/tech-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Nov 17 |
 | **[Carrier](https://corporate.carrier.com/)** | **[Devops Engineer](https://jobr.pro/job/32623501/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Building No: 12C, Floor 9,10,11, Building No: 12B -Stilt floor, Raheja Mindspace, Cyberabad, Madhapur, Hyderabad - 500081, Telangana, India | On Site | Nov 17 |
 | **[State Street](https://www.statestreet.com/)** | **[Lead DevOps Engineer - Assistant Manager](https://jobr.pro/job/32640983/lead-devops-engineer-assistant-manager?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, India | On Site | Nov 17 |
-| **[Inhabit](https://inhabit.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32632818/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US TN IIQ 001 Knoxville TN Office - Knoxville, TN, 37922 | On Site | Nov 17 |
 
 ---
 
