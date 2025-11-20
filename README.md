@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -43,6 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NN Group](https://www.nn-group.com/)** | **[DevOps Engineer](https://jobr.pro/job/32825578/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Digital Hub Madrid, Spain | On Site | Nov 19 |
 | **[Workday](https://www.workday.com/)** | **[Senior DevOps Engineer - CICD](https://jobr.pro/job/32826361/senior-devops-engineer-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND.Chennai, India | On Site | Nov 19 |
 | **[ICF](https://www.icf.com/)** | **[Senior Cloud DevOps Engineer](https://jobr.pro/job/32826001/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India Remote Office (II99) | Remote | Nov 19 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior DevOps Engineer - Vice President](https://jobr.pro/job/32829581/senior-devops-engineer-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 3800 CITIGROUP CENTER DRIVE BUILDING F TAMPA, United States | On Site | Nov 19 |
 | **[Perficient](https://www.perficient.com/)** | **[Lead Ansible DevOps Engineer](https://jobr.pro/job/32785727/lead-ansible-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | CHICAGO, IL, United States | On Site | Nov 18 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/32740246/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Nov 18 |
 | **[Cision](https://www.cision.com/)** | **[Brandwatch, Staff DevOps Engineer – DevX](https://jobr.pro/job/32738592/brandwatch-staff-devops-engineer-devx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sofia, Bulgaria | On Site | Nov 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[T-Systems International](https://www.t-systems.com)** | **[DevOps Engineer – Telco Hub Madrid](https://jobr.pro/job/32754902/devops-engineer-telco-hub-madrid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid, MD, Spain | On Site | Nov 18 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Lead GCP DevOps Engineer](https://jobr.pro/job/32701880/lead-gcp-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | LK-1-Colombo | On Site | Nov 18 |
 | **[Swisscom](https://www.swisscom.ch/en/about/career/devops-rotterdam.html)** | **[DevOps Engineer (Splunk)](https://jobr.pro/job/32739781/devops-engineer-splunk?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Nov 18 |
-| **[Sporty Group](https://www.sportygroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/32742529/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | EUROPE REMOTE | Remote | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 105k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
