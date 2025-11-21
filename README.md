@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -34,6 +34,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Workday](https://www.workday.com/)** | **[Senior Devops Engineer (US Federal)](https://jobr.pro/job/32913379/senior-devops-engineer-us-federal?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA, VA, McLean, United States | On Site | Nov 20 |
 | **[Huron](https://www.huronconsultinggroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32914360/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore India - Outer Ring Road | On Site | Nov 20 |
 | **[Reserve Bank of Australia](https://www.rba.gov.au/)** | **[Senior DevOps Engineer - until Dec 2026 Term Contract](https://jobr.pro/job/32901163/senior-devops-engineer-until-dec-2026-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Head Office, Australia | On Site | Nov 20 |
+| **[Mr. Cooper](https://www.mrcooper.com/)** | **[DevOps Engineer II](https://jobr.pro/job/32914900/devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai Xome Block 5, India | On Site | Nov 20 |
+| **[Mr. Cooper](https://www.mrcooper.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32914898/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai NSM Block 7, India | On Site | Nov 20 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Senior DevOps Engineer, AVP](https://jobr.pro/job/32916235/senior-devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Margarpatta, India | On Site | Nov 20 |
 | **[Laureate Education](https://www.laureate.net/)** | **[DEVOPS ENGINEER](https://jobr.pro/job/32892663/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | LIMA, Peru | On Site | Nov 19 |
 | **[Reapit](https://www.reapit.com.au/)** | **[DevOps Engineer](https://jobr.pro/job/32873377/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Milton, Australia | Remote | Nov 19 |
 | **[Forward Networks](https://www.forwardnetworks.com/)** | **[DevOps Engineer](https://jobr.pro/job/32839285/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote USA | Remote | Nov 19 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[DevOps Engineer (m/w/d)](https://jobr.pro/job/32785995/devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kiel | On Site | Nov 19 |
 | **[Augusta Hitech](https://augustahitech.com/)** | **[002ACH - DevOps Engineer](https://jobr.pro/job/32797924/002ach-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tamil Nadu, Coimbatore, India | On Site | Nov 19 |
 | **[AUTO1 Group](https://www.auto1-group.com)** | **[Senior DevOps Engineer - ElasticSearch Admin - Search & Services - (f/m/x)](https://jobr.pro/job/32783657/senior-devops-engineer-elasticsearch-admin-search-services-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin, Berlin, Germany | On Site | Nov 19 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[DevOps Engineer](https://jobr.pro/job/32789092/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka, India | On Site | Nov 19 |
-| **[Lely](https://www.lely.com)** | **[Cloud DevOps Engineer](https://jobr.pro/job/32783508/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Maassluis, ZH, Netherlands | On Site | Nov 19 |
-| **[Lely](https://www.lely.com)** | **[Embedded DevOps Engineer](https://jobr.pro/job/32849286/embedded-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Maassluis, ZH, Netherlands | On Site | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
