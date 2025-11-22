@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[DevOps Engineer - Val](https://jobr.pro/job/32969345/devops-engineer-val?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Beirut, Beirut Governorate, Lebanon | On Site | Nov 21 |
 | **[NTT DATA](https://nttdata.com)** | **[Senior DevOps Engineer - GCP Infrastructure & Networking](https://jobr.pro/job/32946391/senior-devops-engineer-gcp-infrastructure-networking?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, TN, IN | On Site | Nov 21 |
 | **[Truist](https://www.truist.com/)** | **[Salesforce DevOps Engineer](https://jobr.pro/job/32994622/salesforce-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Atlanta GA - 303 Peachtree Center Avenue - Garden Offices, United States | On Site | Nov 21 |
+| **[KBR, Inc.](https://www.kbr.com/)** | **[Senior Cloud DevOps Engineer](https://jobr.pro/job/32996737/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA, MFleets Operations, Sioux Falls, 3900 West Technology Circle, Suite 4, South Dakota, United States | On Site | Nov 21 |
 | **[Tether Operations Limited](https://tether.to/en/)** | **[DevOps Engineer - 100% remote](https://jobr.pro/job/32924967/devops-engineer-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote job | Remote | Nov 20 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32929099/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Brasília, Federal District, Brazil | Remote | Nov 20 |
 | **[MarketAxess](https://www.marketaxess.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32922579/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, New York, United States | On Site | Nov 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[DevOps Engineer (SP)](https://jobr.pro/job/32881908/devops-engineer-sp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Nov 20 |
 | **[Origami Risk](https://www.origamirisk.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/32936555/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, United States | Remote | Nov 20 |
 | **[Version 1](https://www.version1.com)** | **[Senior Microsoft Azure DevOps Engineer](https://jobr.pro/job/32857739/senior-microsoft-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, KA, India | On Site | Nov 20 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - DevOps Engineer (Kubernetes/AWS/Terraform)](https://jobr.pro/job/32874155/software-engineer-iii-devops-engineer-kubernetesawsterraform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 20 |
 
 ---
 
