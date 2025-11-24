@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Entangle](https://www.entangle.fi/)** | **[DevOps Engineer (Trusted Execution Environment)](https://jobr.pro/job/33062960/devops-engineer-trusted-execution-environment?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London | On Site | Nov 23 |
+| **[Hostinger](https://www.hostinger.com/)** | **[Senior DevOps engineer](https://jobr.pro/job/33061404/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius | On Site | Nov 23 |
 | **[ECS](https://ecstech.com/)** | **[Sr Cloud DevOps Engineer](https://jobr.pro/job/33054787/sr-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Work from home, VA | Remote | Nov 22 |
+| **[Razorpay](https://razorpay.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33064812/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore | On Site | Nov 22 |
 | **[DKB \| Deutsche Kreditbank AG](https://www.dkb.de)** | **[DevOps Engineer](https://jobr.pro/job/33013266/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin, BE, DE, 10117 | On Site | Nov 22 |
 | **[Capgemini](https://www.capgemini.com)** | **[Devops Engineer](https://jobr.pro/job/33010075/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, IN | On Site | Nov 22 |
 | **[SambaNova Systems](https://trysambanova.ai)** | **[Principal DevOps Engineer](https://jobr.pro/job/33020795/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - US | Remote | Nov 22 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Applied Research Solutions](https://www.appliedres.com)** | **[DevOps Engineer](https://jobr.pro/job/32942095/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dayton, Ohio, United States | On Site | Nov 20 |
 | **[Gentoo Media](https://www.gentoomedia.com/)** | **[DevOps Engineer](https://jobr.pro/job/32957790/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Birkirkara, Malta | On Site | Nov 20 |
 | **[Netcompany](https://www.netcompany.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/32932245/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Greece | On Site | Nov 20 |
-| **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/32934841/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Čačak, Serbia | On Site | Nov 20 |
-| **[Arago Inc.](https://www.arago.inc/)** | **[Cloud Infrastructure & DevOps Engineer](https://jobr.pro/job/32931643/cloud-infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paris Offices | On Site | Nov 20 |
-| **[XALT](https://www.xalt.de)** | **[Senior DevOps Engineer (m/w/d)](https://jobr.pro/job/32945071/senior-devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | München, Germany | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 48 companies | Avg salary: 184k  
+**Current Stats:** 50 jobs | 18% remote | 49 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
