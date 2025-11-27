@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Miratech](https://miratechgroup.com/)** | **[Senior DevOps Engineer (GCP/ Argo CD)](https://jobr.pro/job/33287096/senior-devops-engineer-gcp-argo-cd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | All cities, India | On Site | Nov 26 |
+| **[Experian](https://www.experian.com/)** | **[DevOps Engineer](https://jobr.pro/job/33287097/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sofia, Bulgaria | On Site | Nov 26 |
 | **[HARMAN International](https://www.harman.com/)** | **[Devops Engineer](https://jobr.pro/job/33248873/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 26 |
 | **[3Shape](https://www.3shape.com/)** | **[Azure DevOps Engineer – ERP & CRM Integration](https://jobr.pro/job/33240703/azure-devops-engineer-erp-crm-integration?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Szczecin, Poland | On Site | Nov 26 |
 | **[IntegriChain](https://www.integrichain.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/33212723/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, MH, India | On Site | Nov 26 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Frequentis AG](https://www.frequentis.com/)** | **[DevOps Engineer \| \[MosaiX - Helicon\]](https://jobr.pro/job/33162410/devops-engineer-mosaix-helicon?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cluj-Napoca, Cluj | On Site | Nov 25 |
 | **[Deutsche Telekom IT Solutions Slovakia](https://www.deutschetelekomitsolutions.sk/)** | **[Senior DevOps Engineer for Open Sovereign Cloud](https://jobr.pro/job/33163345/senior-devops-engineer-for-open-sovereign-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Košice, Košický kraj, Slovakia (Slovak Republic) | On Site | Nov 25 |
 | **[Fliff](https://www.getfliff.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/33209440/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Philadelphia, PA | Remote | Nov 25 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[GCP DevOps Engineer](https://jobr.pro/job/33159142/gcp-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, Tamil Nadu, India | On Site | Nov 25 |
-| **[Photon](https://www.photon.com/)** | **[DevOps Engineer \| India](https://jobr.pro/job/33155412/devops-engineer-india?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | On Site | Nov 25 |
 
 ---
 
