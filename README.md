@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -35,6 +35,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[iKnowHow S.A.](https://www.iknowhow.com)** | **[DevOps Engineer](https://jobr.pro/job/33251886/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Neo Psychiko, Attica, Greece | On Site | Nov 26 |
 | **[UBS](https://www.ubs.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/33250563/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Nov 26 |
 | **[Rakuten Kobo Inc.](https://www.kobo.com/)** | **[DevOps Engineer (12-Month Co-op)](https://jobr.pro/job/33274939/devops-engineer-12-month-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | ON-John Street, Canada | On Site | Nov 26 |
+| **[NTT DATA](https://hello.global.ntt/)** | **[\[Freelance/Staffing\] Azure DevOps Engineer](https://jobr.pro/job/33281237/freelancestaffing-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Diegem, Belgium | On Site | Nov 26 |
+| **[ING](https://www.ing.com/)** | **[DevOps Engineer – FlexING Platform @ING Hubs Romania](https://jobr.pro/job/33286313/devops-engineer-flexing-platform-ing-hubs-romania?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest - Dacia One, Romania | On Site | Nov 26 |
+| **[Absa Group](https://www.absa.africa/)** | **[DevOps Engineer - Consumer Products Squad (CDAIO)](https://jobr.pro/job/33282265/devops-engineer-consumer-products-squad-cdaio?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Main Point Pankrac, Czechia | On Site | Nov 26 |
 | **[Ursa Major](https://www.ursamajor.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/33205317/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berthoud, Colorado | On Site | Nov 25 |
 | **[Reach Security](https://reach.security)** | **[DevOps Engineer](https://jobr.pro/job/33213327/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | On Site | Nov 25 |
 | **[Callista](https://callista.ch/)** | **[DevOps Engineer](https://jobr.pro/job/33207313/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | St. Gallen, Sankt Gallen, Switzerland | On Site | Nov 25 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fliff](https://www.getfliff.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/33209440/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Philadelphia, PA | Remote | Nov 25 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[GCP DevOps Engineer](https://jobr.pro/job/33159142/gcp-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, Tamil Nadu, India | On Site | Nov 25 |
 | **[Photon](https://www.photon.com/)** | **[DevOps Engineer \| India](https://jobr.pro/job/33155412/devops-engineer-india?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | On Site | Nov 25 |
-| **[Ankorstore](https://www.ankorstore.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/33213111/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paris | On Site | Nov 25 |
-| **[Razorpay](https://razorpay.com/)** | **[DevOps Engineer](https://jobr.pro/job/33213503/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore | On Site | Nov 25 |
-| **[Josys](https://josys.com/)** | **[Lead DevOps engineer](https://jobr.pro/job/33212767/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ho Chi Minh | On Site | Nov 25 |
 
 ---
 
