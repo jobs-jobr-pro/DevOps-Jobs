@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -25,12 +25,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Mobile Application Development & Devops Engineer](https://jobr.pro/job/33329565/mobile-application-development-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Nov 27 |
 | **[Barclays](https://home.barclays/)** | **[DevOps Engineer](https://jobr.pro/job/33337921/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 27 |
 | **[Barclays](https://home.barclays/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33337807/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 27 |
+| **[Synechron](https://www.synechron.com/)** | **[GCP DevOps Engineer](https://jobr.pro/job/33342193/gcp-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Nov 27 |
 | **[Syniverse](https://syniverse.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/33349773/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India (Bangalore) | On Site | Nov 27 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/33343814/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, India | On Site | Nov 27 |
-| **[Synechron](https://www.synechron.com/)** | **[GCP DevOps Engineer](https://jobr.pro/job/33342193/gcp-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Nov 27 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Sr. DevOps Engineer (TS/SCI)](https://jobr.pro/job/33354320/sr-devops-engineer-tssci?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA VA Virginia Beach - 1922 Regulus Ave (VAC427), United States | On Site | Nov 27 |
 | **[Workday](https://www.workday.com/)** | **[Senior DevOps Engineer - CICD](https://jobr.pro/job/33353911/senior-devops-engineer-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND.Chennai, India | On Site | Nov 27 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33355073/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | BUN01 - Buenos Aires, AR - EDS (BUN01), Argentina | On Site | Nov 27 |
+| **[Tietoevry](https://www.tietoevry.com/)** | **[DevOps Engineer](https://jobr.pro/job/33355812/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ostrava - Organica, Czechia | On Site | Nov 27 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Senior DevOps Engineer (f/m/x) – Single Sign On Services Engineering](https://jobr.pro/job/33356157/senior-devops-engineer-fmx-single-sign-on-services-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin Otto-Suhr-Allee 16, Germany | On Site | Nov 27 |
 | **[Linqia](https://www.linqia.com/)** | **[DevOps Engineer](https://jobr.pro/job/33292878/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogotá, Colombia | On Site | Nov 26 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Senior Cloud Infrastructure & DevOps Engineer (Azure) - Software](https://jobr.pro/job/33297779/senior-cloud-infrastructure-devops-engineer-azure-software?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | São Paulo | Remote | Nov 26 |
 | **[True Anomaly](https://www.trueanomaly.space/)** | **[DevOps Engineer II](https://jobr.pro/job/33299365/devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Denver, CO or Long Beach, CA | On Site | Nov 26 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LSEG](https://www.lseg.com/)** | **[Azure Senior DevOps Engineer](https://jobr.pro/job/33269746/azure-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND-BLR-Divyasree Technopolis, India | On Site | Nov 26 |
 | **[Workday](https://www.workday.com/)** | **[DevOps Engineer](https://jobr.pro/job/33279792/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND.Chennai, India | On Site | Nov 26 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/33279535/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1 Merchant Place, 1 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Nov 26 |
-| **[A1 Telekom Austria Group](https://www.a1.group/)** | **[DevOps Engineer](https://jobr.pro/job/33257012/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | София, ул. Кукуш 1, сграда 7, етаж 3, Bulgaria | On Site | Nov 26 |
-| **[Accso](https://accso.de)** | **[Senior Cloud & DevOps Engineer*](https://jobr.pro/job/33253629/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Darmstadt, Germany | On Site | Nov 26 |
 
 ---
 
