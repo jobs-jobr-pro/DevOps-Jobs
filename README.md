@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sensia Global](https://www.sensiaglobal.com/)** | **[DevOps Engineer](https://jobr.pro/job/33377679/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 28 |
+| **[Capital One](https://www.capitalonecareers.com/)** | **[Principal Associate, DevOps Engineer](https://jobr.pro/job/33379190/principal-associate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, In, India | On Site | Nov 28 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[DevOps Engineer Aerospace (m/w/d)](https://jobr.pro/job/33370557/devops-engineer-aerospace-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | bundesweit, Germany | Remote | Nov 27 |
 | **[Butternut Box](https://butternutbox.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33362026/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | UK and Ireland | On Site | Nov 27 |
 | **[Ignitis Group](https://www.ignitisgrupe.lt)** | **[DEVOPS ENGINEER (F/M/D)](https://jobr.pro/job/33369609/devops-engineer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius, Vilnius County, Lithuania | On Site | Nov 27 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nearsure](https://www.nearsure.com/)** | **[(UP076) DevOps Engineer](https://jobr.pro/job/33298320/up076-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Latin America - Remote | Remote | Nov 26 |
 | **[HARMAN International](https://www.harman.com/)** | **[Devops Engineer](https://jobr.pro/job/33248873/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 26 |
 | **[Jahnel Group](https://www.jahnelgroup.com/)** | **[DevOps Engineer (Containerization)](https://jobr.pro/job/33293397/devops-engineer-containerization?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Schenectady, New York, United States | Remote | Nov 26 |
-| **[AMO Pictures](https://amo.tech/)** | **[Middle DevOps Engineer](https://jobr.pro/job/33302653/middle-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ukraine | On Site | Nov 26 |
-| **[3Shape](https://www.3shape.com/)** | **[Azure DevOps Engineer – ERP & CRM Integration](https://jobr.pro/job/33240703/azure-devops-engineer-erp-crm-integration?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Szczecin, Poland | On Site | Nov 26 |
 
 ---
 
