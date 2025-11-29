@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ThriveCart](https://thrivecart.com/)** | **[DevOps Engineer](https://jobr.pro/job/33411462/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (North America OR South America) | Remote | Nov 29 |
+| **[Next](https://www.next.co.uk/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33428464/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Nov 28 |
+| **[Next](https://www.next.co.uk/)** | **[DevOps Engineer](https://jobr.pro/job/33428465/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Nov 28 |
 | **[Alcumus](https://www.alcumus.com/)** | **[DevOps Engineer](https://jobr.pro/job/33418120/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Greater Montreal Metropolitan Area, Canada | On Site | Nov 28 |
 | **[Playtech](https://www.playtech.com/)** | **[DevOps Engineer](https://jobr.pro/job/33406455/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv, Ukraine | On Site | Nov 28 |
 | **[RemoteStar](https://www.remotestar.io/)** | **[DevOps Engineer (Barcelona)](https://jobr.pro/job/33385786/devops-engineer-barcelona?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cambourne, United Kingdom of Great Britain and Northern Ireland | On Site | Nov 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Syniverse](https://syniverse.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/33349773/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India (Bangalore) | On Site | Nov 27 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/33343814/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, India | On Site | Nov 27 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Sr. DevOps Engineer (TS/SCI)](https://jobr.pro/job/33354320/sr-devops-engineer-tssci?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA VA Virginia Beach - 1922 Regulus Ave (VAC427), United States | On Site | Nov 27 |
-| **[Workday](https://www.workday.com/)** | **[Senior DevOps Engineer - CICD](https://jobr.pro/job/33353911/senior-devops-engineer-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND.Chennai, India | On Site | Nov 27 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33355073/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | BUN01 - Buenos Aires, AR - EDS (BUN01), Argentina | On Site | Nov 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 49 companies | Avg salary: 110k  
+**Current Stats:** 50 jobs | 10% remote | 48 companies | Avg salary: 110k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
