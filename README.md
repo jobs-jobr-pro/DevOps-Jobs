@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capgemini](https://www.capgemini.com/)** | **[Cloud DevOps Engineer / Cloud Architect (AWS + Terraform/OpenTofu + EKS + OS Management)](https://jobr.pro/job/33874446/cloud-devops-engineer-cloud-architect-aws-terraformopentofu-eks-os-management?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US-NY-New York | On Site | Dec 06 |
 | **[beyonnex](https://beyonnex.io/)** | **[Senior Platform/ DevOps Engineer (m/f/d)](https://jobr.pro/job/33860758/senior-platform-devops-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Dec 06 |
 | **[CoreMedia](https://www.coremedia.com/)** | **[DevOps Engineer (all genders)](https://jobr.pro/job/33855746/devops-engineer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hamburg | On Site | Dec 06 |
+| **[Travelers](https://www.travelers.com/)** | **[Cloud DevOps Engineer - AWS](https://jobr.pro/job/33893985/cloud-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Redhill, United Kingdom | On Site | Dec 06 |
 | **[Linqia](https://www.linqia.com/)** | **[DevOps Engineer](https://jobr.pro/job/33837508/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogotá, Colombia | On Site | Dec 05 |
 | **[Miratech](https://miratechgroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33853159/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kolkata, WB, India | On Site | Dec 05 |
 | **[Gabb](https://gabbwireless.com/)** | **[Senior AWS DevOps Engineer](https://jobr.pro/job/33840459/senior-aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lehi, UT | On Site | Dec 05 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pure Storage](https://www.purestorage.com/)** | **[DevOps Engineer](https://jobr.pro/job/33738085/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Prague, Czech Republic | On Site | Dec 04 |
 | **[Pure Storage](https://www.purestorage.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33738091/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Prague, Czech Republic | On Site | Dec 04 |
 | **[VYNYL](https://vynyl.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33744183/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Los Angeles | On Site | Dec 04 |
-| **[Inetum](https://www.inetum.com)** | **[DevOps Engineer (Azure)](https://jobr.pro/job/33716246/devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Lisbon, Portugal | On Site | Dec 04 |
 
 ---
 
