@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -30,6 +30,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[DevOps Engineer](https://jobr.pro/job/33912457/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Remote | Remote | Dec 08 |
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Senior DevOps Engineer - A25218](https://jobr.pro/job/33919196/senior-devops-engineer-a25218?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore, Singapore, Singapore | On Site | Dec 08 |
 | **[RSM](https://rsmus.com/)** | **[Infrastructure DevOps Engineer Senior 1](https://jobr.pro/job/33936695/infrastructure-devops-engineer-senior-1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND-TG-Hyderabad-Equinox Tower 1 No. 53 Paiki, India | On Site | Dec 08 |
+| **[AVEVA](https://www.aveva.com/)** | **[Senior Cloud DevOps Engineer](https://jobr.pro/job/33949813/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Derry/Londonderry, United Kingdom | On Site | Dec 08 |
+| **[Deutsche Bank](https://www.db.com/)** | **[DevOps Engineer, Associate](https://jobr.pro/job/33948596/devops-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune - Business Bay, India | On Site | Dec 08 |
 | **[Rounds](https://www.rounds.com/)** | **[DevOps Engineer](https://jobr.pro/job/33932340/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Poland, PL | On Site | Dec 07 |
 | **[aiOla](https://aiola.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33932537/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 07 |
 | **[TF Bank](https://group.tfbank.se/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33922467/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gdańsk, Poland | On Site | Dec 07 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nearsure](https://www.nearsure.com/)** | **[(UP081) Senior DevOps Engineer](https://jobr.pro/job/33838397/up081-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Latin America - Remote | Remote | Dec 05 |
 | **[Experian](https://www.experian.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33832576/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Dec 05 |
 | **[Frequentis AG](https://www.frequentis.com/)** | **[DevOps Engineer \| \[MosaiX\]](https://jobr.pro/job/33797680/devops-engineer-mosaix?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cluj-Napoca, Cluj | On Site | Dec 05 |
-| **[LearningSuite](https://learningsuite.at/)** | **[DevOps Engineer (m/w/d)](https://jobr.pro/job/33838577/devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Graz, Steiermark, Österreich | On Site | Dec 05 |
-| **[Simply Business](https://www.simplybusiness.co.uk/)** | **[Principal DevOps Engineer](https://jobr.pro/job/33842889/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, UK | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 50 companies | Avg salary: 136k  
+**Current Stats:** 50 jobs | 18% remote | 50 companies | Avg salary: 147k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
