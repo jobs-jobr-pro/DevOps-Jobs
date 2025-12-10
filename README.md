@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -26,12 +26,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Worldpay](https://www.worldpay.com/)** | **[DevOps Engineer (Remote- Brazil)](https://jobr.pro/job/34015459/devops-engineer-remote-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | BRA SAOP 215 WP, Brazil | Remote | Dec 09 |
 | **[Telia](https://www.teliacompany.com/)** | **[DevOps Engineer](https://jobr.pro/job/34011740/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Oslo, Norway | On Site | Dec 09 |
 | **[Sysco](https://www.sysco.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34007908/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sysco LABS - Sri Lanka | On Site | Dec 09 |
+| **[Huron](https://www.huronconsultinggroup.com/)** | **[Platform / DevOps Engineer](https://jobr.pro/job/34036111/platform-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore India - South 3rd Floor | On Site | Dec 09 |
 | **[CrowdStrike](https://www.crowdstrike.com/)** | **[DevOps Engineer](https://jobr.pro/job/34022848/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid, Spain | On Site | Dec 09 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior Lead DevOps Engineer (World-Check Curation Platform)](https://jobr.pro/job/34022794/senior-lead-devops-engineer-world-check-curation-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | THA-Bangkok-One Bangkok, Thailand | On Site | Dec 09 |
 | **[State Street](https://www.statestreet.com/)** | **[DevOps Engineer - Application Team, Officer, Onsite](https://jobr.pro/job/34030525/devops-engineer-application-team-officer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sao Paulo, Brazil | On Site | Dec 09 |
 | **[Thales](https://www.thalesgroup.com/)** | **[DevOps Engineer - Applications Deployments](https://jobr.pro/job/34027268/devops-engineer-applications-deployments?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Austin - Arboretum Plaza, United States | On Site | Dec 09 |
 | **[SS&C Technologies](https://www.ssctech.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34031353/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Melbourne, Australia | On Site | Dec 09 |
-| **[Huron](https://www.huronconsultinggroup.com/)** | **[Platform / DevOps Engineer](https://jobr.pro/job/34036111/platform-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore India - South 3rd Floor | On Site | Dec 09 |
 | **[Ulteig](https://ulteig.com/)** | **[Senior Azure DevOps Engineer](https://jobr.pro/job/33982814/senior-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, United States | Remote | Dec 08 |
 | **[First Street](https://firststreet.org/)** | **[DevOps Engineer](https://jobr.pro/job/33963643/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York City | On Site | Dec 08 |
 | **[SmithRx](https://smithrx.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/33961499/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Dec 08 |
