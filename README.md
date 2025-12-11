@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AJNA INFOTECH](https://www.ajnait.com)** | **[Senior DevOps Engineer – AI/GenAI/Azure AI/AI Foundry/Python](https://jobr.pro/job/34130917/senior-devops-engineer-aigenaiazure-aiai-foundrypython?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dallas, Texas, United States | On Site | Dec 10 |
+| **[Inetum](https://www.inetum.com)** | **[DevOps Engineer / 1](https://jobr.pro/job/34131065/devops-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Dec 10 |
+| **[NielsenIQ](https://nielseniq.com)** | **[GenAI DevOps Engineer](https://jobr.pro/job/34130922/genai-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, MH, India | On Site | Dec 10 |
 | **[Papaya](https://www.papaya.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/34105087/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 10 |
 | **[BruntWork](https://www.bruntworkcareers.co/)** | **[DevOps Engineer (AWS, Rust, Python) - Fully Remote](https://jobr.pro/job/34095404/devops-engineer-aws-rust-python-fully-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Dec 10 |
 | **[aiOla](https://aiola.ai/)** | **[Senior DevOps Engineer (AWS)](https://jobr.pro/job/34104527/senior-devops-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Dec 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Portugal)](https://jobr.pro/job/34052931/senior-devops-engineer-full-remote-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Portugal | Remote | Dec 09 |
 | **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Poland)](https://jobr.pro/job/34052929/senior-devops-engineer-full-remote-poland?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | Remote | Dec 09 |
 | **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Norway)](https://jobr.pro/job/34052926/senior-devops-engineer-full-remote-norway?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Norway | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - North Macedonia)](https://jobr.pro/job/34052928/senior-devops-engineer-full-remote-north-macedonia?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | North Macedonia | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Netherlands)](https://jobr.pro/job/34052927/senior-devops-engineer-full-remote-netherlands?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Netherlands | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Montenegro)](https://jobr.pro/job/34052925/senior-devops-engineer-full-remote-montenegro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Montenegro | Remote | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 30 companies | Avg salary: 195k  
+**Current Stats:** 50 jobs | 38% remote | 33 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
