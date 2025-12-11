@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34200040/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Fairfax, VA, United States | On Site | Dec 11 |
 | **[abra](https://www.abra-it.com/)** | **[DevOps Engineer](https://jobr.pro/job/34192645/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ashkelon, South District, IL | On Site | Dec 11 |
 | **[Infotree Global Solutions](https://www.infotreeglobal.com)** | **[Devops Engineer](https://jobr.pro/job/34174410/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Poland | On Site | Dec 11 |
 | **[Euroclear](https://www.euroclear.com/)** | **[Terraform Infrastructure DevOps Engineer](https://jobr.pro/job/34176064/terraform-infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | On Site | Dec 11 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cubic](https://www.cubic.com/)** | **[DevOps Engineer](https://jobr.pro/job/34127308/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
 | **[Cubic](https://www.cubic.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34127305/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
 | **[AnaVation](https://anavationllc.com/)** | **[DevOps Engineer](https://jobr.pro/job/34050328/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chantilly, VA | On Site | Dec 09 |
-| **[DRW](https://drw.com/)** | **[DevOps Engineer, Blockchain Product](https://jobr.pro/job/34046417/devops-engineer-blockchain-product?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 132k  
+**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
