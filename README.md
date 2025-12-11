@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -28,6 +28,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[DevOps Engineer](https://jobr.pro/job/34106198/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Glasgow Campus, United Kingdom | On Site | Dec 10 |
 | **[ICF](https://www.icf.com/)** | **[Systems Administrator/DevOps Engineer (Top Secret clearance)](https://jobr.pro/job/34125539/systems-administratordevops-engineer-top-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nationwide Remote Office (US99), United States | Remote | Dec 10 |
 | **[Snap Inc.](https://snap.com/)** | **[DevOps Engineer, Cloud](https://jobr.pro/job/34127194/devops-engineer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vienna - Austria | On Site | Dec 10 |
+| **[CoStar Group](https://www.costargroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34128683/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US-VA Arlington, United States | On Site | Dec 10 |
+| **[General Motors](https://www.gm.com/)** | **[Staff DevOps Engineer, Web](https://jobr.pro/job/34128612/staff-devops-engineer-web?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Austin IT Innovation Center North - Austin IT Innovation Center North, United States | On Site | Dec 10 |
+| **[ING](https://www.ing.com/)** | **[Java DevOps Engineer (DBaaS API)](https://jobr.pro/job/34130157/java-devops-engineer-dbaas-api?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Katowice (Zabrska 19), Poland | On Site | Dec 10 |
+| **[Arrow Electronics](https://www.arrow.com/)** | **[Senior Cloud & DevOps Engineer (AWS \| Kubernetes \| Terraform)](https://jobr.pro/job/34130264/senior-cloud-devops-engineer-aws-kubernetes-terraform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ahmedabad, India | On Site | Dec 10 |
+| **[NTT DATA](https://hello.global.ntt/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34127317/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Barneveld, Netherlands | On Site | Dec 10 |
+| **[Cubic](https://www.cubic.com/)** | **[Principal DevOps Engineer](https://jobr.pro/job/34127310/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
+| **[Cubic](https://www.cubic.com/)** | **[DevOps Engineer](https://jobr.pro/job/34127308/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
+| **[Cubic](https://www.cubic.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34127305/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
 | **[AnaVation](https://anavationllc.com/)** | **[DevOps Engineer](https://jobr.pro/job/34050328/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chantilly, VA | On Site | Dec 09 |
 | **[DRW](https://drw.com/)** | **[DevOps Engineer, Blockchain Product](https://jobr.pro/job/34046417/devops-engineer-blockchain-product?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago | On Site | Dec 09 |
 | **[Merge](https://www.merge.dev/)** | **[DevOps Engineer](https://jobr.pro/job/34051757/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA or Remote | Remote | Dec 09 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - North Macedonia)](https://jobr.pro/job/34052928/senior-devops-engineer-full-remote-north-macedonia?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | North Macedonia | Remote | Dec 09 |
 | **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Netherlands)](https://jobr.pro/job/34052927/senior-devops-engineer-full-remote-netherlands?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Netherlands | Remote | Dec 09 |
 | **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Montenegro)](https://jobr.pro/job/34052925/senior-devops-engineer-full-remote-montenegro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Montenegro | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Moldova)](https://jobr.pro/job/34052924/senior-devops-engineer-full-remote-moldova?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Moldova | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Denmark)](https://jobr.pro/job/34052952/senior-devops-engineer-full-remote-denmark?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Denmark | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Malta)](https://jobr.pro/job/34052922/senior-devops-engineer-full-remote-malta?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malta | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Luxembourg)](https://jobr.pro/job/34052921/senior-devops-engineer-full-remote-luxembourg?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Luxembourg | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Lithuania)](https://jobr.pro/job/34052920/senior-devops-engineer-full-remote-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lithuania | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Latvia)](https://jobr.pro/job/34052919/senior-devops-engineer-full-remote-latvia?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Latvia | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Italy)](https://jobr.pro/job/34052918/senior-devops-engineer-full-remote-italy?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Italy | Remote | Dec 09 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior DevOps Engineer (Full Remote - Ireland)](https://jobr.pro/job/34052917/senior-devops-engineer-full-remote-ireland?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ireland | Remote | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 60% remote | 24 companies | Avg salary: 195k  
+**Current Stats:** 50 jobs | 44% remote | 30 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
