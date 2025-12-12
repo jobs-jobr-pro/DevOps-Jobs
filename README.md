@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ECS](https://ecstech.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34200040/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Fairfax, VA, United States | On Site | Dec 11 |
+| **[Experian](https://www.experian.com/)** | **[DevOps Engineer - Open Banking](https://jobr.pro/job/34213284/devops-engineer-open-banking?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sofia, Bulgaria | On Site | Dec 11 |
 | **[abra](https://www.abra-it.com/)** | **[DevOps Engineer](https://jobr.pro/job/34192645/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ashkelon, South District, IL | On Site | Dec 11 |
 | **[Infotree Global Solutions](https://www.infotreeglobal.com)** | **[Devops Engineer](https://jobr.pro/job/34174410/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Poland | On Site | Dec 11 |
 | **[Euroclear](https://www.euroclear.com/)** | **[Terraform Infrastructure DevOps Engineer](https://jobr.pro/job/34176064/terraform-infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | On Site | Dec 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cubic](https://www.cubic.com/)** | **[Principal DevOps Engineer](https://jobr.pro/job/34127310/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
 | **[Cubic](https://www.cubic.com/)** | **[DevOps Engineer](https://jobr.pro/job/34127308/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
 | **[Cubic](https://www.cubic.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34127305/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, Telangana, India | On Site | Dec 10 |
-| **[AnaVation](https://anavationllc.com/)** | **[DevOps Engineer](https://jobr.pro/job/34050328/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chantilly, VA | On Site | Dec 09 |
 
 ---
 
