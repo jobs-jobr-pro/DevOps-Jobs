@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -28,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EPOS](https://www.epos.com.sg/)** | **[DevOps Engineer (Lead/Senior/Middle)](https://jobr.pro/job/34251760/devops-engineer-leadseniormiddle?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Dec 12 |
 | **[Workday](https://www.workday.com/)** | **[Sr. Associate DevOps Engineer](https://jobr.pro/job/34267876/sr-associate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND.Chennai, India | On Site | Dec 12 |
 | **[Zoom](https://www.zoom.com/)** | **[Zoom AI DevOps Engineer](https://jobr.pro/job/34261616/zoom-ai-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (IND), India | Remote | Dec 12 |
+| **[ING](https://www.ing.com/)** | **[DevOps Engineer - TIP - PSS @ING Hubs Ro](https://jobr.pro/job/34284278/devops-engineer-tip-pss-ing-hubs-ro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest - Dacia One, Romania | On Site | Dec 12 |
 | **[Coalesce](https://coalesce.io/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34222023/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - US | Remote | Dec 11 |
 | **[Minitab](https://www.minitab.com/)** | **[DevOps Engineer](https://jobr.pro/job/34217645/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | State College, Pennsylvania, United States | On Site | Dec 11 |
 | **[NEORIS](https://www.neoris.com)** | **[DevOps Engineer Sr.](https://jobr.pro/job/34217747/devops-engineer-sr?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Buenos Aires, Argentina | On Site | Dec 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AJNA INFOTECH](https://www.ajnait.com)** | **[Senior DevOps Engineer – AI/GenAI/Azure AI/AI Foundry/Python](https://jobr.pro/job/34130917/senior-devops-engineer-aigenaiazure-aiai-foundrypython?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dallas, Texas, United States | On Site | Dec 10 |
 | **[Pickle Robot](https://picklerobot.com/)** | **[DevOps Engineer](https://jobr.pro/job/34140507/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Charlestown, MA | On Site | Dec 10 |
 | **[Banco Guayaquil](https://www.bancoguayaquil.com/)** | **[DELIVERY DEVOPS ENGINEER -MATRIZ-EDIFICIO PRINCIPAL-TECNOLOGIA-BG](https://jobr.pro/job/34187060/delivery-devops-engineer-matriz-edificio-principal-tecnologia-bg?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ecuador | On Site | Dec 10 |
-| **[Laureate Education](https://www.laureate.net/)** | **[DEVOPS ENGINEER](https://jobr.pro/job/34175744/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | LIMA, Peru | On Site | Dec 10 |
 
 ---
 
