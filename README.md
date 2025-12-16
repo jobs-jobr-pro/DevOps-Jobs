@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -27,6 +27,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[dentsu](https://www.dentsu.com/)** | **[DevOps Engineer](https://jobr.pro/job/34384727/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | DGS India - Bengaluru - Manyata N1 Block | On Site | Dec 15 |
 | **[Barclays](https://home.barclays/)** | **[Server OS senior Automation and DevOps engineer](https://jobr.pro/job/34387843/server-os-senior-automation-and-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 15 |
 | **[IRIUM](https://www.irium.es/)** | **[AWS DEVOPS ENGINEER – INGLES – MADRID](https://jobr.pro/job/34387319/aws-devops-engineer-ingles-madrid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Spain - Remote | Remote | Dec 15 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Infrastructure DevOps Engineer](https://jobr.pro/job/34401917/infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA, CA, San Diego (1615 Murray Canyon Rd), United States | On Site | Dec 15 |
+| **[LSEG](https://www.lseg.com/)** | **[DevOps Engineer](https://jobr.pro/job/34401670/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND-Hyderabad-CapitaLand, India | On Site | Dec 15 |
 | **[Soft Space](https://www.softspace.com.my/)** | **[Junior DevOps Engineer](https://jobr.pro/job/34387385/junior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 14 |
 | **[Jadeer](https://jadeer.ai)** | **[Junior DevOps Engineer](https://jobr.pro/job/34365862/junior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Al Giza, Egypt | On Site | Dec 14 |
 | **[Sidetrade](https://www.sidetrade.com/)** | **[DevOps Engineer](https://jobr.pro/job/34373825/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Boulogne-Billancourt, Île-de-France, France | On Site | Dec 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Miratech](https://miratechgroup.com/)** | **[Junior DevOps Engineer (GCP, Argo CD)](https://jobr.pro/job/34307115/junior-devops-engineer-gcp-argo-cd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Dec 12 |
 | **[Lighthouse](https://www.mylighthouse.com/)** | **[DevOps Engineer](https://jobr.pro/job/34298919/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ghent, Belgium | On Site | Dec 12 |
 | **[Engagedly Inc.](https://engagedly.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/34263216/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Karnataka, Bengaluru, India | On Site | Dec 12 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Senior DevOps Engineer - Financial Company - (Remote/Mexico)](https://jobr.pro/job/34303287/senior-devops-engineer-financial-company-remotemexico?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico City | Remote | Dec 12 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Senior DevOps Engineer - Financial Company - (Remote/Colombia)](https://jobr.pro/job/34303286/senior-devops-engineer-financial-company-remotecolombia?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogota | Remote | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 104k  
+**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 110k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
