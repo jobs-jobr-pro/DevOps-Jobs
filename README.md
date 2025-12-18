@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Intelerad](https://www.intelerad.com)** | **[Platform Architect / DevOps Engineer (AWS, IaC)](https://jobr.pro/job/34573483/platform-architect-devops-engineer-aws-iac?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, UNITED STATES, United States | Remote | Dec 17 |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[DevOps Engineer (REF4933B)](https://jobr.pro/job/34573620/devops-engineer-ref4933b?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Dec 17 |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior DevOps Engineer - REF4482J](https://jobr.pro/job/34573621/senior-devops-engineer-ref4482j?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Budapest, Debrecen, Pécs, Szeged, Hungary | On Site | Dec 17 |
+| **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/34573619/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Buenos Aires, Buenos Aires, Argentina | On Site | Dec 17 |
 | **[BioCatch](https://www.biocatch.com/)** | **[DevOps Engineer (Data Platform Group)](https://jobr.pro/job/34546135/devops-engineer-data-platform-group?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 17 |
 | **[Deloitte](https://www.deloitte.com/)** | **[AWS DevOps Engineer](https://jobr.pro/job/34534351/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Dallas, Texas, United States; Gilbert, Arizona, United States; Houston, Texas, United States; Lake Mary, Florida, United States; Mechanicsburg, Pennsylvania, United States; Philadelphia, Pennsylvania, United States | On Site | Dec 17 |
 | **[BAE Systems](https://www.baesystems.com/)** | **[DevOps Engineer](https://jobr.pro/job/34533764/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | GB-ENG-LAN-Preston | On Site | Dec 17 |
@@ -44,7 +48,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coalesce](https://coalesce.io/)** | **[Senior DevOps Engineer - EMEA](https://jobr.pro/job/34499083/senior-devops-engineer-emea?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | EMEA - Remote | Remote | Dec 16 |
 | **[EverOps](https://www.everops.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/34501558/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Dec 16 |
 | **[Talan](https://talan.com)** | **[Release Manager / DevOps Engineer (Mid-Level)](https://jobr.pro/job/34488644/release-manager-devops-engineer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Málaga, AN, Spain | On Site | Dec 16 |
-| **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/34488646/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Buenos Aires, Buenos Aires, Argentina | On Site | Dec 16 |
 | **[DoseSpot](https://www.dosespot.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34499214/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Remote | Remote | Dec 16 |
 | **[Seamless Migration](https://www.seamlessmigration.com/)** | **[DevOps Engineer](https://jobr.pro/job/34527489/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Anywhere, United States | Remote | Dec 16 |
 | **[Nuvolar Works](https://nuvolar.eu)** | **[Senior DevOps Engineer \| AWS, CI/CD, Microservices \| 100% Remote](https://jobr.pro/job/34493024/senior-devops-engineer-aws-cicd-microservices-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Spain | Remote | Dec 16 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Razorpay](https://razorpay.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/34494176/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore | On Site | Dec 16 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Devops Engineer - AI](https://jobr.pro/job/34449655/devops-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | AE-DU-Dubai | On Site | Dec 16 |
 | **[Ocado Group](https://www.ocadogroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34509205/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sofia, Bulgaria | On Site | Dec 16 |
-| **[Zensar](https://www.zensar.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/34451001/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | South Africa | On Site | Dec 16 |
-| **[Westpac](https://www.westpac.com.au/)** | **[DevOps Engineer](https://jobr.pro/job/34441085/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, NSW, Australia | On Site | Dec 16 |
-| **[Aker Systems](https://www.akersystems.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/34494160/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote/Home Based, UK | Remote | Dec 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 48 companies | Avg salary: 105k  
+**Current Stats:** 50 jobs | 26% remote | 46 companies | Avg salary: 105k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
