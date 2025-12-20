@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Tele2 Sweden AB](https://www.tele2.com/)** | **[DevOps Engineer ServiceNow](https://jobr.pro/job/34717340/devops-engineer-servicenow?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kista | On Site | Dec 19 |
+| **[IFS](https://www.ifs.com/)** | **[Senior DevOps Engineer (Azure) - IFS Ultimo](https://jobr.pro/job/34731081/senior-devops-engineer-azure-ifs-ultimo?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, WP, Sri Lanka | On Site | Dec 19 |
 | **[Abhyaz](https://www.abhyaz.com/)** | **[DevOps Engineer- Intern](https://jobr.pro/job/34700968/devops-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Dec 19 |
 | **[Deloitte](https://www.deloitte.com/)** | **[AWS DevOps Engineer](https://jobr.pro/job/34695034/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gilbert, Arizona, United States | On Site | Dec 19 |
 | **[Worldline](https://www.worldline.com)** | **[DevOps Engineer](https://jobr.pro/job/34667384/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest, B, RO | On Site | Dec 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PwC](https://www.pwc.com/)** | **[ETIC, DevOps Engineer- Associate](https://jobr.pro/job/34608704/etic-devops-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cairo - ETIC, Egypt | On Site | Dec 18 |
 | **[UBS](https://www.ubs.com/)** | **[Azure DevOps Engineer](https://jobr.pro/job/34614098/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Dec 18 |
 | **[AeroVironment](https://www.avinc.com/)** | **[DevOps Engineer](https://jobr.pro/job/34627185/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 308 Sentinel Drive, Annapolis Junction, MD, United States | On Site | Dec 18 |
-| **[Rabobank](https://www.rabobank.com/)** | **[Junior DevOps Engineer - Murex Development Program](https://jobr.pro/job/34621923/junior-devops-engineer-murex-development-program?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Utrecht Winthontlaan 1, Netherlands | On Site | Dec 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 155k  
+**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
