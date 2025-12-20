@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Avetta](https://www.avetta.com/)** | **[Senior DevOps Engineer I](https://jobr.pro/job/34737291/senior-devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lehi, Utah, United States | On Site | Dec 20 |
+| **[Keyrus](https://keyrus.com/)** | **[Senior Cloud Infrastructure & DevOps Engineer](https://jobr.pro/job/34768656/senior-cloud-infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | São Paulo, Brazil | On Site | Dec 19 |
+| **[Staples](https://www.staples.com/)** | **[DevOps Engineer](https://jobr.pro/job/34768021/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Richmond Hill, ON, Canada | On Site | Dec 19 |
 | **[Linqia](https://www.linqia.com/)** | **[DevOps Engineer](https://jobr.pro/job/34738649/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogotá, Colombia | On Site | Dec 19 |
 | **[True](https://trueplatform.com/)** | **[DevOps Engineer](https://jobr.pro/job/34735384/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Philadelphia, Pennsylvania | Remote | Dec 19 |
 | **[INTRALOT](https://www.intralot.com/)** | **[DevOps Engineer](https://jobr.pro/job/34735719/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vancouver, British Columbia, Canada | On Site | Dec 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deliverect](https://www.deliverect.com/)** | **[Infrastructure / DevOps Engineer](https://jobr.pro/job/34655479/infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Casablanca | On Site | Dec 18 |
 | **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/34656345/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Los Angeles, California, United States | On Site | Dec 18 |
 | **[InnoWave](https://innowave.tech/)** | **[Cloud DevOps Engineer (Hybrid)](https://jobr.pro/job/34619180/cloud-devops-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Lisbon, Portugal | On Site | Dec 18 |
-| **[Celara](https://www.celaralabs.com)** | **[DevOps Engineer SR (IP - Devops - 20251218)](https://jobr.pro/job/34659823/devops-engineer-sr-ip-devops-20251218?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Dec 18 |
-| **[Zenity](https://www.zenity.io/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34622078/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 166k  
+**Current Stats:** 50 jobs | 24% remote | 45 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
