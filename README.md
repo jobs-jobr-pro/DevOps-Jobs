@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Avetta](https://www.avetta.com/)** | **[Senior DevOps Engineer I](https://jobr.pro/job/34737291/senior-devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lehi, Utah, United States | On Site | Dec 20 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/34782599/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Dec 20 |
 | **[Keyrus](https://keyrus.com/)** | **[Senior Cloud Infrastructure & DevOps Engineer](https://jobr.pro/job/34768656/senior-cloud-infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | São Paulo, Brazil | On Site | Dec 19 |
 | **[Staples](https://www.staples.com/)** | **[DevOps Engineer](https://jobr.pro/job/34768021/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Richmond Hill, ON, Canada | On Site | Dec 19 |
 | **[Linqia](https://www.linqia.com/)** | **[DevOps Engineer](https://jobr.pro/job/34738649/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogotá, Colombia | On Site | Dec 19 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Imbach Logistik AG](https://www.imbach-logistik.ch)** | **[DevOps Engineer (a)](https://jobr.pro/job/34659579/devops-engineer-a?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Altishofen, LU, Switzerland | On Site | Dec 18 |
 | **[Deliverect](https://www.deliverect.com/)** | **[Infrastructure / DevOps Engineer](https://jobr.pro/job/34655479/infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Casablanca | On Site | Dec 18 |
 | **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[Staff DevOps Engineer](https://jobr.pro/job/34656345/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Los Angeles, California, United States | On Site | Dec 18 |
-| **[InnoWave](https://innowave.tech/)** | **[Cloud DevOps Engineer (Hybrid)](https://jobr.pro/job/34619180/cloud-devops-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisbon, Lisbon, Portugal | On Site | Dec 18 |
 
 ---
 
