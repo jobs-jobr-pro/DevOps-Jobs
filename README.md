@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Gcore](https://gcore.com)** | **[DevOps Engineer/SRE (Cloud IaaS)](https://jobr.pro/job/34801529/devops-engineersre-cloud-iaas?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland, Serbia, Lithuania, Cyprus | On Site | Dec 21 |
+| **[AFRY](https://afry.com)** | **[DevOps Engineer](https://jobr.pro/job/34801538/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Solna, Stockholm County, Sweden | On Site | Dec 21 |
 | **[NVIDIA](https://www.nvidia.com/)** | **[Senior CUDA Driver and DevOps Engineer](https://jobr.pro/job/34796410/senior-cuda-driver-and-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India, Pune | On Site | Dec 21 |
 | **[Avetta](https://www.avetta.com/)** | **[Senior DevOps Engineer I](https://jobr.pro/job/34737291/senior-devops-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lehi, Utah, United States | On Site | Dec 20 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/34782599/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Sri Lanka | On Site | Dec 20 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Onyx Point](https://www.onyxpoint.com)** | **[DevOps Engineer Skill Level 2](https://jobr.pro/job/34711841/devops-engineer-skill-level-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hanover, MD | On Site | Dec 18 |
 | **[Onyx Point](https://www.onyxpoint.com)** | **[Devops Engineer Skill Level 3](https://jobr.pro/job/34711843/devops-engineer-skill-level-3?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hanover, MD | On Site | Dec 18 |
 | **[Jamf](https://www.jamf.com/)** | **[IT DevOps Engineer II](https://jobr.pro/job/34658801/it-devops-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Austin, TX; Eau Claire, WI; Minneapolis, MN | On Site | Dec 18 |
-| **[Imbach Logistik AG](https://www.imbach-logistik.ch)** | **[DevOps Engineer (a)](https://jobr.pro/job/34659579/devops-engineer-a?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Altishofen, LU, Switzerland | On Site | Dec 18 |
-| **[Deliverect](https://www.deliverect.com/)** | **[Infrastructure / DevOps Engineer](https://jobr.pro/job/34655479/infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Casablanca | On Site | Dec 18 |
 
 ---
 
