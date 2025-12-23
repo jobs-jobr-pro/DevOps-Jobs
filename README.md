@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -36,6 +36,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Senior DevOps Engineer](https://jobr.pro/job/34807498/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurugram, Haryana, India | On Site | Dec 22 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Devops Engineer](https://jobr.pro/job/34808211/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon - Cyber Park, India | On Site | Dec 22 |
 | **[Embla Medical](https://www.emblamedical.com/)** | **[DevOps Engineer](https://jobr.pro/job/34820285/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Reykjavík, IS (Ossur), Iceland | On Site | Dec 22 |
+| **[RHB Banking Group](https://www.rhbgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/34841669/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Menara Public Gold 2 - Level 8, Malaysia | On Site | Dec 22 |
 | **[Gcore](https://gcore.com)** | **[DevOps Engineer/SRE (Cloud IaaS)](https://jobr.pro/job/34801529/devops-engineersre-cloud-iaas?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland, Serbia, Lithuania, Cyprus | On Site | Dec 21 |
 | **[Soft Space](https://www.softspace.com.my/)** | **[Junior DevOps Engineer](https://jobr.pro/job/34831889/junior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 21 |
 | **[Onebeat](https://onebeat.co/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34822091/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ramat Gan, Ramat Gan, IL | On Site | Dec 21 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Limbach Gruppe SE](https://www.limbachgruppe.com/)** | **[Azure DevOps Engineer (w/m/d) für medizinische Softwareentwicklung](https://jobr.pro/job/34764515/azure-devops-engineer-wmd-fur-medizinische-softwareentwicklung?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Leipzig | On Site | Dec 19 |
 | **[Xebia](https://xebia.com/)** | **[Senior AWS DevOps Engineer with .Net background](https://jobr.pro/job/34734939/senior-aws-devops-engineer-with-net-background?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote job | Remote | Dec 19 |
 | **[MSCI](https://www.msci.com/)** | **[Airflow Azure DevOps Engineer](https://jobr.pro/job/34762420/airflow-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mumbai, MH, India | On Site | Dec 19 |
-| **[MWAY GROUP GmbH](https://mway.de/)** | **[DevOps Engineer (m/w/d)](https://jobr.pro/job/34760500/devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Stuttgart | On Site | Dec 19 |
 
 ---
 
