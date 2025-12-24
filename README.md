@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[InPost](https://inpost.eu/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34921889/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warszawa, Województwo mazowieckie, Poland | On Site | Dec 23 |
 | **[Think Future Technologies](https://www.tftus.com/)** | **[DevOps Engineer](https://jobr.pro/job/34892635/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Haryana, Gurugram, India | On Site | Dec 23 |
 | **[Tango](https://www.tango.me/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34895682/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warszawa, Województwo mazowieckie, PL | On Site | Dec 23 |
+| **[Endava](https://www.endava.com)** | **[Cloud DevOps Engineer](https://jobr.pro/job/34921820/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Krakow, Lesser Poland, Poland | On Site | Dec 23 |
 | **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[DevOps Engineer](https://jobr.pro/job/34885039/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, UP, India | On Site | Dec 23 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior DevOps Engineer, Space](https://jobr.pro/job/34848790/senior-devops-engineer-space?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Costa Mesa, California, United States | On Site | Dec 23 |
 | **[Allianz](https://www.allianz.com/)** | **[Senior Cloud DevOps Engineer](https://jobr.pro/job/34862611/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kuala Lumpur, MY | On Site | Dec 23 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Entangle](https://www.entangle.fi/)** | **[DevOps Engineer (Trusted Execution Environment)](https://jobr.pro/job/34844976/devops-engineer-trusted-execution-environment?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London | On Site | Dec 22 |
 | **[Yassir](https://yassir.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/34844787/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cairo, Egypt | On Site | Dec 22 |
 | **[Embla Medical](https://www.emblamedical.com/)** | **[DevOps Engineer](https://jobr.pro/job/34820285/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Reykjavík, IS (Ossur), Iceland | On Site | Dec 22 |
-| **[Jonas Software](https://www.jonassoftware.com/)** | **[DevOps Engineer (Cloud Service Management)](https://jobr.pro/job/34818470/devops-engineer-cloud-service-management?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India (Jonas Collections and Recovery Inc) | On Site | Dec 22 |
-| **[Barclays](https://home.barclays/)** | **[DevOps Engineer](https://jobr.pro/job/34826773/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Dec 22 |
 
 ---
 
