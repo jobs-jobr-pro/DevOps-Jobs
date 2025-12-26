@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CES](https://cesltd.com/)** | **[Principal DevOps Engineer-2812 (Remote)](https://jobr.pro/job/35021908/principal-devops-engineer-2812-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | Remote | Dec 26 |
+| **[LittleLives](https://www.littlelives.com/)** | **[DevOps Engineer](https://jobr.pro/job/35022093/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hanoi, Hanoi, Viet Nam | On Site | Dec 26 |
+| **[Tailor Brands](https://www.tailorbrands.com/)** | **[DevOps Engineer](https://jobr.pro/job/35022584/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 26 |
 | **[TOPIC Embedded Systems](https://www.topic.nl)** | **[Senior DevOps Engineer](https://jobr.pro/job/35016636/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Eindhoven, Noord-Brabant, Netherlands | On Site | Dec 25 |
 | **[QuEra Computing, Inc.](https://www.quera.com/)** | **[DevOps Engineer](https://jobr.pro/job/34988624/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Harwell, England-UK | On Site | Dec 24 |
 | **[T2 Systems](https://www.t2systems.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/34993501/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | AZ Mesa HQ; Canada Burnaby Office; IN Indianapolis HQ | On Site | Dec 24 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[DevOps Engineer](https://jobr.pro/job/34887803/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Dec 23 |
 | **[RIB Software](https://www.rib-software.com/)** | **[DevOps Engineer](https://jobr.pro/job/34888579/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | RIB Denmark, Copenhagen | On Site | Dec 23 |
 | **[Westernacher Solutions GmbH](https://westernacher-solutions.com/)** | **[DevOps Engineer (w/m/d)](https://jobr.pro/job/34893471/devops-engineer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Deutschlandweit remote / Berlin hybrid | Remote | Dec 23 |
-| **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/34907500/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, India | On Site | Dec 23 |
-| **[Sanofi](https://www.sanofi.com/)** | **[DevOps Engineer Kinaxis Integration](https://jobr.pro/job/34902363/devops-engineer-kinaxis-integration?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Dec 23 |
-| **[Sanofi](https://www.sanofi.com/)** | **[MES DevOps Engineer - Werum PasX & Opstrakker](https://jobr.pro/job/34902357/mes-devops-engineer-werum-pasx-opstrakker?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 16% remote | 49 companies | Avg salary: 149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
