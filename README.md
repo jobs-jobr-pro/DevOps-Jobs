@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff DevOps Engineer (Prisma AIRS)](https://jobr.pro/job/35102693/sr-staff-devops-engineer-prisma-airs?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Seattle, WA, United States | On Site | Dec 29 |
 | **[Stampli](https://www.stampli.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35081802/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 29 |
 | **[Cellebrite](https://cellebrite.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35081603/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Petah Tikva, Center District, IL | On Site | Dec 29 |
 | **[Reltio](https://www.reltio.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35065729/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore | On Site | Dec 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Orion Innovation](https://www.orioninc.com/)** | **[DevOps engineer Springboot_BCE OMR_103424](https://jobr.pro/job/34991638/devops-engineer-springbootbce-omr103424?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | On Site | Dec 24 |
 | **[Lenskart](https://www.lenskart.com/)** | **[DevOps Engineer I, II, III](https://jobr.pro/job/34987109/devops-engineer-i-ii-iii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon / Bengaluru, Haryāna, India | On Site | Dec 24 |
 | **[Mirantis](https://mirantis.com)** | **[Senior DevOps Engineer, OpenStack Team](https://jobr.pro/job/34958148/senior-devops-engineer-openstack-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poznań, Greater Poland Voivodeship, Poland | On Site | Dec 24 |
-| **[Liven](https://liven.love/)** | **[Senior DevOps Engineer](https://jobr.pro/job/34996412/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India; Remote (India) | Remote | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 49 companies | Avg salary: 146k  
+**Current Stats:** 50 jobs | 12% remote | 49 companies | Avg salary: 154k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
