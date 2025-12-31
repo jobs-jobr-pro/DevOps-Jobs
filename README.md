@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mirantis](https://mirantis.com)** | **[Systems / DevOps engineer](https://jobr.pro/job/35162103/systems-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poznań, Greater Poland Voivodeship, Poland | On Site | Dec 30 |
 | **[SysAid](https://www.sysaid.com/)** | **[DevOps Engineer](https://jobr.pro/job/35144035/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Jaffa, IL | On Site | Dec 30 |
 | **[B2Tech](https://b2tech.com/)** | **[DevOps Engineer](https://jobr.pro/job/35128734/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Agios Athanasios, Cyprus | On Site | Dec 30 |
 | **[Assent](https://www.assent.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35133844/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, MH, India | On Site | Dec 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meritis](https://meritis.fr)** | **[DevOps Engineer (M/W)](https://jobr.pro/job/35065997/devops-engineer-mw?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Porto, Porto, Portugal | On Site | Dec 28 |
 | **[Alstom](https://www.alstom.com/)** | **[Cloud Devops Engineer](https://jobr.pro/job/35065273/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, KA, IN | On Site | Dec 28 |
 | **[Entangle](https://www.entangle.fi/)** | **[DevOps Engineer (Trusted Execution Environment)](https://jobr.pro/job/35063580/devops-engineer-trusted-execution-environment?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London | On Site | Dec 28 |
-| **[Apex.AI](https://www.apex.ai/)** | **[DevOps Engineer](https://jobr.pro/job/35061524/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Munich | On Site | Dec 28 |
 
 ---
 
