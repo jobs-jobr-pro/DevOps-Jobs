@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,10 +14,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Vaillant Group](https://www.vaillant-group.com)** | **[Cloud DevOps Engineer](https://jobr.pro/job/35178008/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Katowice, PL, 40-202 | On Site | Dec 31 |
+| **[Safaricom](https://www.safaricom.co.ke/)** | **[DevOps Engineer ( Internal/External)](https://jobr.pro/job/35190090/devops-engineer-internalexternal?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Addis Ababa, Ethiopia | On Site | Dec 31 |
 | **[MERGE](https://mergeworld.com/)** | **[Manager, TechOps Engineering (DevOps Engineer)](https://jobr.pro/job/35164707/manager-techops-engineering-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago, IL | On Site | Dec 30 |
 | **[Wyetech](https://wyetechllc.com/)** | **[DevOps Engineer 3](https://jobr.pro/job/35166578/devops-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Columbia, Maryland | On Site | Dec 30 |
 | **[MetroStar](https://www.metrostar.com/)** | **[Sr. DevOps Engineer I (6095)](https://jobr.pro/job/35174694/sr-devops-engineer-i-6095?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tysons Corner, VA | On Site | Dec 30 |
 | **[Egen](https://egen.ai/)** | **[DevOps Engineer- GCP](https://jobr.pro/job/35166090/devops-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Krakow | On Site | Dec 30 |
+| **[MarketOnce](https://marketonce.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35182535/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Denver, CO | On Site | Dec 30 |
+| **[Imaginary Cloud](https://www.imaginarycloud.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/35189451/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Coimbra, Portugal | On Site | Dec 30 |
 | **[Superbet](https://www.superbet.com/)** | **[DevOps Engineer](https://jobr.pro/job/35164834/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Croatia | On Site | Dec 30 |
 | **[Mirantis](https://mirantis.com)** | **[Systems / DevOps engineer](https://jobr.pro/job/35162103/systems-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poznań, Greater Poland Voivodeship, Poland | On Site | Dec 30 |
 | **[Bluevine](https://www.bluevine.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35165520/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru | On Site | Dec 30 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TransUnion](https://www.transunion.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/35071107/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | On Site | Dec 29 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[DevOps Engineer, Senior](https://jobr.pro/job/35082055/devops-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA, VA, Chantilly (14151 Park Meadow Dr), United States | On Site | Dec 29 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[DevOps Engineer, Mid](https://jobr.pro/job/35082048/devops-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA, VA, Chantilly (14151 Park Meadow Dr), United States | On Site | Dec 29 |
-| **[UBS](https://www.ubs.com/)** | **[Tech DevOps Engineer](https://jobr.pro/job/35077311/tech-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Dec 29 |
-| **[Bertrandt](https://www.bertrandt.com)** | **[DevOps Engineer (m/f/d)](https://jobr.pro/job/35078790/devops-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Erlangen, Germany | On Site | Dec 29 |
-| **[NTT DATA](https://hello.global.ntt/)** | **[Associate DevOps Engineer](https://jobr.pro/job/35085544/associate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | hyderabad, India | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 177k  
+**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 176k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
