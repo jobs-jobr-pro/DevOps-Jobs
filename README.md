@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/35273592/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jan 03 |
 | **[LightFeather](https://lightfeather.io/)** | **[DevOps Engineer](https://jobr.pro/job/35273591/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jan 03 |
+| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35308163/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | ARNHEM, Netherlands | On Site | Jan 03 |
 | **[Axle](https://axleinfo.com/)** | **[DevOps Engineer](https://jobr.pro/job/35274534/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rockville, MD | On Site | Jan 02 |
 | **[Whiteboard Federal](https://whiteboardfederal.com/)** | **[DevOps Engineer (Clearance Required)](https://jobr.pro/job/35281459/devops-engineer-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chantilly, Herndon, Reston, McLean | On Site | Jan 02 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Telecom Sector \| Senior DevOps Engineer](https://jobr.pro/job/35269500/telecom-sector-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisboa, Lisboa, Portugal | On Site | Jan 02 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[DevOps Engineer - 2 (AWS Infrastructure)](https://jobr.pro/job/35203611/devops-engineer-2-aws-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, Maryland | On Site | Dec 30 |
 | **[Egen](https://egen.ai/)** | **[DevOps Engineer- GCP](https://jobr.pro/job/35166090/devops-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Krakow | On Site | Dec 30 |
 | **[MarketOnce](https://marketonce.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35182535/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Denver, CO | On Site | Dec 30 |
-| **[Imaginary Cloud](https://www.imaginarycloud.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/35189451/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Coimbra, Portugal | On Site | Dec 30 |
 
 ---
 
