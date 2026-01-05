@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Staff DevOps Engineer (Cortex Research Threat&Detection)](https://jobr.pro/job/35314859/staff-devops-engineer-cortex-research-threatdetection?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Israel | On Site | Jan 04 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/35273592/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jan 03 |
 | **[LightFeather](https://lightfeather.io/)** | **[DevOps Engineer](https://jobr.pro/job/35273591/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jan 03 |
 | **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35308163/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | ARNHEM, Netherlands | On Site | Jan 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[DevOps Engineer - 3 (AWS Infrastructure)](https://jobr.pro/job/35203610/devops-engineer-3-aws-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, Maryland | On Site | Dec 30 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[DevOps Engineer - 2 (AWS Infrastructure)](https://jobr.pro/job/35203611/devops-engineer-2-aws-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, Maryland | On Site | Dec 30 |
 | **[Egen](https://egen.ai/)** | **[DevOps Engineer- GCP](https://jobr.pro/job/35166090/devops-engineer-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Krakow | On Site | Dec 30 |
-| **[MarketOnce](https://marketonce.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/35182535/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Denver, CO | On Site | Dec 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 46 companies | Avg salary: 149k  
+**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 147k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
