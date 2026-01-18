@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Jan 18, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 18, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[E2logy](https://e2logy.com/)** | **[DevOps Engineer](https://jobr.pro/job/36269623/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida Sector 73, India | On Site | Jan 17 |
+| **[Virtusa](https://www.virtusa.com/)** | **[Devops Engineer](https://jobr.pro/job/36269382/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IN-AP-Hyderabad | On Site | Jan 17 |
 | **[Zertificon Solutions GmbH](https://www.zertificon.com/)** | **[(Sr.) DevOps Engineer](https://jobr.pro/job/36257290/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin | On Site | Jan 17 |
 | **[Bayer](https://www.bayer.com/)** | **[Junior DevOps Engineer](https://jobr.pro/job/36249955/junior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warszawa, Mazowieckie, PL | On Site | Jan 17 |
 | **[Bayer](https://www.bayer.com/)** | **[DevOps Engineer](https://jobr.pro/job/36249957/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warszawa, Mazowieckie, PL | On Site | Jan 17 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capita](https://www.capita.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/36057094/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Edinburgh - Morrison Street, United Kingdom | On Site | Jan 14 |
 | **[Zoom](https://www.zoom.com/)** | **[DevOps Engineer](https://jobr.pro/job/36059640/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (CA), United States | Remote | Jan 14 |
 | **[Zoom](https://www.zoom.com/)** | **[Principal DevOps Engineer](https://jobr.pro/job/36059638/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Jose (CA), United States | On Site | Jan 14 |
-| **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_Azure DevOps Engineer _Digital Integration_Advisory_Kolkata](https://jobr.pro/job/36059969/insenior-associateazure-devops-engineer-digital-integrationadvisorykolkata?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kolkata Y-14, India | On Site | Jan 14 |
-| **[Unisys](https://www.unisys.com/)** | **[Senior Azure DevOps Engineer](https://jobr.pro/job/36050547/senior-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore - RGA Tech Park, India | On Site | Jan 14 |
 
 ---
 
