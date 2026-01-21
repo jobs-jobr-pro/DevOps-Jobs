@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Jan 21, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 21, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -47,8 +47,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture](https://www.accenture.com/)** | **[DevOps Engineer](https://jobr.pro/job/36369381/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, BDC6F, India | On Site | Jan 20 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Data Science - Cloud DevOps Engineer (Architect)](https://jobr.pro/job/36370012/data-science-cloud-devops-engineer-architect?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad - BSR IT - SEZ - Block 1, India | On Site | Jan 20 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer, AVP](https://jobr.pro/job/36371580/devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | On Site | Jan 20 |
-| **[Illumina](https://www.illumina.com/)** | **[DevOps Engineer 2](https://jobr.pro/job/36357701/devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Bengaluru - Manyata | On Site | Jan 20 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Cloud Engineer/ SRE / DevOps Engineer](https://jobr.pro/job/36368630/cloud-engineer-sre-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Jan 20 |
+| **[Illumina](https://www.illumina.com/)** | **[DevOps Engineer 2](https://jobr.pro/job/36357701/devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Bengaluru - Manyata | On Site | Jan 20 |
 | **[Flux](https://www.flux.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/36347257/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco Office | On Site | Jan 19 |
 | **[Flux](https://www.flux.ai/)** | **[DevOps Engineer](https://jobr.pro/job/36347256/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco Office | On Site | Jan 19 |
 | **[Tether Operations Limited](https://tether.to/en/)** | **[DevOps Engineer - 100% remote](https://jobr.pro/job/36343897/devops-engineer-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote job | Remote | Jan 19 |
