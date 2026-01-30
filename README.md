@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Version 1](https://www.version1.com)** | **[Senior Microsoft Azure DevOps Engineer](https://jobr.pro/job/37035641/senior-microsoft-azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Belfast, Northern Ireland, United Kingdom | On Site | Jan 29 |
 | **[Epassi](https://www.epassi.com/)** | **[DevOps Engineer](https://jobr.pro/job/37017203/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Heerenveen; Amsterdam | On Site | Jan 29 |
 | **[Frequentis AG](https://www.frequentis.com/)** | **[DevOps Engineer - internal Tools (all genders)](https://jobr.pro/job/37003442/devops-engineer-internal-tools-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vienna | On Site | Jan 29 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[Senior Technical Architect / DevOps Engineer](https://jobr.pro/job/37018115/senior-technical-architect-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lisboa, Lisbon | On Site | Jan 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CEA](https://www.cea.fr/)** | **[DEVOPS ENGINEER M/F DISTRIBUTED STORAGE/PROCESSING AR-CHITECTURE FOR SKA DATA H/F](https://jobr.pro/job/36939712/devops-engineer-mf-distributed-storageprocessing-ar-chitecture-for-ska-data-hf?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Saclay | On Site | Jan 28 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/36915640/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Jan 28 |
 | **[Hologic, Inc.](https://www.hologic.com/)** | **[R&D DevOps Engineer 3 CR](https://jobr.pro/job/36911111/rd-devops-engineer-3-cr?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Costa Rica | On Site | Jan 28 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud DevOps Engineer/Senior Reliability Engineer](https://jobr.pro/job/36942541/cloud-devops-engineersenior-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Jan 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 153k  
+**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 152k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
