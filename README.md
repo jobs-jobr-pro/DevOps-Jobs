@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Jan 29, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -32,6 +32,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Parsons Corporation](https://www.parsons.com/)** | **[Cloud DevOps Engineer](https://jobr.pro/job/37024403/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA MD (Virtual Office), United States | Remote | Jan 29 |
 | **[MRI Software](https://www.mrisoftware.com/)** | **[Azure DevOps Engineer - Bangalore](https://jobr.pro/job/37020747/azure-devops-engineer-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, India Office | On Site | Jan 29 |
 | **[MRI Software](https://www.mrisoftware.com/)** | **[DevOps Engineer II - Azure](https://jobr.pro/job/37020732/devops-engineer-ii-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Baroda, India Office | On Site | Jan 29 |
+| **[Swisscom](https://www.swisscom.ch/)** | **[DevOps Engineer CaaS](https://jobr.pro/job/37035224/devops-engineer-caas?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ber-San4c, Switzerland | On Site | Jan 29 |
+| **[Rakuten](https://corp.rakuten.co.jp/)** | **[DevOps Engineer - Global Ad Technology Supervisory Department (GATD)](https://jobr.pro/job/37032364/devops-engineer-global-ad-technology-supervisory-department-gatd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rakuten Crimson House, Japan | On Site | Jan 29 |
 | **[Photon](https://www.photon.com/)** | **[DevOps Engineer - Dallas, TX](https://jobr.pro/job/36999581/devops-engineer-dallas-tx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | On Site | Jan 28 |
 | **[Synthflow AI](https://synthflow.ai)** | **[Senior DevOps Engineer](https://jobr.pro/job/36964211/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin | On Site | Jan 28 |
 | **[Versant](https://versantmedia.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/36975501/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Belfast, ANTRIM, United Kingdom | On Site | Jan 28 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/36915640/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Jan 28 |
 | **[Hologic, Inc.](https://www.hologic.com/)** | **[R&D DevOps Engineer 3 CR](https://jobr.pro/job/36911111/rd-devops-engineer-3-cr?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Costa Rica | On Site | Jan 28 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cloud DevOps Engineer/Senior Reliability Engineer](https://jobr.pro/job/36942541/cloud-devops-engineersenior-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Jan 28 |
-| **[Weekday](https://www.weekday.works)** | **[Lead Devops Engineer - GEX](https://jobr.pro/job/36888662/lead-devops-engineer-gex?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, Tamil Nadu, India | On Site | Jan 28 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com/)** | **[Sr DevOps Engineer](https://jobr.pro/job/36946888/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | HEL AA, Finland | On Site | Jan 28 |
 
 ---
 
