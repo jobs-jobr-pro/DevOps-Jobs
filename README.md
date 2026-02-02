@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -16,8 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tkxel](https://tkxel.com/)** | **[Senior DevOps Engineer - \[Azure + MLOps\]](https://jobr.pro/job/37168086/senior-devops-engineer-azure-mlops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lahore, Pakistan | On Site | Jan 31 |
 | **[Bayer](https://www.bayer.com/)** | **[Associate DevOps Engineer](https://jobr.pro/job/37142595/associate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warszawa, Mazowieckie, PL | On Site | Jan 31 |
 | **[Bayer](https://www.bayer.com/)** | **[DevOps Engineer](https://jobr.pro/job/37142579/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warszawa, Mazowieckie, PL | On Site | Jan 31 |
-| **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer, AVP](https://jobr.pro/job/37185115/devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | On Site | Jan 31 |
 | **[Zoom](https://www.zoom.com/)** | **[Senior Security DevOps Engineer](https://jobr.pro/job/37187448/senior-security-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Jose (CA), United States | On Site | Jan 31 |
+| **[NatWest Group](https://www.natwestgroup.com/)** | **[DevOps Engineer, AVP](https://jobr.pro/job/37185115/devops-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, India | On Site | Jan 31 |
 | **[Category Labs](https://www.category.xyz/)** | **[Senior DevOps Engineer](https://jobr.pro/job/37133441/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York | On Site | Jan 30 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/37126213/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jan 30 |
 | **[LightFeather](https://lightfeather.io/)** | **[DevOps Engineer](https://jobr.pro/job/37126212/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jan 30 |
@@ -53,16 +53,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Miratech](https://miratechgroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/37086300/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States, US, United States | On Site | Jan 30 |
 | **[Worldline](https://www.worldline.com)** | **[DevOps Engineer](https://jobr.pro/job/37054074/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bucharest, B, RO | On Site | Jan 30 |
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior DevOps Engineer 1](https://jobr.pro/job/37047602/senior-devops-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka, IN, 560100 | On Site | Jan 30 |
-| **[Singtel](https://www.singtel.com/)** | **[DevOps Engineer](https://jobr.pro/job/37057893/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore, Singapore | On Site | Jan 30 |
-| **[Barclays](https://home.barclays/)** | **[Vice President - Lead DevOps Engineer](https://jobr.pro/job/37070692/vice-president-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Jan 30 |
-| **[Kassenärztliche Vereinigung Westfalen-Lippe (KVWL)](https://www.kvwl.de/)** | **[DevOps Engineer (m/w/d)](https://jobr.pro/job/37078808/devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dortmund | On Site | Jan 30 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/37082839/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 2 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Jan 30 |
 | **[Teledyne Technologies](https://www.teledyne.com/)** | **[DevOps Engineer](https://jobr.pro/job/37096816/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | UK - Uxbridge, United Kingdom | On Site | Jan 30 |
 | **[UBS](https://www.ubs.com/)** | **[DevOps Engineer - Golang / Java](https://jobr.pro/job/37089111/devops-engineer-golang-java?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, India | On Site | Jan 30 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/37085796/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Jan 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[DevOps Engineer](https://jobr.pro/job/37111380/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attiki, Greece | On Site | Jan 30 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Lead DevOps Engineer - Azure](https://jobr.pro/job/37108949/lead-devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ahmedabad, India | On Site | Jan 30 |
 | **[Cubic Corporation](https://www.cubic.com/)** | **[DevOps Engineer (Junior–Mid Level)](https://jobr.pro/job/37123493/devops-engineer-juniormid-level?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States, United States | On Site | Jan 30 |
+| **[Barclays](https://home.barclays/)** | **[Vice President - Lead DevOps Engineer](https://jobr.pro/job/37070692/vice-president-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Jan 30 |
+| **[Kassenärztliche Vereinigung Westfalen-Lippe (KVWL)](https://www.kvwl.de/)** | **[DevOps Engineer (m/w/d)](https://jobr.pro/job/37078808/devops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dortmund | On Site | Jan 30 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[DevOps Engineer](https://jobr.pro/job/37082839/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 2 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Jan 30 |
+| **[Accenture](https://www.accenture.com/)** | **[DevOps Engineer](https://jobr.pro/job/37092883/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, HDC3C, India | On Site | Jan 30 |
 
 ---
 
