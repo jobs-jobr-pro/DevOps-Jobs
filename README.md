@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,6 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[RTX](https://www.rtx.com/)** | **[Senior Quality Engineer (Onsite) 2nd Shift](https://jobr.pro/job/37325768/senior-quality-engineer-onsite-2nd-shift?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311, United States | On Site | Feb 04 |
+| **[Rolls-Royce](https://www.rolls-royce.com/)** | **[Remanufacturing Engineer (m/w/d)](https://jobr.pro/job/37336301/remanufacturing-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Magdeburg, Germany | On Site | Feb 04 |
+| **[NN Group](https://www.nn-group.com/)** | **[Data Engineer](https://jobr.pro/job/37335674/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Feb 04 |
+| **[Jabil](https://www.jabil.com/)** | **[Lead Mechanical Design Engineer](https://jobr.pro/job/37331184/lead-mechanical-design-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | IND - Ranjangaon, India | On Site | Feb 04 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Research Engineer](https://jobr.pro/job/37328657/research-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 深圳、上海、北京、中国香港 | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/37328361/software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 广州、深圳 | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[自动驾驶软件DevOps高级工程师](https://jobr.pro/job/37328225/devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 广州 | On Site | Feb 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Remington Hospitality](https://www.remingtonhospitality.com/)** | **[Chief Engineer - Hilton Garden Inn Austin Downtown](https://jobr.pro/job/37312908/chief-engineer-hilton-garden-inn-austin-downtown?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Austin, TX, United States | On Site | Feb 03 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Point Cloud Algorithms Engineer](https://jobr.pro/job/37307175/point-cloud-algorithms-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Feb 03 |
 | **[Akkodis](https://www.akkodis.com/)** | **[Software Engineer-C#](https://jobr.pro/job/37324408/software-engineer-c?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Europe, Italy, Emilia Romagna, Bologna | On Site | Feb 03 |
-| **[Coralogix](https://coralogix.com/)** | **[Solution Engineer](https://jobr.pro/job/37307523/solution-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, NY, US | On Site | Feb 03 |
-| **[proteanTecs](https://www.proteantecs.com/)** | **[Senior Product Development and Test Engineer](https://jobr.pro/job/37307841/senior-product-development-and-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Feb 03 |
-| **[Claroty](https://claroty.com/)** | **[IT Operations and Helpdesk Engineer](https://jobr.pro/job/37306650/it-operations-and-helpdesk-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, NY, US | On Site | Feb 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 32 companies | Avg salary: 164k  
+**Current Stats:** 50 jobs | 10% remote | 32 companies | Avg salary: 146k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, docker, aws, terraform, jenkins  
