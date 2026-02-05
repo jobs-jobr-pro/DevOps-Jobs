@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Feb 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Empower](https://www.empower.com/)** | **[Engineer Automation Quality](https://jobr.pro/job/37423671/engineer-automation-quality?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | KA Bangalore, India | On Site | Feb 05 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Android DevOps专家工程师](https://jobr.pro/job/37418725/android-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 北京 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Hardware Engineer (Battery Systems)](https://jobr.pro/job/37417190/xiaomi-ev-hardware-engineer-battery-systems?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 慕尼黑 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Vehicle Dynamics Engineer (powertrain)](https://jobr.pro/job/37417188/xiaomi-ev-vehicle-dynamics-engineer-powertrain?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 慕尼黑 | On Site | Feb 04 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CIS International](https://condeinduservices.com/)** | **[Sr. Engineer- 34988](https://jobr.pro/job/37405615/sr-engineer-34988?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Juncos, Puerto Rico | On Site | Feb 04 |
 | **[Akkodis](https://www.akkodis.com/)** | **[Design Release Engineer (BIW)](https://jobr.pro/job/37414592/design-release-engineer-biw?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Europe, Italy, Emilia Romagna, Bologna | On Site | Feb 04 |
 | **[SPIE](https://www.spie.com/)** | **[Senior UC Engineer 80-100%](https://jobr.pro/job/37414525/senior-uc-engineer-80-100?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Europa, Schweiz, Wallisellen | On Site | Feb 04 |
-| **[SPIE Switzerland](https://www.spie.ch/)** | **[Senior UC Engineer 80-100%](https://jobr.pro/job/37414301/senior-uc-engineer-80-100?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Europa, Schweiz, Wallisellen | On Site | Feb 04 |
 
 ---
 
