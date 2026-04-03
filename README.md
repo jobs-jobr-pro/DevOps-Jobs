@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Apr 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,11 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SIGNAL IDUNA Gruppe](https://www.signal-iduna.de)** | **[DevOps Engineer & Java Developer (m/w/d) Input-Management mit SmartFix & DocAI](https://jobr.pro/job/40217056/devops-engineer-java-developer-mwd-input-management-mit-smartfix-docai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dortmund oder Hamburg, DE, 22297 | On Site | Apr 02 |
 | **[Expleo](https://expleo.com/)** | **[Senior Software Engineer / ICT System Engineer / BizDevOps Engineer (m/w/d)](https://jobr.pro/job/40196585/senior-software-engineer-ict-system-engineer-bizdevops-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bern, BE, Switzerland | On Site | Apr 01 |
 
 ---
 
-**Current Stats:** 1 jobs | 0% remote | 1 companies | Avg salary: Not specified  
+**Current Stats:** 2 jobs | 0% remote | 2 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
