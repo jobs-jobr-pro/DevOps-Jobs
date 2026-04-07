@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops engineer Jobs 2026
 
-<sub><small>Last updated: Apr 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
