@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Apr 12, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 13, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,39 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[DevOps Engineer (m/w/d) im Rahmen der Arbeitnehmerüberlassung befristet auf 24 Monate](https://jobr.pro/job/40293189/devops-engineer-mwd-im-rahmen-der-arbeitnehmeruberlassung-befristet-auf-24-monate?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kiel | On Site | Apr 13 |
+| **[BI:PROCSI](https://biprocsi.co.uk/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40293193/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, United Kingdom | On Site | Apr 13 |
+| **[Wix](https://www.wix.com/)** | **[Senior DevOps Engineer - Wix Data](https://jobr.pro/job/40293195/senior-devops-engineer-wix-data?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius, Lithuania | On Site | Apr 13 |
+| **[ELCA Group](https://www.elca.ch/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40293196/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ho Chi Minh, Viet Nam | On Site | Apr 13 |
+| **[HERE Technologies](https://company.here.com/here/)** | **[Sr DevOps Engineer](https://jobr.pro/job/40292018/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mumbai, India | On Site | Apr 13 |
+| **[Winbond](https://www.winbond.com/)** | **[(竹北 / 台中) Senior DevOps Engineer](https://jobr.pro/job/40291746/-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 新竹，台灣, TW | Remote | Apr 13 |
+| **[Barclays](https://home.barclays/)** | **[DDA Senior DevOps Engineer](https://jobr.pro/job/40293203/dda-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Gera Commerzone SEZ, India | On Site | Apr 13 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Devops Engineer](https://jobr.pro/job/40293199/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid HQ (KES51610), Spain | On Site | Apr 13 |
+| **[Lloyds Banking Group](https://www.lloydsbankinggroup.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40293198/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad Knowledge Park Tower 2, India | On Site | Apr 13 |
+| **[Bristol Myers Squibb](https://www.bms.com/)** | **[Senior Data & DevOps Engineer](https://jobr.pro/job/38776751/senior-data-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Apr 13 |
+| **[Barclays](https://home.barclays/)** | **[DevOps Engineer](https://jobr.pro/job/40293204/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Gera Commerzone SEZ, India | On Site | Apr 13 |
+| **[BUX](https://getbux.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40293208/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Amsterdam, Netherlands | On Site | Apr 12 |
+| **[INNOCV Solutions](https://www.innocv.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/40293209/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid, Spain | Remote | Apr 12 |
+| **[Fool's Theory](https://www.foolstheory.com/)** | **[DevOps Engineer](https://jobr.pro/job/40293210/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bielsko-Biała, Poland | Remote | Apr 12 |
+| **[Valkyrie Trading](https://www.valkyrietrading.com/)** | **[DevOps Engineer](https://jobr.pro/job/40292021/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago, IL | On Site | Apr 12 |
+| **[Intelmatix](https://intelmatix.ai/)** | **[Mid/Senior DevOps Engineer (Egypt)](https://jobr.pro/job/40292022/midsenior-devops-engineer-egypt?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote , | Remote | Apr 12 |
+| **[Opus Major](https://www.opusmajor.io)** | **[SRE / DevOps Engineer](https://jobr.pro/job/40258828/sre-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paris | On Site | Apr 12 |
+| **[WATI](https://www.wati.io/)** | **[Devops Engineer I - Shenzhen](https://jobr.pro/job/40292024/devops-engineer-i-shenzhen?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Shenzhen, Guangdong Province, China | On Site | Apr 12 |
+| **[Portonics Limited](https://www.portonics.com)** | **[DevOps Engineer](https://jobr.pro/job/40291781/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dhaka, Dhaka Division, Bangladesh | On Site | Apr 12 |
+| **[Mactores](https://mactores.com)** | **[AWS DevOps Engineer (Senior)](https://jobr.pro/job/40291782/aws-devops-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Seattle, WA | Remote | Apr 12 |
+| **[Supernova Technology](https://www.supernovacompanies.com/)** | **[DevOps Engineer](https://jobr.pro/job/37669633/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago | On Site | Apr 12 |
+| **[Unity Advisory](https://unity-advisory.com/)** | **[DevOps Engineer](https://jobr.pro/job/40292031/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, Mayfair | On Site | Apr 12 |
+| **[Dream Games](https://www.dreamgames.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40292032/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Istanbul | On Site | Apr 12 |
+| **[Veeva Systems](https://www.veeva.com/)** | **[DevOps Engineer](https://jobr.pro/job/40292033/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada - Toronto | Remote | Apr 12 |
+| **[Capital Solutions Group](https://www.capitalsolutionsgroup.com/)** | **[Cloud DevOps Engineer (AWSMSA-01.080124)](https://jobr.pro/job/40292035/cloud-devops-engineer-awsmsa-01080124?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ft. Meade, Maryland + Telework included! | On Site | Apr 12 |
+| **[Capital Solutions Group](https://www.capitalsolutionsgroup.com/)** | **[Sr. Cloud DevOps Engineer (KIN-CSWE3-03.081825)](https://jobr.pro/job/38140947/sr-cloud-devops-engineer-kin-cswe3-03081825?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ft. Meade, Maryland | On Site | Apr 12 |
+| **[Wyetech](https://wyetechllc.com/)** | **[DevOps Engineer 3](https://jobr.pro/job/40292037/devops-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, Maryland | On Site | Apr 12 |
+| **[percipient.ai](https://percipient.ai/)** | **[Senior DevOps Engineer](https://jobr.pro/job/38575494/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Reston, VA | On Site | Apr 12 |
+| **[Wahed](https://www.wahed.com/)** | **[DevOps Engineer](https://jobr.pro/job/40292039/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kuala Lumpur | On Site | Apr 12 |
+| **[Swisscom DevOps Center Riga](https://sdcriga.swisscom.ch/)** | **[DevOps Engineer - Network Monitoring](https://jobr.pro/job/40291187/devops-engineer-network-monitoring?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Riga, Rīga, Latvia | On Site | Apr 12 |
+| **[Espresso Systems](https://www.espressosys.com/)** | **[DevOps Engineer](https://jobr.pro/job/40291188/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Apr 12 |
+| **[ION Group](https://iongroup.com/)** | **[Lead DevOps Engineer](https://jobr.pro/job/38578735/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida | On Site | Apr 12 |
+| **[Blys](https://getblys.com.au/)** | **[DevOps Engineer](https://jobr.pro/job/40293237/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kathmandu, Bagmati Province, Nepal | On Site | Apr 11 |
 | **[Encora](https://www.encora.com/)** | **[DevOps Engineer](https://jobr.pro/job/40280378/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Peru | On Site | Apr 10 |
 | **[LightFeather](https://lightfeather.io/)** | **[GCP Cloud/DevOps Engineer](https://jobr.pro/job/40280381/gcp-clouddevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Apr 10 |
 | **[LightFeather](https://lightfeather.io/)** | **[DevOps Engineer](https://jobr.pro/job/40280382/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Apr 10 |
@@ -30,46 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Housecall Pro](https://www.housecallpro.com/)** | **[DevOps Engineer Lead - Infrastructure Platform](https://jobr.pro/job/40281910/devops-engineer-lead-infrastructure-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Brazil | Remote | Apr 10 |
 | **[Energize Global Services](https://energizeglobal.com/)** | **[DevOps Engineer](https://jobr.pro/job/40278903/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Yerevan, Armenia | On Site | Apr 10 |
 | **[E2logy](https://e2logy.com/)** | **[Associate DevOps Engineer (ADE / DE)](https://jobr.pro/job/40273290/associate-devops-engineer-ade-de?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ahmedabad, India | On Site | Apr 10 |
-| **[Haptik](https://www.haptik.ai/)** | **[Devops Engineer - 2](https://jobr.pro/job/40274668/devops-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Maharashtra, Mumbai, India | On Site | Apr 10 |
-| **[ValueChecker](https://www.valuechecker.ai)** | **[DevOps Engineer](https://jobr.pro/job/40285277/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Stockholm, Sweden | On Site | Apr 10 |
-| **[Vizzia](https://www.vizzia.com/)** | **[Cloud DevOps Engineer - AI](https://jobr.pro/job/40281923/cloud-devops-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paris | On Site | Apr 10 |
-| **[BitGo](https://www.bitgo.com/)** | **[DevOps Engineer - Blockchain Ops](https://jobr.pro/job/37200543/devops-engineer-blockchain-ops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | On Site | Apr 10 |
-| **[Blend360](https://blend360.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/40272877/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, TS, India | On Site | Apr 10 |
-| **[Bayer](https://www.bayer.com/)** | **[DevOps Engineer](https://jobr.pro/job/40271231/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka, IN | On Site | Apr 10 |
-| **[Deutsche Telekom IT Solutions Slovakia](https://www.deutschetelekomitsolutions.sk/)** | **[Senior DevOps Engineer for T-Cloud Public + Sign on Bonus 3000 eur](https://jobr.pro/job/40281927/senior-devops-engineer-for-t-cloud-public-sign-on-bonus-3000-eur?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Košice, Košický kraj, Slovakia (Slovak Republic) | On Site | Apr 10 |
-| **[Experian](https://www.experian.com/)** | **[AWS DevOps Engineer](https://jobr.pro/job/40272880/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hyderabad, India | On Site | Apr 10 |
-| **[ION Group](https://iongroup.com/)** | **[Senior DevOps Engineer, Mexico City](https://jobr.pro/job/40282162/senior-devops-engineer-mexico-city?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico City | On Site | Apr 10 |
-| **[Trading 212](https://www.trading212.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/40281931/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sofia | On Site | Apr 10 |
-| **[NielsenIQ](https://nielseniq.com)** | **[DevOps Engineer (Azure)](https://jobr.pro/job/40270043/devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, MH, India | On Site | Apr 10 |
-| **[Qantas](https://www.qantas.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40270057/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Melbourne, Victoria, Australia | Remote | Apr 10 |
-| **[Capgemini](https://www.capgemini.com)** | **[Azure DevOps Engineer](https://jobr.pro/job/40280679/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon, IN | On Site | Apr 10 |
-| **[Zoom](https://www.zoom.com/)** | **[DevOps Engineer - Zoom Phone](https://jobr.pro/job/40272343/devops-engineer-zoom-phone?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (IND), India | Remote | Apr 10 |
-| **[Intelliforce-IT Solutions Group](https://intelliforce-itsg.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/40288505/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, MD | On Site | Apr 10 |
-| **[HII](https://hii.com/)** | **[Senior DevOps Engineer - $20K Sign On Bonus - 28026](https://jobr.pro/job/40282193/senior-devops-engineer-20k-sign-on-bonus-28026?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Fort Meade, MD, Maryland, United States | On Site | Apr 10 |
-| **[HII](https://hii.com/)** | **[DevOps Engineer (Skillbridge Intern) - 28114](https://jobr.pro/job/40282192/devops-engineer-skillbridge-intern-28114?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Augusta, GA, Georgia, United States | On Site | Apr 10 |
-| **[Leidos](https://www.leidos.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40276677/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 1887 Alexandria VA, United States | On Site | Apr 10 |
-| **[Kyndryl](https://www.kyndryl.com/)** | **[Mainframe DevOps Engineer - SCM Migration SME](https://jobr.pro/job/40276682/mainframe-devops-engineer-scm-migration-sme?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Apr 10 |
-| **[Cloudelligent](https://cloudelligent.com/)** | **[Sr. AWS DevOps Engineer- Kubernetes Expertise](https://jobr.pro/job/40273356/sr-aws-devops-engineer-kubernetes-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Maharashtra | On Site | Apr 10 |
-| **[SAP](https://www.sap.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40282203/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Pedro Garza García, Nuevo Léon, MX, 66265 | On Site | Apr 10 |
-| **[Intel](https://www.intel.com/)** | **[Infrastructure and DevOps Engineer](https://jobr.pro/job/40288499/infrastructure-and-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | USA - CA - Santa Clara, United States | On Site | Apr 10 |
-| **[Citi](https://www.citigroup.com/)** | **[DevOps Engineer](https://jobr.pro/job/40288475/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | ONE PENNS WAY BLDG 1 NEW CASTLE, United States | On Site | Apr 10 |
-| **[Bupa](https://www.bupa.com/)** | **[DevOps Engineer](https://jobr.pro/job/40271428/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Staines, United Kingdom | On Site | Apr 10 |
-| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40276702/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Brisbane, Queensland, Australia | On Site | Apr 10 |
-| **[Barclays](https://home.barclays/)** | **[DDA Senior DevOps Engineer](https://jobr.pro/job/40276699/dda-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Gera Commerzone SEZ, India | On Site | Apr 10 |
-| **[TCP Software](https://tcpsoftware.com/)** | **[DevOps Engineer III](https://jobr.pro/job/40288497/devops-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lahore, Punjab, Pakistan | On Site | Apr 10 |
-| **[Autodesk](https://www.autodesk.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/37890831/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | APAC - India - Bengaluru - Sunriver | On Site | Apr 10 |
-| **[CACI International Inc](https://www.caci.com/)** | **[HCM Cloud Platform & DevOps Engineer](https://jobr.pro/job/40287777/hcm-cloud-platform-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | 998 NATIONWIDE, United States | On Site | Apr 10 |
-| **[Citi](https://www.citigroup.com/)** | **[Automation and Devops Engineer](https://jobr.pro/job/38608323/automation-and-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | TOWER B, EON FREE ZONE II, India | On Site | Apr 10 |
-| **[HII](https://hii.com/)** | **[Senior DevOps Engineer - $20K Sign On Bonus - 28028](https://jobr.pro/job/40282191/senior-devops-engineer-20k-sign-on-bonus-28028?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lackland AFB, TX, Texas, United States | On Site | Apr 10 |
-| **[NVIDIA](https://www.nvidia.com/)** | **[DevOps Engineer, DOCA](https://jobr.pro/job/40272344/devops-engineer-doca?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Israel, Yokneam | On Site | Apr 10 |
-| **[Ensono](https://www.ensono.com/)** | **[Senior DevOps Engineer-Public Cloud](https://jobr.pro/job/40270071/senior-devops-engineer-public-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - United States | Remote | Apr 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 159k  
+**Current Stats:** 50 jobs | 24% remote | 44 companies | Avg salary: 132k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** kubernetes, aws  
+**Trending Skills:** aws, monitoring  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
