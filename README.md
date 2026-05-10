@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Software Engineer](https://jobr.pro/job/40701255/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/40701254/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/40701253/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer](https://jobr.pro/job/40701252/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Temus](https://temus.com)** | **[Senior Cloud Engineer (12 mths contract)](https://jobr.pro/job/40700198/senior-cloud-engineer-12-mths-contract?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore | On Site | May 10 |
+| **[Handshake](https://joinhandshake.com/)** | **[Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699985/software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Handshake](https://joinhandshake.com/)** | **[Senior Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699984/senior-software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Neuralink](https://neuralink.com)** | **[Software Engineer, Agentic AI](https://jobr.pro/job/40701264/software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Austin, Texas, United States; South San Francisco, California, United States | On Site | May 09 |
+| **[CLEAR - Corporate](https://clearcompany.com)** | **[Engineering Manager, Infrastructure](https://jobr.pro/job/40694028/engineering-manager-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, NY, United States | On Site | May 09 |
 | **[Moneyboxapp](https://moneyboxapp.com)** | **[Senior Systems Engineer](https://jobr.pro/job/40692655/senior-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London Office | On Site | May 09 |
 | **[Openai](https://openai.com/)** | **[Audio Software Engineer, Consumer Devices](https://jobr.pro/job/40690940/audio-software-engineer-consumer-devices?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40689121/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malaysia | Remote | May 09 |
@@ -38,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IXL Learning](https://ixl.com)** | **[Senior Site Reliability Engineer](https://jobr.pro/job/40687628/senior-site-reliability-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Software Engineer, Core Technology](https://jobr.pro/job/40687635/software-engineer-core-technology?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Education.com](https://jobr.pro/job/40687632/senior-software-engineer-educationcom?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Software Engineer, DevX](https://jobr.pro/job/40689914/senior-software-engineer-devx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US - San Francisco | Remote | May 09 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Software Engineer, DevX](https://jobr.pro/job/40686706/senior-software-engineer-devx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US - San Francisco | Remote | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, DevOps](https://jobr.pro/job/40687631/senior-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[Relativity Space](https://relativity.com)** | **[Sr Systems Engineer, Process](https://jobr.pro/job/40688250/sr-systems-engineer-process?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Long Beach, California | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Core Technology](https://jobr.pro/job/40687630/senior-software-engineer-core-technology?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Mateo, CA | On Site | May 09 |
@@ -48,25 +57,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[K2 Space](https://k2space.co.uk)** | **[Network Engineer](https://jobr.pro/job/40687033/network-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Los Angeles, CA | On Site | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - Data Security, SLED/Healthcare](https://jobr.pro/job/40686239/principal-specialist-sales-engineer-data-security-sledhealthcare?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - USA | Remote | May 09 |
 | **[K2 Space](https://k2space.co.uk)** | **[Senior IT Systems Engineer](https://jobr.pro/job/40687037/senior-it-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Los Angeles, CA | On Site | May 09 |
+| **[Cadence Health](https://cadencehealth.com)** | **[Senior Software Engineer, Agentic AI](https://jobr.pro/job/40695208/senior-software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | May 08 |
 | **[Astranis](https://astranis.com)** | **[Software Simulation Engineer - Flight Software](https://jobr.pro/job/40691003/software-simulation-engineer-flight-software?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco | On Site | May 08 |
 | **[Amplitude](https://amplitude.com)** | **[Senior Software Engineer, Product Adoption](https://jobr.pro/job/40689258/senior-software-engineer-product-adoption?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco, CA | On Site | May 08 |
 | **[Life360](https://life360.com)** | **[Sr. Staff AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687235/sr-staff-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, USA | Remote | May 08 |
 | **[Life360](https://life360.com)** | **[Principal AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687231/principal-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote, USA | Remote | May 08 |
 | **[Uber Freight](https://uberfreight.com)** | **[Systems Engineer II](https://jobr.pro/job/40686804/systems-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Monterrey, NL 64640, Mexico | On Site | May 08 |
-| **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer](https://jobr.pro/job/40691221/cloud-devsecops-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hawthorne, California, United States | On Site | May 08 |
-| **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer - (Software Engineering Focused)](https://jobr.pro/job/40691222/cloud-devsecops-engineer-software-engineering-focused?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hawthorne, California, United States | On Site | May 08 |
-| **[CHAOS Industries](https://chaosinc.com)** | **[DevSecOps - Software Engineer](https://jobr.pro/job/40691224/devsecops-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hawthorne, California, United States | On Site | May 08 |
-| **[Cribl](https://cribl.io)** | **[Sr Software Engineer, Cribl AI](https://jobr.pro/job/40685315/sr-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - United States | Remote | May 08 |
-| **[PlayStation Global]()** | **[Lead Systems Engineer](https://jobr.pro/job/40687602/lead-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States, Los Angeles, CA | On Site | May 08 |
-| **[Natera](https://natera.com)** | **[Senior Agentic Systems Engineer](https://jobr.pro/job/40686808/senior-agentic-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US Remote | Remote | May 08 |
-| **[61a272af-4e55-48b6-9420-eafeb03bc964](https://cscgeneration.com)** | **[Lead Software Engineer (Team Lead)](https://jobr.pro/job/40690423/lead-software-engineer-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote - Canada | Remote | May 08 |
-| **[Roblox](https://roblox.com)** | **[Engineering Manager, Home Infrastructure](https://jobr.pro/job/40685743/engineering-manager-home-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Mateo, CA, United States | On Site | May 08 |
-| **[Rocket Lab Corporation](https://rocketlabusa.com)** | **[Propulsion Systems Engineer I/II Pipeline](https://jobr.pro/job/40684722/propulsion-systems-engineer-iii-pipeline?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Long Beach, CA | On Site | May 08 |
-| **[LIGHTFEATHER IO LLC]()** | **[Senior GCP Cloud Engineer](https://jobr.pro/job/40688926/senior-gcp-cloud-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 23 companies | Avg salary: 9.027783333337499e+210k  
+**Current Stats:** 50 jobs | 22% remote | 21 companies | Avg salary: 6.303036969704879e+192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
