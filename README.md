@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lendbuzz]()** | **[Senior DevOps / Site Reliability Engineer (SRE)](https://jobr.pro/job/40832802/senior-devops-site-reliability-engineer-sre?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | On Site | May 18 |
+| **[Pavago]()** | **[DevOps Engineer](https://jobr.pro/job/40828107/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kenya | Remote | May 17 |
 | **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40814456/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 16 |
 | **[Natera]()** | **[DevOps Engineer](https://jobr.pro/job/40808939/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US Remote | Remote | May 15 |
 | **[Shield AI]()** | **[Staff Engineer, XBAT DevOps (R4542) (Dallas, TX)](https://jobr.pro/job/40807241/staff-engineer-xbat-devops-r4542-dallas-tx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dallas, Texas | On Site | May 15 |
@@ -20,13 +22,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tripledot Studios]()** | **[Senior DevOps Engineer](https://jobr.pro/job/40802816/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin | On Site | May 15 |
 | **[PandaDoc]()** | **[Middle DevOps Engineer](https://jobr.pro/job/40800320/middle-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (Spain) | Remote | May 15 |
 | **[Meesho]()** | **[Software Development Engineer IV DevOps](https://jobr.pro/job/40804036/software-development-engineer-iv-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka | On Site | May 15 |
+| **[Observe.AI]()** | **[Lead DevOps Engineer](https://jobr.pro/job/40829426/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru | On Site | May 15 |
 | **[Get Well Network]()** | **[Staff DevOps Engineer](https://jobr.pro/job/40805203/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | May 15 |
 | **[BJAK]()** | **[DevOps Engineer](https://jobr.pro/job/40802530/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malaysia | Remote | May 15 |
 | **[Normal Computing Corporation]()** | **[Software Engineer, DevOps](https://jobr.pro/job/40803898/software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Seoul | Remote | May 15 |
 | **[Faro Health Inc.]()** | **[DevOps Engineer](https://jobr.pro/job/40807554/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Diego, California, United States | On Site | May 15 |
 | **[Novibet]()** | **[DevOps Engineer](https://jobr.pro/job/40802517/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | May 15 |
 | **[Origin]()** | **[DevOps Engineer](https://jobr.pro/job/40800185/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | May 15 |
-| **[Pavago]()** | **[DevOps Engineer](https://jobr.pro/job/40794007/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombia | Remote | May 15 |
 | **[TrueML]()** | **[Jr. DevOps Engineer](https://jobr.pro/job/40792658/jr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote in Argentina | Remote | May 14 |
 | **[NetBox Labs]()** | **[Senior DevOps Engineer, Cloud Delivery](https://jobr.pro/job/40785043/senior-devops-engineer-cloud-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US Remote | Remote | May 14 |
 | **[AssureSoft - Careers]()** | **[DevOps Engineer](https://jobr.pro/job/40792712/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | LATAM | On Site | May 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mindrift]()** | **[DevOps Engineer (Automation Systems) - Freelance AI Trainer](https://jobr.pro/job/40740948/devops-engineer-automation-systems-freelance-ai-trainer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Glasgow, Scotland, United Kingdom | Remote | May 12 |
 | **[K Health]()** | **[Senior DevOps Engineer](https://jobr.pro/job/40742689/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, NY | On Site | May 11 |
 | **[Copper.co]()** | **[Senior DevOps Engineer](https://jobr.pro/job/40736967/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London | On Site | May 11 |
-| **[Cerebras]()** | **[DevOps Engineer - New Grad 2026](https://jobr.pro/job/40742677/devops-engineer-new-grad-2026?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Toronto, ON, CA; Sunnyvale, CA, USA | On Site | May 11 |
-| **[Super.com]()** | **[Software Development Engineering Intern - Infrastructure (DevOps) - 12 Months](https://jobr.pro/job/40743318/software-development-engineering-intern-infrastructure-devops-12-months?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada | Remote | May 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 46% remote | 49 companies | Avg salary: 2.3888908333386224e+47k  
+**Current Stats:** 50 jobs | 44% remote | 49 companies | Avg salary: 2.3888908333386224e+47k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws  
