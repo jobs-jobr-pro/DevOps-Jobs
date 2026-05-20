@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Point72](https://pointclickcare.com)** | **[Devops Engineer, Mi-Platform](https://jobr.pro/job/40864512/devops-engineer-mi-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw | On Site | May 20 |
 | **[dunnhumby](https://dunnhumby.com)** | **[Senior Engineer - Devops](https://jobr.pro/job/40862081/senior-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon | On Site | May 20 |
+| **[Emaratech](http://emaratech.ae)** | **[Performance Testing Engineer (DevOps)](https://jobr.pro/job/40866407/performance-testing-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 20 |
 | **[Allwyn UK](https://www.allwyn.co.uk/)** | **[DevOps Engineer](https://jobr.pro/job/40865577/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Watford, England, United Kingdom | On Site | May 20 |
 | **[The Global Talent Co.](https://globaltalent.co/)** | **[DevOps Content Engineer (LATAM)](https://jobr.pro/job/40861188/devops-content-engineer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Latin America \| Remote | Remote | May 19 |
 | **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40857606/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Observe.AI](https://observe.ai)** | **[Lead DevOps Engineer](https://jobr.pro/job/40829426/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru | On Site | May 15 |
 | **[Get Well Network](https://getwellnetwork.com)** | **[Staff DevOps Engineer](https://jobr.pro/job/40805203/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | May 15 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40802530/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malaysia | Remote | May 15 |
-| **[Normal Computing Corporation](https://NormalComputing.com)** | **[Software Engineer, DevOps](https://jobr.pro/job/40803898/software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Seoul | Remote | May 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 48 companies | Avg salary: 3.346251750012075e+43k  
+**Current Stats:** 50 jobs | 28% remote | 48 companies | Avg salary: 3.346251750012075e+43k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
