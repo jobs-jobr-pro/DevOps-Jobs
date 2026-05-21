@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,11 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Anaplan](https://anaplan.com)** | **[Software Engineer(Devops)](https://jobr.pro/job/40879604/software-engineerdevops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurugram, India | On Site | May 21 |
+| **[Twenty](https://twenty.com)** | **[DevOps Engineer](https://jobr.pro/job/40881585/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Arlington, VA | On Site | May 20 |
 | **[TechTorch](https://techtorch.io)** | **[Azure DevOps Engineer](https://jobr.pro/job/40869832/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | Remote | May 20 |
 | **[Point72](https://pointclickcare.com)** | **[Devops Engineer, Mi-Platform](https://jobr.pro/job/40864512/devops-engineer-mi-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw | On Site | May 20 |
 | **[dunnhumby](https://dunnhumby.com)** | **[Senior Engineer - Devops](https://jobr.pro/job/40862081/senior-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon | On Site | May 20 |
 | **[Emaratech](http://emaratech.ae)** | **[Performance Testing Engineer (DevOps)](https://jobr.pro/job/40866407/performance-testing-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 20 |
 | **[Allwyn UK](https://www.allwyn.co.uk/)** | **[DevOps Engineer](https://jobr.pro/job/40865577/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Watford, England, United Kingdom | On Site | May 20 |
+| **[AltaML](https://altaml.com)** | **[DevOps Engineer](https://jobr.pro/job/40879955/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Edmonton | On Site | May 19 |
 | **[The Global Talent Co.](https://globaltalent.co/)** | **[DevOps Content Engineer (LATAM)](https://jobr.pro/job/40861188/devops-content-engineer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Latin America \| Remote | Remote | May 19 |
 | **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40857606/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 19 |
 | **[Industrious](http://www.industrious.info)** | **[Tech Lead, DevOps Engineer](https://jobr.pro/job/40853506/tech-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Montreal | On Site | May 19 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apptronik](https://apptronik.com)** | **[DevOps Engineer](https://jobr.pro/job/40805393/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Onsite - Austin, TX | On Site | May 15 |
 | **[Tripledot Studios](https://www.tripledotstudios.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/40802816/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin | On Site | May 15 |
 | **[PandaDoc](https://pandadoc.com)** | **[Middle DevOps Engineer](https://jobr.pro/job/40800320/middle-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote (Spain) | Remote | May 15 |
-| **[Meesho](https://meesho.io)** | **[Software Development Engineer IV DevOps](https://jobr.pro/job/40804036/software-development-engineer-iv-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka | On Site | May 15 |
-| **[Observe.AI](https://observe.ai)** | **[Lead DevOps Engineer](https://jobr.pro/job/40829426/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru | On Site | May 15 |
-| **[Get Well Network](https://getwellnetwork.com)** | **[Staff DevOps Engineer](https://jobr.pro/job/40805203/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | May 15 |
 
 ---
 
