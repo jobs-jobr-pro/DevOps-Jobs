@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TechTorch](https://techtorch.io)** | **[Azure DevOps Engineer](https://jobr.pro/job/40869832/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | Remote | May 20 |
 | **[Point72](https://pointclickcare.com)** | **[Devops Engineer, Mi-Platform](https://jobr.pro/job/40864512/devops-engineer-mi-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw | On Site | May 20 |
 | **[dunnhumby](https://dunnhumby.com)** | **[Senior Engineer - Devops](https://jobr.pro/job/40862081/senior-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurgaon | On Site | May 20 |
 | **[Emaratech](http://emaratech.ae)** | **[Performance Testing Engineer (DevOps)](https://jobr.pro/job/40866407/performance-testing-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | May 20 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meesho](https://meesho.io)** | **[Software Development Engineer IV DevOps](https://jobr.pro/job/40804036/software-development-engineer-iv-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, Karnataka | On Site | May 15 |
 | **[Observe.AI](https://observe.ai)** | **[Lead DevOps Engineer](https://jobr.pro/job/40829426/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru | On Site | May 15 |
 | **[Get Well Network](https://getwellnetwork.com)** | **[Staff DevOps Engineer](https://jobr.pro/job/40805203/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, Karnataka, India | On Site | May 15 |
-| **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40802530/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malaysia | Remote | May 15 |
 
 ---
 
