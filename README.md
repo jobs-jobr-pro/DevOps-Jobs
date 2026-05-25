@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Anaplan](https://anaplan.com)** | **[Principal Software Engineer, Devops](https://jobr.pro/job/40925237/principal-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurugram, India | On Site | May 25 |
+| **[Sayari](https://sayari.com/)** | **[DevOps Engineer](https://jobr.pro/job/40919094/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv, Israel | On Site | May 24 |
 | **[Seekr](https://www.seekr.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40912366/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Austin, Texas, United States; Reston, Virginia, United States | On Site | May 22 |
 | **[LIGHTFEATHER IO LLC]()** | **[DevOps Engineer](https://jobr.pro/job/40914090/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 22 |
 | **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40914088/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 22 |
@@ -27,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reolink](https://reolink.com)** | **[Site Reliability Engineering (SRE Engineer) \| DevOps Team](https://jobr.pro/job/40898268/site-reliability-engineering-sre-engineer-devops-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore | On Site | May 22 |
 | **[Paytm](https://paytm.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/40898165/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, Uttar Pradesh | On Site | May 22 |
 | **[Paytm](https://paytm.com)** | **[Lead DevOps Engineer](https://jobr.pro/job/40898164/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Noida, Uttar Pradesh | On Site | May 22 |
+| **[Inventi](https://inventi.io/)** | **[Senior DevOps Engineer (B2B)](https://jobr.pro/job/40917885/senior-devops-engineer-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | Remote | May 22 |
 | **[Northramp LLC](https://www.northramp.com)** | **[Cloud DevOps Engineer (App Dev Ops / Harness)](https://jobr.pro/job/40915221/cloud-devops-engineer-app-dev-ops-harness?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, District of Columbia, United States | On Site | May 22 |
 | **[SAP Fioneer](https://www.sapfioneer.com/)** | **[Senior Cloud Solutions DevOps & GitOps Engineer (Multi-Cloud)](https://jobr.pro/job/40902585/senior-cloud-solutions-devops-gitops-engineer-multi-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Serbia | Remote | May 22 |
 | **[Valsoft Corporation](http://aspiresoftware.com)** | **[DevOps Engineer - CS](https://jobr.pro/job/40898835/devops-engineer-cs?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Beirut, Beirut Governorate, Lebanon | On Site | May 22 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Allwyn UK](https://www.allwyn.co.uk/)** | **[DevOps Engineer](https://jobr.pro/job/40865577/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Watford, England, United Kingdom | On Site | May 20 |
 | **[AltaML](https://altaml.com)** | **[DevOps Engineer](https://jobr.pro/job/40879955/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Edmonton | On Site | May 19 |
 | **[The Global Talent Co.](https://globaltalent.co/)** | **[DevOps Content Engineer (LATAM)](https://jobr.pro/job/40861188/devops-content-engineer-latam?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Latin America \| Remote | Remote | May 19 |
-| **[Industrious](http://www.industrious.info)** | **[Tech Lead, DevOps Engineer](https://jobr.pro/job/40853506/tech-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Montreal | On Site | May 19 |
-| **[Vast](https://vastspace.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/40853948/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Long Beach, California, United States | On Site | May 19 |
-| **[Later](https://later.com)** | **[DevOps Engineer](https://jobr.pro/job/40851457/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vancouver, British Columbia, Canada | On Site | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 42 companies | Avg salary: 2.7889359956862834e+30k  
+**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 3.3467231948392e+23k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ci/cd  
