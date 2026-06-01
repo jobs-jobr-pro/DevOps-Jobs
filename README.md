@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Harmony](https://harmony.io/)** | **[DevOps Engineer](https://jobr.pro/job/40996997/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Israel | On Site | May 31 |
+| **[Pavago](https://www.pavago.co)** | **[DevOps Engineer](https://jobr.pro/job/40998584/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Portugal | Remote | May 31 |
 | **[Pickle Robot Company](https://picklerobot.com)** | **[DevOps Engineer](https://jobr.pro/job/40990272/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Charlestown, MA | On Site | May 29 |
 | **[LIGHTFEATHER IO LLC]()** | **[DevOps Engineer](https://jobr.pro/job/40989291/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 29 |
 | **[LIGHTFEATHER IO LLC]()** | **[Azure DevOps Engineer](https://jobr.pro/job/40989289/azure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | May 29 |
@@ -39,7 +41,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Safe Security](https://safe.security/)** | **[Software Development Engineer III - DevOps Engineer](https://jobr.pro/job/40959954/software-development-engineer-iii-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru | On Site | May 28 |
 | **[Raiffeisen Bank Ukraine]()** | **[DevOps Engineer](https://jobr.pro/job/40973215/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv, Kyiv city, Ukraine | On Site | May 28 |
 | **[Lakeside Software](https://lakesidesoftware.com)** | **[DevOps Engineer (Azure) - Remote](https://jobr.pro/job/40972639/devops-engineer-azure-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | Remote | May 28 |
-| **[Pavago](https://www.pavago.co)** | **[DevOps Engineer](https://jobr.pro/job/40968300/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States | Remote | May 28 |
 | **[Qualco Group](https://qualco.group/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40965772/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | May 28 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior DevOps Lead / Infrastructure Engineer](https://jobr.pro/job/40962761/senior-devops-lead-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India | Remote | May 28 |
 | **[Questronix Corporation](https://questronix.com.ph/)** | **[DevOps Engineer](https://jobr.pro/job/40957629/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Makati City, Metro Manila, Philippines | On Site | May 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Blitzy](https://blitzy.com/)** | **[DevOps Engineer](https://jobr.pro/job/40971296/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India HQ | On Site | May 26 |
 | **[iKnowHow S.A.](https://ikh.io)** | **[DevOps Engineer](https://jobr.pro/job/40942955/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | May 26 |
 | **[Uni Systems]()** | **[DevOps Engineer](https://jobr.pro/job/40936065/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | May 26 |
-| **[Qode](http://qode.world)** | **[Senior DevOps Engineer](https://jobr.pro/job/40934644/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Hồ Chí Minh, Ho Chi Minh City, Hồ Chí Minh, Vietnam | On Site | May 26 |
 
 ---
 
