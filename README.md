@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Clera](https://www.getclera.com)** | **[DevOps Engineer (Kubernetes)](https://jobr.pro/job/41069016/devops-engineer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Francisco | On Site | Jun 07 |
+| **[NICE](https://www.nicenicedental.com/)** | **[Lead DevOps Engineer(7:00 AM to 3:00 PM Shift)](https://jobr.pro/job/41068828/lead-devops-engineer700-am-to-300-pm-shift?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United Kingdom - Remote | Remote | Jun 07 |
+| **[NICE](https://www.nicenicedental.com/)** | **[Lead DevOps Engineer(6:00 PM -2:00 AM Shift)](https://jobr.pro/job/41068827/lead-devops-engineer600-pm-200-am-shift?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United Kingdom - Remote | Remote | Jun 07 |
 | **[NICE](https://www.nicenicedental.com/)** | **[Senior DevOps Engineer (Azure)](https://jobr.pro/job/41067916/senior-devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Pune | On Site | Jun 07 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Software Engineer, DevOps (Starlink)](https://jobr.pro/job/41058618/sr-software-engineer-devops-starlink?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Redmond, WA | On Site | Jun 05 |
 | **[SmithRx](https://smithrx.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/41061117/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Jun 05 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pragmatike, the largest remote tech job platform](https://www.pragmatike.com)** | **[DevOps Engineer (Remote)](https://jobr.pro/job/41026328/devops-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Utah | Remote | Jun 03 |
 | **[Newcode.ai](http://newcode.ai)** | **[Senior DevOps Engineer](https://jobr.pro/job/41033790/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jun 03 |
 | **[Sur](https://www.surveymonkey.com/)** | **[Senior DevOps Engineer](https://jobr.pro/job/41031459/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | São Paulo, State of São Paulo, Brazil | On Site | Jun 03 |
-| **[UBDS Group](https://ubdsgroup.com)** | **[AWS DevOps Engineer](https://jobr.pro/job/41027336/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Manchester, England, United Kingdom | On Site | Jun 03 |
-| **[Freedx](https://freedx.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41025578/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada | Remote | Jun 03 |
-| **[NABIS](https://nabis.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41018129/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Jun 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 43 companies | Avg salary: 1.2777787111120833e+97k  
+**Current Stats:** 50 jobs | 34% remote | 41 companies | Avg salary: 1.0526327894745683e+103k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, aws, ci/cd  
