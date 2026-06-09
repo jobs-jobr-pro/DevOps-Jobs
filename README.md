@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,12 +14,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Anduril Industries](https://www.anduril.com/)** | **[DevOps Engineer](https://jobr.pro/job/41075692/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Reston, Virginia, United States | On Site | Jun 08 |
+| **[Remodel Health](https://remodelhealth.com)** | **[DevOps Engineer](https://jobr.pro/job/41078489/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Indianapolis, IN | On Site | Jun 08 |
 | **[Aylo Careers](https://aylo.io)** | **[DevOps Engineer - Remote (EU night shift)](https://jobr.pro/job/41074028/devops-engineer-remote-eu-night-shift?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Nicosia, Cyprus | Remote | Jun 08 |
 | **[Zscaler](https://zscaler.com)** | **[Principal DevOps Engineer](https://jobr.pro/job/41074550/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Jose, California, USA | On Site | Jun 08 |
 | **[Ajax Systems](https://ajax.systems)** | **[Middle DevOps Engineer (Core Team)](https://jobr.pro/job/41073662/middle-devops-engineer-core-team?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv | On Site | Jun 08 |
 | **[It%20labs]()** | **[Lead DevOps Engineer](https://jobr.pro/job/41075502/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chicago | Remote | Jun 08 |
 | **[Klaxoon](https://klaxoon.com)** | **[Senior DevOps Platform Engineer](https://jobr.pro/job/41071397/senior-devops-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rennes | On Site | Jun 08 |
+| **[Fermi%20ai]()** | **[Founding DevOps Engineer](https://jobr.pro/job/41079917/founding-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, India | On Site | Jun 08 |
 | **[N-iX](http://nixbiosensors.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41071043/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombia; Moldova; Poland; Romania; Ukraine | On Site | Jun 08 |
+| **[b_labs](https://btech.com/en)** | **[DevOps Engineer](https://jobr.pro/job/41078039/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | Jun 08 |
+| **[Pavago](https://pavago.de)** | **[DevOps Engineer](https://jobr.pro/job/41076935/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kenya | Remote | Jun 08 |
 | **[Netguru](http://netguru.com/career)** | **[DevOps Engineer - Freelance](https://jobr.pro/job/41074104/devops-engineer-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | Remote | Jun 08 |
 | **[Netguru](http://netguru.com/career)** | **[(Senior) DevOps Engineer - Freelance](https://jobr.pro/job/41074101/senior-devops-engineer-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland | Remote | Jun 08 |
 | **[Fuku](https://eatfuku.com)** | **[DevOps Engineer](https://jobr.pro/job/41072489/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, England, United Kingdom | On Site | Jun 08 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aspora](https://aspora.io)** | **[Senior DevOps Engineer](https://jobr.pro/job/41045819/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore | On Site | Jun 04 |
 | **[Levels Technologies](https://www.levels.tech/)** | **[Senior Infrastructure / DevOps Engineer](https://jobr.pro/job/41057384/senior-infrastructure-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Malta Office | On Site | Jun 04 |
 | **[Launch Potato](https://launchpotato.com)** | **[Lead Engineer, DevOps & SRE](https://jobr.pro/job/41041213/lead-engineer-devops-sre?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Asheville, NC (remote); Atlanta, GA (remote); Boynton Beach, FL (remote); Charleston, SC (remote); Charlotte, NC (remote); Delray Beach, FL (hybrid); Fort Lauderdale, FL (hybrid); Miami, FL (hybrid); Raleigh, NC (remote) | Remote | Jun 04 |
-| **[Nord Security](https://nordsecurity.com/)** | **[DevOps Engineer \| Mid-Senior](https://jobr.pro/job/41037733/devops-engineer-mid-senior?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius | Remote | Jun 04 |
-| **[Nord Security](https://nordsecurity.com/)** | **[DevOps Engineer \| Mid-senior \| Threat Protection](https://jobr.pro/job/41037694/devops-engineer-mid-senior-threat-protection?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius | Remote | Jun 04 |
-| **[Nord Security](https://nordsecurity.com/)** | **[DevOps Engineer \| Senior \| Saily](https://jobr.pro/job/41037738/devops-engineer-senior-saily?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vilnius | Remote | Jun 04 |
-| **[NICE](https://www.nicenicedental.com/)** | **[DevOps Engineer, CX](https://jobr.pro/job/41036188/devops-engineer-cx?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | India - Pune | On Site | Jun 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 41 companies | Avg salary: 1.0058839117658823e+93k  
+**Current Stats:** 50 jobs | 32% remote | 45 companies | Avg salary: 1.140001766668e+83k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, aws, ci/cd  
