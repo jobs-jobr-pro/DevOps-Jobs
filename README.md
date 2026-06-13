@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[North Point Technology](https://northpointtechnology.com)** | **[DevOps / Systems Engineer (Top Secret Clearance Required)](https://jobr.pro/job/41177194/devops-systems-engineer-top-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Alexandria, Virginia, United States; Chantilly, Virginia, United States; Gaithersburg, Maryland, United States | On Site | Jun 12 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Senior DevOps Engineer AWS / AI Infrastructure](https://jobr.pro/job/41181413/vck-senior-devops-engineer-aws-ai-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 12 |
 | **[Sensor Tower](https://sensortower.com)** | **[DevOps Engineer](https://jobr.pro/job/41181047/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, UK | Remote | Jun 12 |
+| **[Lazer Technologies](https://www.atom.com)** | **[Senior Infrastructure/ DevOps Engineer Fintech](https://jobr.pro/job/41184662/senior-infrastructure-devops-engineer-fintech?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Canada | Remote | Jun 12 |
 | **[SimplePractice](https://simplepractice.com)** | **[DevOps Engineer (Data & AI Platform)](https://jobr.pro/job/41181963/devops-engineer-data-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico City | On Site | Jun 12 |
 | **[Vonage](https://vonage.com)** | **[Senior Devops Engineer](https://jobr.pro/job/41176680/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Holmdel, NJ | On Site | Jun 12 |
 | **[Vonage](https://vonage.com)** | **[Devops Engineer III](https://jobr.pro/job/41176678/devops-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Work from Home - US | On Site | Jun 12 |
@@ -30,6 +31,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arista Networks](https://www.aristanetworks.com)** | **[Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity](https://jobr.pro/job/41169439/site-reliability-engineer-sre-devops-engineering-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Dublin, County Dublin, Ireland | Remote | Jun 12 |
 | **[Miratech](https://miratechcorp.com)** | **[DevOps Engineer with Splunk](https://jobr.pro/job/41169336/devops-engineer-with-splunk?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, , India | Remote | Jun 12 |
 | **[Kayzen](https://kayzen.io)** | **[Lead DevOps Engineer (m/f/d)](https://jobr.pro/job/41170720/lead-devops-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Banalore, Remote India | Remote | Jun 12 |
+| **[Zartisa Rejuvenating Salon](https://www.zartis.com)** | **[Principal DevOps Engineer](https://jobr.pro/job/41184312/principal-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | European Union | On Site | Jun 12 |
 | **[Tieto](https://www.tieto.com/)** | **[DevOps Engineer - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41166389/devops-engineer-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lviv, , Ukraine | Remote | Jun 12 |
 | **[Shield AI](https://shield.ai/)** | **[Senior Manager, DevOps Engineering (R5198)](https://jobr.pro/job/41164148/senior-manager-devops-engineering-r5198?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jun 12 |
 | **[CREATEQ](http://www.createq.space)** | **[Backend Engineer - C#/.NET & DevOps](https://jobr.pro/job/41177925/backend-engineer-cnet-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chișinău, Chisinau, Moldova | On Site | Jun 12 |
@@ -61,15 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SQLI](https://www.sqli.com/ma-fr)** | **[Senior DevOps Engineer](https://jobr.pro/job/41147055/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Diepenbeek, Vlaanderen, Belgium | Remote | Jun 11 |
 | **[Gong.io](https://www.gong.io)** | **[Senior DevOps Engineer](https://jobr.pro/job/41149090/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | On Site | Jun 11 |
 | **[Bosch Group](https://www.bosch.com/)** | **[\[SO\] Senior DevOps Engineer](https://jobr.pro/job/41145644/so-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam | On Site | Jun 11 |
-| **[Bosch Group](https://www.bosch.com/)** | **[Devops - CI/CD Engineer](https://jobr.pro/job/41143842/devops-cicd-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | bengaluru, , India | On Site | Jun 11 |
-| **[WPP](https://wp.pl)** | **[Senior DevOps Engineer](https://jobr.pro/job/41143004/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Chennai, Tamil Nadu, India | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 46% remote | 41 companies | Avg salary: 1.8500014056001773e+55k  
+**Current Stats:** 50 jobs | 48% remote | 42 companies | Avg salary: 1.8500014056001773e+55k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws, ci/cd  
+**Trending Skills:** aws  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
