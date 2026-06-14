@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[VAM Systems]()** | **[DevOps Engineer](https://jobr.pro/job/41189173/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Doha, , Qatar | On Site | Jun 14 |
 | **[Sphinx Defense](https://sphinxdefense.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41183478/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Jun 13 |
 | **[LIGHTFEATHER IO LLC]()** | **[DevOps Engineer](https://jobr.pro/job/41180746/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jun 12 |
 | **[Software Mind](https://softwaremind.com)** | **[\[8PV\] Senior DevOps Engineer](https://jobr.pro/job/41181408/8pv-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San José, San José Province, Costa Rica | Remote | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Miratech](https://miratechgroup.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/41146938/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru,, , India | Remote | Jun 11 |
 | **[SQLI](https://www.sqli.com/ma-fr)** | **[Senior DevOps Engineer](https://jobr.pro/job/41147055/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Diepenbeek, Vlaanderen, Belgium | Remote | Jun 11 |
 | **[Gong.io](https://www.gong.io)** | **[Senior DevOps Engineer](https://jobr.pro/job/41149090/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | On Site | Jun 11 |
-| **[Bosch Group](https://www.bosch.com/)** | **[\[SO\] Senior DevOps Engineer](https://jobr.pro/job/41145644/so-senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 42 companies | Avg salary: 1.8500014056001773e+55k  
+**Current Stats:** 50 jobs | 48% remote | 43 companies | Avg salary: 1.8500014056001773e+55k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws  
