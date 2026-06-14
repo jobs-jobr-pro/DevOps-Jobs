@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NielsenIQ](https://nielseniq.com)** | **[DevOps Engineer (Azure) - 2- 5 years (Must have- Helm, Azure Kubernetes Service, Linux operating system, scripting- python/bash/shell)](https://jobr.pro/job/41190867/devops-engineer-azure-2-5-years-must-have-helm-azure-kubernetes-service-linux-operating-system-scripting-pythonbashshell?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, MH, India | Remote | Jun 14 |
+| **[monday.com](https://monday.com)** | **[DevOps Engineer (New Ventures)](https://jobr.pro/job/41190849/devops-engineer-new-ventures?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | Remote | Jun 14 |
+| **[monday.com](https://monday.com)** | **[DevOps Engineer (BigBrain)](https://jobr.pro/job/41190845/devops-engineer-bigbrain?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | Remote | Jun 14 |
+| **[monday.com](https://monday.com)** | **[DevOps Engineer (CRM)](https://jobr.pro/job/41190843/devops-engineer-crm?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[VAM Systems]()** | **[DevOps Engineer](https://jobr.pro/job/41189173/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Doha, , Qatar | On Site | Jun 14 |
 | **[Sphinx Defense](https://sphinxdefense.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41183478/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Remote | Remote | Jun 13 |
 | **[LIGHTFEATHER IO LLC]()** | **[DevOps Engineer](https://jobr.pro/job/41180746/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jun 12 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ARHS](https://www.arhs-group.com)** | **[DevOps Engineer (m/f)](https://jobr.pro/job/41148699/devops-engineer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Luxembourg, Luxembourg, Luxembourg | On Site | Jun 11 |
 | **[Veeam Software](https://veeam.com)** | **[DevOps Engineer- Securiti.ai](https://jobr.pro/job/41150257/devops-engineer-securitiai?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Islamabad, Pakistan | On Site | Jun 11 |
 | **[Miratech](https://miratechgroup.com/)** | **[Junior DevOps Engineer](https://jobr.pro/job/41146936/junior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru, KA, India | Remote | Jun 11 |
-| **[Miratech](https://miratechgroup.com/)** | **[Junior DevOps Engineer (GCP, Argo CD)](https://jobr.pro/job/41146937/junior-devops-engineer-gcp-argo-cd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, , India | On Site | Jun 11 |
-| **[Miratech](https://miratechgroup.com/)** | **[Senior Devops Engineer](https://jobr.pro/job/41146938/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bengaluru,, , India | Remote | Jun 11 |
-| **[SQLI](https://www.sqli.com/ma-fr)** | **[Senior DevOps Engineer](https://jobr.pro/job/41147055/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Diepenbeek, Vlaanderen, Belgium | Remote | Jun 11 |
-| **[Gong.io](https://www.gong.io)** | **[Senior DevOps Engineer](https://jobr.pro/job/41149090/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel Aviv | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 43 companies | Avg salary: 1.8500014056001773e+55k  
+**Current Stats:** 50 jobs | 52% remote | 43 companies | Avg salary: 1.8500014056001773e+55k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws  
+**Trending Skills:** kubernetes, aws, linux  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
