@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SWARCO](https://swarco.com)** | **[DevOps Engineer / IT Operations & Automation (m/w/d)](https://jobr.pro/job/41233126/devops-engineer-it-operations-automation-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin, BE, Germany | Remote | Jun 17 |
+| **[KPN](https://www.kpn.com)** | **[Meewerkstage DevOps Engineer](https://jobr.pro/job/41233217/meewerkstage-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rotterdam, ZH, Netherlands | On Site | Jun 17 |
 | **[KMS Technology](https://crn.pl)** | **[Senior DevOps Engineer](https://jobr.pro/job/41228598/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Guadalajara, Jal., Mexico | Remote | Jun 17 |
 | **[Qode](http://qode.world)** | **[Senior DevOps Engineer](https://jobr.pro/job/41228751/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ha Noi, Hà Nội, Vietnam | On Site | Jun 17 |
+| **[Captivation Software](https://captivation.us)** | **[DevOps Engineer (On-Call/Hybrid) - Linux/AWS/Docker/Terraform/Ansible/Git](https://jobr.pro/job/41231479/devops-engineer-on-callhybrid-linuxawsdockerterraformansiblegit?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, MD | On Site | Jun 16 |
 | **[Software Mind](https://softwaremind.com)** | **[\[8AI\] DevOps Engineer](https://jobr.pro/job/41221729/8ai-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 16 |
 | **[Software Mind](https://softwaremind.com)** | **[\[VCK\] Senior DevOps Engineer (AWS + AI Infrastructure)](https://jobr.pro/job/41221733/vck-senior-devops-engineer-aws-ai-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Buenos Aires, Buenos Aires, Argentina | Remote | Jun 16 |
 | **[Copyright 2026. Thrive by Lean Technologies](https://leantech.com)** | **[Staff DevOps Engineer](https://jobr.pro/job/41229495/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Egypt | On Site | Jun 16 |
@@ -60,16 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://capco.com)** | **[DevOps Engineer (Sun-Thu work schedule) (She/ He/ They)](https://jobr.pro/job/41196448/devops-engineer-sun-thu-work-schedule-she-he-they?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Poland - Warsaw | On Site | Jun 15 |
 | **[KMS Technology](https://kmstech.co.kr)** | **[Senior DevOps Engineer (AWS, IAM/CloudFormation, English), based in Da Nang](https://jobr.pro/job/41192841/senior-devops-engineer-aws-iamcloudformation-english-based-in-da-nang?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Da Nang City, , Vietnam | Remote | Jun 15 |
 | **[GRADION](https://gradionica.hr)** | **[Senior/ Lead DevOps Engineer](https://jobr.pro/job/41205599/senior-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vietnam | On Site | Jun 15 |
-| **[Huzzle](https://www.huzzle.eu)** | **[Senior DevOps Engineer](https://jobr.pro/job/41200919/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore | Remote | Jun 15 |
-| **[Huzzle](https://www.huzzle.eu)** | **[DevOps Engineer](https://jobr.pro/job/41200915/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Abu Dhabi, Abu Dhabi, United Arab Emirates | On Site | Jun 15 |
-| **[Activate Interactive Pte Ltd](https://www.activate.sg)** | **[DevOps Engineer - A26192](https://jobr.pro/job/41195956/devops-engineer-a26192?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 52% remote | 43 companies | Avg salary: 3.1428648571657143e+35k  
+**Current Stats:** 50 jobs | 52% remote | 44 companies | Avg salary: 3.37500275000675e+41k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** aws  
+**Trending Skills:** docker, aws, terraform, linux  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
