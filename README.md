@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oasis Security](https://oasis.security)** | **[Senior DevOps Engineer](https://jobr.pro/job/41308364/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Tel- Aviv | On Site | Jun 21 |
+| **[Qiddiya Investment Company](http://qiddiya.com)** | **[Associate Director - Digital Infrastructure & DevOps Engineering](https://jobr.pro/job/41309459/associate-director-digital-infrastructure-devops-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Jun 21 |
 | **[Payoneer](https://www.payoneer.com)** | **[DevOps Delivery Engineer](https://jobr.pro/job/41300429/devops-delivery-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurugram, India | On Site | Jun 20 |
 | **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41294313/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bogotá, Bogota D.C., Colombia | Remote | Jun 19 |
 | **[Encora](https://encora.es)** | **[DevOps Engineer Mid](https://jobr.pro/job/41294780/devops-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Lima | On Site | Jun 19 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Renesas Electronics](https://www.renesas.com)** | **[Sr. DevOps Engineer](https://jobr.pro/job/41252383/sr-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bangalore, , India | On Site | Jun 18 |
 | **[Octus](https://octusbridge.io)** | **[Lead DevOps Engineer](https://jobr.pro/job/41250909/lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, New York, United States | On Site | Jun 18 |
 | **[Qode](http://qode.world)** | **[DevOps & Tools Engineer](https://jobr.pro/job/41262644/devops-tools-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Florida, Florida, United States | On Site | Jun 18 |
-| **[Weekday AI](https://www.weekday.works)** | **[Senior Devops Engineer](https://jobr.pro/job/41260039/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Gurugram, Haryana, India | On Site | Jun 18 |
-| **[Sidetrade](https://www.sidetrade.com)** | **[DevOps Engineer](https://jobr.pro/job/41256551/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Calgary, Alberta, Canada | On Site | Jun 18 |
 
 ---
 
