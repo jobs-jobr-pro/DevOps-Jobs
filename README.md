@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BrainRocket](https://brainrocket.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41388824/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Spain | On Site | Jun 25 |
+| **[Devoteam](https://nplatform.devoteam.com)** | **[Cloud & DevOps Engineer](https://jobr.pro/job/41384218/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid, MD, Spain | Remote | Jun 25 |
 | **[IFS](https://ifsp.edu.br)** | **[DevOps Engineer / Senior DevOps Engineer (IGT1)](https://jobr.pro/job/41382235/devops-engineer-senior-devops-engineer-igt1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 25 |
+| **[Heidi AI](https://www.heidihealth.com)** | **[Senior DevOps Engineer - Azure](https://jobr.pro/job/41386407/senior-devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney | Remote | Jun 25 |
+| **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[DevOps Engineer](https://jobr.pro/job/41384356/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jun 24 |
 | **[CoreWeave](https://www.coreweave.com)** | **[Staff DevOps Engineer (Cloud & On Prem)](https://jobr.pro/job/41373041/staff-devops-engineer-cloud-on-prem?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Livingston, NJ / New York, NY / San Fransisco, CA / Sunnyvale, CA / Bellevue, WA | On Site | Jun 24 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Sr. Video Streaming DevOps Engineer](https://jobr.pro/job/41369971/sr-video-streaming-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, NEW YORK, United States | Remote | Jun 24 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff DevOps Engineer](https://jobr.pro/job/41367898/staff-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Deerfield, ILLINOIS, United States | On Site | Jun 24 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accesa](https://accesa.eu)** | **[DevOps Engineer with German](https://jobr.pro/job/41334013/devops-engineer-with-german?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Employees work remotely, RO, Romania | Remote | Jun 23 |
 | **[IFS](https://www.ifsdelivers.com)** | **[DevOps Engineer](https://jobr.pro/job/41331966/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Pune, Maharashtra, India | Remote | Jun 23 |
 | **[Future Secure AI](https://www.futuresecure.ai)** | **[Platform DevOps Engineer](https://jobr.pro/job/41333539/platform-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney, Melbourne, Brisbane | On Site | Jun 23 |
-| **[Questronix Corporation](https://questronix.com.ph)** | **[DevOps Engineer](https://jobr.pro/job/41355745/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Makati City, Metro Manila, Philippines | On Site | Jun 23 |
-| **[Intetics](https://intetics.com)** | **[1093\| Lead DevOps Engineer](https://jobr.pro/job/41350148/1093-lead-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Romania | Remote | Jun 23 |
-| **[Faro Health Inc.](https://farohealth.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41348754/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | California, United States | Remote | Jun 23 |
-| **[InterImage](https://www.iimage.com)** | **[DevOps Engineer](https://jobr.pro/job/41344925/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Annapolis Junction, Maryland, United States | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 46% remote | 38 companies | Avg salary: 3.928573357144286e+37k  
+**Current Stats:** 50 jobs | 46% remote | 38 companies | Avg salary: 5.5000027000020005e+25k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, aws  
