@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -14,12 +14,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Rocket Lab Corporation](https://finance.yahoo.com)** | **[DevOps Engineer II/ Senior](https://jobr.pro/job/41406917/devops-engineer-ii-senior?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Long Beach, CA | On Site | Jun 25 |
+| **[Upstart](https://careers.upstart.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41413744/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | United States \| Remote | Remote | Jun 25 |
 | **[Mirantis](https://mirantis.com)** | **[Senior Kubernetes DevOps Engineer - K0rdent AI Apps/Core Services](https://jobr.pro/job/41397308/senior-kubernetes-devops-engineer-k0rdent-ai-appscore-services?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | San Jose, CA, United States | Remote | Jun 25 |
 | **[BEW Berliner Energie und Wärme GmbH](https://www.bew.berlin)** | **[(Senior) Cloud Engineer (m/w/d) - Schwerpunkt Azure DevOps & Automatisierung](https://jobr.pro/job/41393390/senior-cloud-engineer-mwd-schwerpunkt-azure-devops-automatisierung?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Berlin, BE, Germany | Remote | Jun 25 |
 | **[BrainRocket](https://brainrocket.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41388824/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Spain | On Site | Jun 25 |
 | **[Devoteam](https://nplatform.devoteam.com)** | **[Cloud & DevOps Engineer](https://jobr.pro/job/41384218/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Madrid, MD, Spain | Remote | Jun 25 |
 | **[IFS](https://ifsp.edu.br)** | **[DevOps Engineer / Senior DevOps Engineer (IGT1)](https://jobr.pro/job/41382235/devops-engineer-senior-devops-engineer-igt1?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colombo, Western Province, Sri Lanka | On Site | Jun 25 |
 | **[Heidi AI](https://www.heidihealth.com)** | **[Senior DevOps Engineer - Azure](https://jobr.pro/job/41386407/senior-devops-engineer-azure?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Sydney | Remote | Jun 25 |
+| **[Oredata Yazılım Anonim Şirketi](https://oredata.com)** | **[Devops Engineer](https://jobr.pro/job/41414641/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Istanbul, İstanbul, Turkey | On Site | Jun 25 |
 | **[Kleva](https://www.kleva.co)** | **[Cloud DevOps Engineer](https://jobr.pro/job/41404545/cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Mexico City, Mexico City, Mexico | Remote | Jun 25 |
 | **[Qode](http://qode.world)** | **[DevOps Engineer with Java](https://jobr.pro/job/41398345/devops-engineer-with-java?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New Jersey, New Jersey, United States | On Site | Jun 25 |
 | **[novoville](http://novoville.com)** | **[DevOps & Cloud Infrastructure Engineer](https://jobr.pro/job/41396100/devops-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | Jun 25 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Playtech](https://www.playtechpeople.com)** | **[DevOps Engineer](https://jobr.pro/job/41342388/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Kyiv, , Ukraine | Remote | Jun 23 |
 | **[Miratech](https://miratechgroup.com)** | **[AWS DevOps Engineer](https://jobr.pro/job/41341090/aws-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | All Cities, , India | Remote | Jun 23 |
 | **[N-iX](https://nixstech.com)** | **[Senior DevOps Engineer (AWS/Kubernetes)](https://jobr.pro/job/41347602/senior-devops-engineer-awskubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ukraine | On Site | Jun 23 |
-| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior DevOps Engineer - REF5368H](https://jobr.pro/job/41338694/senior-devops-engineer-ref5368h?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Debrecen, Pécs, Szeged, Budapest, , Hungary | Remote | Jun 23 |
-| **[Netcompany](https://netcompany.com)** | **[Senior DevOps Engineer (Python)](https://jobr.pro/job/41338417/senior-devops-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Leeds, England, United Kingdom | On Site | Jun 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 40 companies | Avg salary: 2.8333379166689168e+31k  
+**Current Stats:** 50 jobs | 42% remote | 42 companies | Avg salary: 2.428574727146786e+37k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, aws  
