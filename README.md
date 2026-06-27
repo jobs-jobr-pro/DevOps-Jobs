@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Apex.AI](https://www.apex.ai)** | **[Senior DevOps Engineer](https://jobr.pro/job/41450735/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Munich | On Site | Jun 27 |
 | **[Zafran Security](https://www.zafran.io)** | **[Senior DevOps Engineer, Security & Compliance](https://jobr.pro/job/41442563/senior-devops-engineer-security-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US Remote | Remote | Jun 26 |
 | **[Verifone](https://verifone.com)** | **[Senior Cloud Devops Engineer](https://jobr.pro/job/41440617/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Atlanta, Georgia, United States | On Site | Jun 26 |
 | **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41431557/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cali, Valle del Cauca, Colombia | Remote | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Senior DevOps Engineer - REF5621T](https://jobr.pro/job/41366321/senior-devops-engineer-ref5621t?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Budapest, Pécs, Debrecen, Szeged, , Hungary | Remote | Jun 24 |
 | **[Netcompany](https://netcompany.com)** | **[DevOps Engineer (Python)](https://jobr.pro/job/41367411/devops-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, England, United Kingdom | On Site | Jun 24 |
 | **[Exadel](https://exadel.com)** | **[Senior Site Reliability Engineer (DevOps, Java)](https://jobr.pro/job/41371476/senior-site-reliability-engineer-devops-java?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bulgaria, Georgia, Lithuania, Poland, Romania, Uzbekistan | On Site | Jun 24 |
-| **[Exadel](https://exadel.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41371471/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bulgaria, Georgia, Lithuania, Poland, Romania, Uzbekistan | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 45 companies | Avg salary: 1.5000016111125558e+48k  
+**Current Stats:** 50 jobs | 38% remote | 46 companies | Avg salary: 1.5000016111125558e+48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, aws, ci/cd  
