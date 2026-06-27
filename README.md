@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zafran Security](https://www.zafran.io)** | **[Senior DevOps Engineer, Security & Compliance](https://jobr.pro/job/41442563/senior-devops-engineer-security-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | US Remote | Remote | Jun 26 |
+| **[Verifone](https://verifone.com)** | **[Senior Cloud Devops Engineer](https://jobr.pro/job/41440617/senior-cloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Atlanta, Georgia, United States | On Site | Jun 26 |
 | **[Endava](https://www.endava.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41431557/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Cali, Valle del Cauca, Colombia | Remote | Jun 26 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Sr. Video Streaming DevOps Engineer](https://jobr.pro/job/41431563/sr-video-streaming-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New York, NEW YORK, United States | Remote | Jun 26 |
+| **[Parallel](https://www.beparallel.com)** | **[Senior SRE / DevOps Engineer](https://jobr.pro/job/41441959/senior-sre-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Paris | On Site | Jun 26 |
 | **[Resilient Co](https://resilientco.net)** | **[DevOps Engineer](https://jobr.pro/job/41428999/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Argentina | Remote | Jun 26 |
 | **[Trace3](https://trace3.com)** | **[DevOps Cloud Engineer (26-204)](https://jobr.pro/job/41428711/devops-cloud-engineer-26-204?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Colorado Springs, CO | On Site | Jun 26 |
 | **[BCC Software](https://bccsoftware.com)** | **[DevOps Engineer](https://jobr.pro/job/41428447/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Rochester, NY, United States | Remote | Jun 26 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Netcompany](https://netcompany.com)** | **[DevOps Engineer (Python)](https://jobr.pro/job/41367411/devops-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | London, England, United Kingdom | On Site | Jun 24 |
 | **[Exadel](https://exadel.com)** | **[Senior Site Reliability Engineer (DevOps, Java)](https://jobr.pro/job/41371476/senior-site-reliability-engineer-devops-java?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bulgaria, Georgia, Lithuania, Poland, Romania, Uzbekistan | On Site | Jun 24 |
 | **[Exadel](https://exadel.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41371471/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Bulgaria, Georgia, Lithuania, Poland, Romania, Uzbekistan | On Site | Jun 24 |
-| **[Zartisa Rejuvenating Salon](https://www.zartis.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41365743/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | EMEA and LATAM | On Site | Jun 24 |
-| **[N-iX](https://nixstech.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41364577/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Ukraine | On Site | Jun 24 |
-| **[Paymentology](https://www.paymentology.com)** | **[DevOps Engineer](https://jobr.pro/job/41365388/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Vietnam | Remote | Jun 24 |
 
 ---
 
