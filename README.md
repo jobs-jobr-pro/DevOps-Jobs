@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vector Limited](https://www.vector.co.nz)** | **[Intermediate DevOps Engineer](https://jobr.pro/job/41462443/intermediate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Auckland, Auckland, New Zealand | Remote | Jun 28 |
 | **[CI&T](https://www.citi.com)** | **[Senior DevOps Engineer (Platform Engineering \| Azure \| Kubernetes \| CI/CD)](https://jobr.pro/job/41459637/senior-devops-engineer-platform-engineering-azure-kubernetes-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Quezon City, Metro Manila | On Site | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[DevOps Engineer - CI/CD & Monitoring (Remote, China)](https://jobr.pro/job/41454760/devops-engineer-cicd-monitoring-remote-china?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | China | Remote | Jun 27 |
 | **[BJAK](https://bjak.my)** | **[DevOps Engineer - Platform Reliability (Remote, China)](https://jobr.pro/job/41454762/devops-engineer-platform-reliability-remote-china?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | China | Remote | Jun 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[novoville](http://novoville.com)** | **[DevOps & Cloud Infrastructure Engineer](https://jobr.pro/job/41396100/devops-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | Jun 25 |
 | **[Mirai Arabian International Company Limited](https://www.playmirai.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41392546/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Jun 25 |
 | **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[DevOps Engineer](https://jobr.pro/job/41384356/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jun 24 |
-| **[CoreWeave](https://www.coreweave.com)** | **[Staff DevOps Engineer (Cloud & On Prem)](https://jobr.pro/job/41373041/staff-devops-engineer-cloud-on-prem?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Livingston, NJ / New York, NY / San Fransisco, CA / Sunnyvale, CA / Bellevue, WA | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 44 companies | Avg salary: 1.5000016111125558e+48k  
+**Current Stats:** 50 jobs | 44% remote | 44 companies | Avg salary: 1.6875018125016248e+42k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, aws, ci/cd, monitoring  
