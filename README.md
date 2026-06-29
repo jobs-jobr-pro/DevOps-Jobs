@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Devops Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Devops Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[FINN](https://finn.no)** | **[Senior Platform Engineer (DevOps)](https://jobr.pro/job/41462663/senior-platform-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Singapore | On Site | Jun 28 |
 | **[Vector Limited](https://www.vector.co.nz)** | **[Intermediate DevOps Engineer](https://jobr.pro/job/41462443/intermediate-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Auckland, Auckland, New Zealand | Remote | Jun 28 |
 | **[CI&T](https://www.citi.com)** | **[Senior DevOps Engineer (Platform Engineering \| Azure \| Kubernetes \| CI/CD)](https://jobr.pro/job/41459637/senior-devops-engineer-platform-engineering-azure-kubernetes-cicd?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Quezon City, Metro Manila | On Site | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[DevOps Engineer - CI/CD & Monitoring (Remote, China)](https://jobr.pro/job/41454760/devops-engineer-cicd-monitoring-remote-china?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | China | Remote | Jun 27 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qode](http://qode.world)** | **[DevOps Engineer with Java](https://jobr.pro/job/41398345/devops-engineer-with-java?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | New Jersey, New Jersey, United States | On Site | Jun 25 |
 | **[novoville](http://novoville.com)** | **[DevOps & Cloud Infrastructure Engineer](https://jobr.pro/job/41396100/devops-cloud-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Athens, Attica, Greece | On Site | Jun 25 |
 | **[Mirai Arabian International Company Limited](https://www.playmirai.com)** | **[Senior DevOps Engineer](https://jobr.pro/job/41392546/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Jun 25 |
-| **[LIGHTFEATHER IO LLC](https://www.lightfeather.io)** | **[DevOps Engineer](https://jobr.pro/job/41384356/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-devops-jobs)** | Washington, DC | On Site | Jun 24 |
 
 ---
 
